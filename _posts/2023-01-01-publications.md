@@ -12,9 +12,9 @@ toc: true
 ### International
 **Changyu Lee** et al., "Safety-Guaranteed ~," In prep., 2023
 
-**Changyu Lee** et al., "Model Predictive Anti-spin Thruster Control for Electric Ship Propulsion in Wave," under revision, 2022
+**Changyu Lee** et al., "Model Predictive Anti-spin Thruster Control for Electric Ship Propulsion in Wave," Major revision, 2022
 
-**Changyu Lee** et al., "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment," under revision, 2022 
+**Changyu Lee** et al., "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment," Major revision, 2022 
 
 Junwoo Jang, Changyu Lee, and Jinwhan Kim*, "Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking", IEEE Sensors Letters, Vol. 6, No. 5, 2022.
 
