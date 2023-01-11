@@ -1,11 +1,10 @@
 ---
-title: "Publications"
-date: 2023-01-10
+layout: single
+title:  "Publications"
+last_modified_at: 2021-02-19T08:05:34-05:00
 permalink: /publication/
 author_profile: true
-layout: single
 ---
-
 ##### *<- visit my google scholar*
 
 
