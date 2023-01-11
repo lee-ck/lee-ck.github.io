@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
- <- visit my google scholar
+&larr; visit my google scholar
 
 ## Journal
 ### International
