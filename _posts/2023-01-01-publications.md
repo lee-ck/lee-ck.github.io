@@ -10,26 +10,26 @@ toc: true
 
 #### Journal
 ##### International
-Changyu Lee et al., "Safety-Guaranteed ~," In prep., 2023
+**Changyu Lee** et al., "Safety-Guaranteed ~," In prep., 2023
 
-Changyu Lee et al., "Model Predictive Anti-spin Thruster Control for Electric Ship Propulsion in Wave," under revision, 2022
+**Changyu Lee** et al., "Model Predictive Anti-spin Thruster Control for Electric Ship Propulsion in Wave," under revision, 2022
 
-Changyu Lee et al., "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment," under revision, 2022 
+**Changyu Lee** et al., "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment," under revision, 2022 
 
 Junwoo Jang, Changyu Lee, and Jinwhan Kim*, "Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking", IEEE Sensors Letters, Vol. 6, No. 5, 2022.
 
 
 ##### Domestic
-이찬규, 장준우, 김진환*, "확률 모델예측제어 알고리즘을 이용한 작동기 수가 부족한 무인잠수정 운동 제어", 제어로봇시스템학회지, Vol. 26(5), pp. 373-378, May. 2020.
+**이찬규**, 장준우, 김진환*, "확률 모델예측제어 알고리즘을 이용한 작동기 수가 부족한 무인잠수정 운동 제어", 제어로봇시스템학회지, Vol. 26(5), pp. 373-378, May. 2020.
 
 
 #### Conference
 ##### International
-Changyu Lee, Quoc Van Tran and Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles", 14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Copenhagen, Denmark, Sep. 2022.
+**Changyu Lee**, Quoc Van Tran and Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles", 14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Copenhagen, Denmark, Sep. 2022.
 
-Changyu Lee and Jinwhan Kim*, "Energy Efficient Control for Electric Ship Propulsion Considering Thrust Fluctuation in Regular Waves", 13th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Oldenburg, Germany, Sep. 2021.
+**Changyu Lee** and Jinwhan Kim*, "Energy Efficient Control for Electric Ship Propulsion Considering Thrust Fluctuation in Regular Waves", 13th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Oldenburg, Germany, Sep. 2021.
 
-Changyu Lee, Jinwhan Kim*, "Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking", 2019 16th International Conference on Ubiquitous Robots (UR), Jeju, Korea, Jun, 2019.
+**Changyu Lee**, Jinwhan Kim*, "Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking", 2019 16th International Conference on Ubiquitous Robots (UR), Jeju, Korea, Jun, 2019.
 
 
 ##### Domestic
