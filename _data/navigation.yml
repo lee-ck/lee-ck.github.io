@@ -1,9 +1,9 @@
 # main links
 main:
   - title: About Me
-    url: /about/
+    url: https://lee-ck.github.io/about/
   - title: "Publications"
-    url: /publication/
+    url: https://lee-ck.github.io/publication/
   - title: "Posts"
     url: /year-archive/
   - title: "Tag"
