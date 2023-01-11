@@ -16,7 +16,7 @@ toc: true
 
 **Changyu Lee** et al., "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment," Major revision, 2022 
 
-Junwoo Jang, Changyu Lee, and Jinwhan Kim*, "Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking", IEEE Sensors Letters, Vol. 6, No. 5, 2022.
+Junwoo Jang, **Changyu Lee**, and Jinwhan Kim*, "Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking", IEEE Sensors Letters, Vol. 6, No. 5, 2022.
 
 
 ### Domestic
