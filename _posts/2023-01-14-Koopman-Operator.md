@@ -74,6 +74,10 @@ $$
 
 where $K\in \mathbb{C}^{N\times N}$ and w is an error.
 
+{: .notice--info}
+제어기 설계할 때 근사화 오차를 고려할 필요가 있음 (Robust Control).
+
+
 $$
 \text{Cost function} : J = \sum^{P-1}_{p=1} || \Psi(x_{p+1}) - K\Psi(x_{p}) ||^2
 $$
@@ -82,18 +86,23 @@ $$
 P : 데이터 개수
 
 $J$를 최소화 하는 $K$ 찾아야함 (by Least-square, NN 등등)
-```
-NN를 사용하는 경우, user-defined vector-valued function을 네트워크로 찾을 수 있음.
-```
 
-
-Least-square를 사용하는 경우에 다음의 방식으로 간단히 계싼가능.
+Least-square를 사용하는 경우에 다음의 방식으로 간단히 계산가능.
 
 $$
 K = G^\dagger A,\\
-G = ,\\
-A = \frac{1}{P} 
+G = \frac{1}{P} \sum^{P-1}_{p=1} \Psi(x_p)^\top\Psi(x_p) ,\\
+A = \frac{1}{P} \sum^{P-1}_{p=1} \Psi(x_p)^\top\Psi(x_{p+1}),
 $$
+
+$\Psi$의 차원이 커질수록 계산이 어려움. 하지만 차원이 커야 Koopman operator를 이용한 모델링 성능이 좋아짐. &rarr; 차원이 높은, 복잡한 시스템에 적용하기에는 문제가 있음.
+
+```
+NN를 사용하는 경우, user-defined vector-valued function을 네트워크로 찾을 수 있고 복잡한 최적화 문제를 해결가능. 
+```
+{: .notice--info}
+Koopman modeling 사용해서 제어기 설계하는 연구를 하는 경우에는 굳이 NN를 쓸 필요는 없어보임. 
+
 
 <!-- ``` 
 search: false
