@@ -12,7 +12,7 @@ toc: true
 
 Koopman Operator는 비선형 시스템을 (by evolving functions of the state "as known as observable function") 무한 차원의 선형 시스템으로 표현해주는 Operator.
 
-![title](/fig/koopman_concept.png){: width="350" height="350"}{: .align-center}
+![title](/fig/koopman_concept.png){: width="600"}{: .align-center}
 
 $$
 \begin{bmatrix}
