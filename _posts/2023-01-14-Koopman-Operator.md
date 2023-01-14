@@ -21,7 +21,7 @@ How to approximate
 - <mark>No prior information</mark>
 - DMD, EDMD, NN 등의 방법들이 사용됨
 
-## Mathematical Formulation
+## Basic Mathematical Formulation
 
 Discrete-time 시스템:
 
@@ -48,6 +48,20 @@ $$
 $$
 Koopman operator 를 이용하여 $y$ 를 propagate 하는 것과 propagate한 $x$를 $y$로 lift 한것이 같음.
 
+## Approximating a Koopman Operator
+Let user-defined vector-valued function $\Psi(x)$ as follwos:
+$$
+\Psi(x) = [\psi_1 (x), \psi_2 (x), \ldots, \psi_N (x)].
+$$
+이 함수들로 다음과 같이 $y_k = g(x_k)$를 다시 표현할 수 있음
+$$
+y_k = \Psi(x_k)
+$$
+그러면 Koopman operator는 다음의 관계를 가짐
+$$
+\Psi(x_{k+1}) = K\Psi(x_k) + w
+$$
+where $K\in \mathbb{C}^{N\times N}$ and w is an error.
 
 ```
 dfdfd
