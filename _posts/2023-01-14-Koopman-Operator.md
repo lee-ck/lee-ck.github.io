@@ -104,7 +104,7 @@ DNN를 사용하는 경우, user-defined vector-valued function을 네트워크�
 
 
 {: .notice--info}
-Koopman modeling 사용해서 제어기 설계하는 연구를 하는 경우에는 굳이 NN를 쓸 필요는 없어보임. 
+Koopman modeling 사용해서 제어기 설계하는 연구를 하는 경우에는 굳이 NN를 쓸 필요는 없어보임. 물론 실제 application에 적용할때는 유용할듯.
 
 
 <!-- ``` 
@@ -157,6 +157,7 @@ algolia:
 ![title](/fig/KMPC.png)
 ![title](/fig/KMPC_Compare.png)
 
+Linear MPC와 비슷한 연산량으로 NMPC와 비슷한 performance를 보여줌.
 
 
 ## References
