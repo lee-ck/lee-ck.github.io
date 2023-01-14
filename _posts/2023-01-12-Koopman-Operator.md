@@ -157,8 +157,8 @@ Linear MPC와 비슷한 연산량으로 NMPC와 비슷한 performance를 보여�
 
 
 ## References
-[1] Ian Abraham et al., "[Model-Based Control Using Koopman Operators](https://arxiv.org/pdf/1709.01568.pdf)", RSS 2017
+[1] Ian Abraham et al., "[Model-Based Control Using Koopman Operators](https://arxiv.org/pdf/1709.01568.pdf)", RSS 2017 (citation 90 &uarr;)
 
-[2] Ian Abraham et al., "[Active Learning of Dynamics for Data-Driven Control Using Koopman Operators](https://ieeexplore.ieee.org/abstract/document/8759089)", IEEE Transactions on Robotics 2019
+[2] Ian Abraham et al., "[Active Learning of Dynamics for Data-Driven Control Using Koopman Operators](https://ieeexplore.ieee.org/abstract/document/8759089)", IEEE Transactions on Robotics 2019 (citation 90 &uarr;)
 
-[3] Brunton, Steven L., et al. "[Koopman invariant subspaces and finite linear representations of nonlinear dynamical systems for control](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150171)", PloS one 2016
+[3] Brunton, Steven L., et al. "[Koopman invariant subspaces and finite linear representations of nonlinear dynamical systems for control](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150171)", PloS one 2016 (citation 380 &uarr;)
