@@ -48,7 +48,8 @@ $$
 $$
 '''
 Koopman operator 를 이용하여 $y$ 를 propagate 하는 것과 propagate한 $x$를 $y$로 lift 한것이 같음.
-'''
+
+
 
 <!-- ``` 
 search: false
