@@ -10,7 +10,7 @@ toc: true
 
 # Journal
 ## International
-(1st - 5 papers, 2nd - 5 papers)
+<!-- (1st - 5 papers, 2nd - 5 papers) -->
 
 <!-- ***Changyu Lee*** et al., "Deep Koopman Operator ~," In prep. (5/100), 2023 -->
 
