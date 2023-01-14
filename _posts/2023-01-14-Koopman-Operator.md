@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "Koopman Operator"
-last_modified_at: 2023-01-14T00:00:00-00:00
 tags: [Koopman Operator, All]
 comments: true
 author_profile: false
@@ -9,13 +8,8 @@ toc: true
 ---
 
 
-# Test header
+# Koopman Operator
 ## Test header
-### Test header
-#### Test header
-##### Test header
-###### Test eq
-
 
 $$
 \begin{bmatrix}
@@ -29,11 +23,26 @@ z_2
                   z_1  
                   \end{bmatrix}
 $$
-This post should not appear in the search index because it has the following YAML Front Matter:
 
-```yaml
+This post should not appear in the search index because it has the following YAML Front Matter:
+<div class="alert-info">
+This is a blue colored box
+</div>
+
+``` 
 search: false
-\overline{bel}(x_t) = \int_{x_{t-1}}p(x_t \mid x_{t-1}, u_{t}) bel(x_{t-1}) dx_{t-1}
+$$
+\begin{bmatrix}
+x_2\\
+y_2\\
+z_2  
+\end{bmatrix}
+= R \begin{bmatrix}
+                  x_1\\
+                  y_1\\
+                  z_1  
+                  \end{bmatrix}
+$$
 ```
 
 **Note:** `search: false` only works to exclude posts when using **Lunr** as a search provider. \overline{bel}(x_t) = \int_{x_{t-1}}p(x_t \mid x_{t-1}, u_{t}) bel(x_{t-1}) dx_{t-1}
