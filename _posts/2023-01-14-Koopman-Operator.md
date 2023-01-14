@@ -1,29 +1,14 @@
 ---
 layout: single
-title:  "NMPC"
-last_modified_at: 2023-01-01T00:00:00-00:00
-tags: [NMPC, MPC, All]
+title:  "Koopman Operator"
+last_modified_at: 2023-01-14T00:00:00-00:00
+tags: [Koopman Operator, All]
 comments: true
 author_profile: false
 toc: true
 ---
 
 
-
-### Github links
-
-[Vehicle example](https://github.com/lee-ck/Model-Predictive-Control)
-![title](/fig/result_gif.gif){: width="350" height="350"}{: .align-center}
-
-
-[Pendulum example](https://github.com/lee-ck/Inverted-pendulum-on-a-cart-control---MPC-LQR-PID)
-![title](/fig/MPC_Invert.gif){: width="400" height="400"}{: .align-center}
-
-Algorithms: SQP, Active set, Interior point
-Softwares: ACADO, ACADOs, IPOPT, etc...
-
-
-<!-- 
 # Test header
 ## Test header
 ### Test header
@@ -70,4 +55,4 @@ algolia:
     - excluded-file.html
     - _posts/2017-11-28-post-exclude-search.md
     - subdirectory/*.html
-``` -->
+```
