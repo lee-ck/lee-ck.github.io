@@ -51,7 +51,7 @@ $$
 $$
 
 {: .notice--info}
-Koopman operator 를 이용하여 $y$ 를 propagate 하는 것과 propagate한 $x$를 $y$로 lift 한것이 같음.
+&rarr; Koopman operator 를 이용하여 $y$ 를 propagate 하는 것과 propagate한 $x$를 $y$로 lift 한것이 같음.
 
 ## Approximating a Koopman Operator
 Let user-defined vector-valued function $\Psi(x)$ as follwos:
@@ -71,14 +71,29 @@ $$
 $$
 \Psi(x_{k+1}) = K\Psi(x_k) + w
 $$
+
 where $K\in \mathbb{C}^{N\times N}$ and w is an error.
 
 $$
-\text{Cost function} : J = \sum^P_{p=1} || \Psi(x_{p+1}) - K\Psi(x_{p}) ||^2
+\text{Cost function} : J = \sum^{P-1}_{p=1} || \Psi(x_{p+1}) - K\Psi(x_{p}) ||^2
 $$
+
 
 P : 데이터 개수
 
+$J$를 최소화 하는 $K$ 찾아야함 (by Least-square, NN 등등)
+```
+NN를 사용하는 경우, user-defined vector-valued function을 네트워크로 찾을 수 있음.
+```
+
+
+Least-square를 사용하는 경우에 다음의 방식으로 간단히 계싼가능.
+
+$$
+K = G^\dagger A,\\
+G = ,\\
+A = \frac{1}{P} 
+$$
 
 <!-- ``` 
 search: false
