@@ -9,11 +9,17 @@ toc: true
 
 
 ## What is Koopman Operator ?
-{: .notice--info}
 
 Koopman Operator는 비선형 시스템을 (by evolving functions of the state "as known as observable function") 무한 차원의 선형 시스템으로 표현해주는 Operator.
 
+(In application) 무한 차원으로 표현하는 것은 어렵기 때문에 유한한 차원의 선형 시스템으로 근사화하여 표현함.
+
 ![title](/fig/koopman_concept.png){: width="600"}{: .align-center}
+
+
+
+{: .notice--info}
+
 
 $$
 \begin{bmatrix}
