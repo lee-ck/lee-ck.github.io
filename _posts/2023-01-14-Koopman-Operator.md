@@ -145,6 +145,19 @@ algolia:
 ``` -->
 
 
+## Analytic Example (Optimal Control with Koopman Model)
+해석가능한 example에 optimal control 적용.
+- Lift state space
+- Design optimal controller in lifted space
+- Retract control input to get nonlinear controller
+
+
+![title](/fig/Koopman_Control.png){: width="600"}{: .align-center}
+![title](/fig/KLQR.png){: width="600"}{: .align-center}
+![title](/fig/KMPC.png){: width="600"}{: .align-center}
+![title](/fig/KMPC_Compare.png){: width="600"}{: .align-center}
+
+
 
 ## References
 [1] Ian Abraham et al., "[Model-Based Control Using Koopman Operators](https://arxiv.org/pdf/1709.01568.pdf)", RSS 2017
