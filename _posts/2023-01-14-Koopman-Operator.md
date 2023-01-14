@@ -30,7 +30,7 @@ x_{k+1} = f(x_k)
 $$
 where $x_k \in \mathbb{R}^x$.
 
-Let observation function : $g(x) \in \mathbb{G} : \mathbb{R}^x \rightarrow \mathbb{R}^y$.
+Let ^^observation^^ function : $g(x) \in \mathbb{G} : \mathbb{R}^x \rightarrow \mathbb{R}^y$.
 
 $$
 y_k = g(x_k)
