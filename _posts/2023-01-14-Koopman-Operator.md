@@ -152,7 +152,7 @@ algolia:
 - Retract control input to get nonlinear controller
 
 
-![title](/fig/Koopman_Control.png){: width="600"}{: .align-center}
+![title](/fig/Koopman_Control.png){: width="300"}{: .align-center}
 ![title](/fig/KLQR.png){: width="600"}{: .align-center}
 ![title](/fig/KMPC.png){: width="600"}{: .align-center}
 ![title](/fig/KMPC_Compare.png){: width="600"}{: .align-center}
@@ -163,3 +163,5 @@ algolia:
 [1] Ian Abraham et al., "[Model-Based Control Using Koopman Operators](https://arxiv.org/pdf/1709.01568.pdf)", RSS 2017
 
 [2] Ian Abraham et al., "[Active Learning of Dynamics for Data-Driven Control Using Koopman Operators](https://ieeexplore.ieee.org/abstract/document/8759089)", TRO 2019
+
+[3] Brunton, Steven L., et al. "[Koopman invariant subspaces and finite linear representations of nonlinear dynamical systems for control](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150171)", PloS one 2016
