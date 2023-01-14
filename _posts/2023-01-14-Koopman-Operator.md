@@ -18,7 +18,7 @@ Koopman Operator는 비선형 시스템을 (by evolving functions of the state "
 
 How to approximate
 - Data-driven
-- No prior information
+- <mark>No prior information</mark>
 - DMD, EDMD, NN 등의 방법들이 사용됨
 
 ## Mathematical Formulation
@@ -30,7 +30,7 @@ x_{k+1} = f(x_k)
 $$
 where $x_k \in \mathbb{R}^x$.
 
-Let <mark>observation</mark> ==function==: $g(x) \in \mathbb{G} : \mathbb{R}^x \rightarrow \mathbb{R}^y$.
+Let observation function: $g(x) \in \mathbb{G} : \mathbb{R}^x \rightarrow \mathbb{R}^y$.
 
 $$
 y_k = g(x_k)
@@ -91,6 +91,6 @@ algolia:
 
 
 ## References
-[1] Ian Abraham et al., "Model-Based Control Using Koopman Operators", RSS [2017](https://arxiv.org/pdf/1709.01568.pdf)
+[1] Ian Abraham et al., "[Model-Based Control Using Koopman Operators](https://arxiv.org/pdf/1709.01568.pdf)", RSS 2017
 
-[2] Ian Abraham et al., "Active Learning of Dynamics for Data-Driven Control Using Koopman Operators", TRO [2019](https://ieeexplore.ieee.org/abstract/document/8759089)
+[2] Ian Abraham et al., "[Active Learning of Dynamics for Data-Driven Control Using Koopman Operators](https://ieeexplore.ieee.org/abstract/document/8759089)", TRO 2019
