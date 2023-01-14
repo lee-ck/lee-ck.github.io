@@ -153,9 +153,9 @@ algolia:
 
 
 ![title](/fig/Koopman_Control.png){: width="300"}{: .align-center}
-![title](/fig/KLQR.png){: width="600"}{: .align-center}
-![title](/fig/KMPC.png){: width="600"}{: .align-center}
-![title](/fig/KMPC_Compare.png){: width="600"}{: .align-center}
+![title](/fig/KLQR.png)
+![title](/fig/KMPC.png)
+![title](/fig/KMPC_Compare.png)
 
 
 
