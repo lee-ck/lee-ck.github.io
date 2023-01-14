@@ -9,6 +9,7 @@ toc: true
 
 
 ## What is Koopman Operator ?
+{: .notice--info}
 
 Koopman Operator는 비선형 시스템을 (by evolving functions of the state "as known as observable function") 무한 차원의 선형 시스템으로 표현해주는 Operator.
 
@@ -27,10 +28,7 @@ z_2
                   \end{bmatrix}
 $$
 
-This post should not appear in the search index because it has the following YAML Front Matter:
-<div class="alert-info">
-This is a blue colored box
-</div>
+
 
 ``` 
 search: false
