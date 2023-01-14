@@ -56,3 +56,10 @@ algolia:
     - _posts/2017-11-28-post-exclude-search.md
     - subdirectory/*.html
 ```
+
+
+
+## References
+[1] Ian Abraham et al., "Model-Based Control Using Koopman Operators", RSS [2017](https://arxiv.org/pdf/1709.01568.pdf)
+
+[2] Ian Abraham et al., "Active Learning of Dynamics for Data-Driven Control Using Koopman Operators", TRO [2019](https://ieeexplore.ieee.org/abstract/document/8759089)
