@@ -95,7 +95,9 @@ G = \frac{1}{P} \sum^{P-1}_{p=1} \Psi(x_p)^\top\Psi(x_p) ,\\
 A = \frac{1}{P} \sum^{P-1}_{p=1} \Psi(x_p)^\top\Psi(x_{p+1}),
 $$
 
-$\Psi$의 차원이 커질수록 계산이 어려움. 하지만 차원이 커야 Koopman operator를 이용한 모델링 성능이 좋아짐. &rarr; 차원이 높은, 복잡한 시스템에 적용하기에는 문제가 있음.
+$\Psi$의 차원이 커질수록 계산이 어려움. 하지만 차원이 커야 Koopman operator를 이용한 모델링 성능이 좋아짐. 
+
+&rarr; 차원이 높은, 복잡한 시스템에 적용하기에는 문제가 있음.
 
 {: .notice--info}
 DNN를 사용하는 경우, user-defined vector-valued function을 네트워크로 찾을 수 있고 복잡한 최적화 문제를 해결가능. 
