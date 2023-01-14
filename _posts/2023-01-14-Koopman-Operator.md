@@ -45,12 +45,10 @@ $$
   \mathcal{K}g (x) = g(f(x))
 $$
 
-{: .notice--info}
 $$
   \mathcal{K}g (x_k) = g(f(x_k)) = g(x_{k+1})
 $$
 
-{: .notice--info}
 &rarr; Koopman operator 를 이용하여 $y$ 를 propagate 하는 것과 propagate한 $x$를 $y$로 lift 한것이 같음.
 
 ## Approximating a Koopman Operator
@@ -85,7 +83,7 @@ $$
 
 $P$ : 데이터 개수
 
-$J$를 최소화 하는 $K$ 찾아야함 (by Least-square, DNN 등등)
+$J$를 최소화 하는 $K$ 찾아야함.
 
 Least-square를 사용하는 경우에 다음의 방식으로 간단히 계산가능.
 
@@ -97,11 +95,7 @@ $$
 
 $\Psi$의 차원이 커질수록 계산이 어려움. 하지만 차원이 커야 Koopman operator를 이용한 모델링 성능이 좋아짐. 
 
-&rarr; 차원이 높은, 복잡한 시스템에 적용하기에는 문제가 있음.
-
-{: .notice--info}
-DNN를 사용하는 경우, user-defined vector-valued function을 네트워크로 찾을 수 있고 복잡한 최적화 문제를 해결가능. 
-
+&rarr; 차원이 높은, 복잡한 시스템에 적용하기에는 어려움이 있음 (최근 Deep Koopman Operator를 이용한 연구가 활발해진 이유 - DNN를 사용하는 경우, user-defined vector-valued function을 네트워크로 찾을 수 있고 복잡한 최적화 문제를 해결가능).
 
 {: .notice--info}
 Koopman modeling 사용해서 제어기 설계하는 연구를 하는 경우에는 굳이 NN를 쓸 필요는 없어보임. 물론 실제 application에 적용할때는 유용할듯.
