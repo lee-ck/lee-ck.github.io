@@ -28,6 +28,7 @@ Discrete-time 시스템:
 $$
 x_{k+1} = f(x_k)
 $$
+
 where $x_k \in \mathbb{R}^x$.
 
 Let observation function: $g(x) \in \mathbb{G} : \mathbb{R}^x \rightarrow \mathbb{R}^y$.
@@ -35,9 +36,11 @@ Let observation function: $g(x) \in \mathbb{G} : \mathbb{R}^x \rightarrow \mathb
 $$
 y_k = g(x_k)
 $$
+
 where $y_k \in \mathbb{R}^y$.
 
 Let Koopman operator $\mathcal K : \mathbb{G} \rightarrow \mathbb{G}$.
+
 $$
   \mathcal{K}g (x) = g(f(x))
 $$
@@ -46,6 +49,8 @@ $$
 $$
   \mathcal{K}g (x_k) = g(f(x_k)) = g(x_{k+1})
 $$
+
+{: .notice--info}
 Koopman operator 를 이용하여 $y$ 를 propagate 하는 것과 propagate한 $x$를 $y$로 lift 한것이 같음.
 
 ## Approximating a Koopman Operator
@@ -63,9 +68,12 @@ $$
 $$
 where $K\in \mathbb{C}^{N\times N}$ and w is an error.
 
-```
-dfdfd
-```
+$$
+\text{Cost function} : J = \sum^P_{p=1} || \Psi(x_{p+1}) - K\Psi(x_{p}) ||^2
+$$
+
+P : 데이터 개수
+
 
 <!-- ``` 
 search: false
