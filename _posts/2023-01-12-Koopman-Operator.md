@@ -15,6 +15,7 @@ Koopman Operator는 비선형 시스템을 (by evolving functions of the state "
 (In application) infinite-dim.으로 표현하는 것은 어렵기 때문에 finite-dim.의 선형 시스템으로 근사화하여 표현함.
 
 ![title](/fig/koopman_concept.png){: width="600"}{: .align-center}
+[Image from Ref [3]]
 
 How to approximate
 - Data-driven
