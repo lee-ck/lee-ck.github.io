@@ -10,31 +10,42 @@ toc: true
 
 ## What is Koopman Operator ?
 
-Koopman Operator는 비선형 시스템을 (by evolving functions of the state "as known as observable function") 무한 차원의 선형 시스템으로 표현해주는 Operator.
+Koopman Operator는 비선형 시스템을 (by evolving functions of the state "as known as observable function") infinite-dim.의 선형 시스템으로 표현해주는 Operator.
 
-(In application) 무한 차원으로 표현하는 것은 어렵기 때문에 유한한 차원의 선형 시스템으로 근사화하여 표현함.
+(In application) infinite-dim.으로 표현하는 것은 어렵기 때문에 finite-dim.의 선형 시스템으로 근사화하여 표현함.
 
 ![title](/fig/koopman_concept.png){: width="600"}{: .align-center}
 
+How to approximate
+- Data-driven
+- No prior information
+- DMD, EDMD, NN 등의 방법들이 사용됨
 
+## Mathematical Formulation
+
+Discrete-time 시스템:
+
+$$
+x_{k+1} = f(x_k)
+$$
+where $x_k \in \mathbb{R}^x$.
+
+Let observation function : $g(x) \in \mathbb{G} : \mathbb{R}^x \rightarrow \mathbb{R}^y$.
+
+$$
+y_k = g(x_k)
+$$
+where $y_k \in \mathbb{R}^y$.
+
+Let Koopman operator $\mathcal K : \mathbb{G} \rightarrow \mathbb{G}$.
+$$
+  \mathcal{K}g (x) = g(f(x))
+$$
 
 {: .notice--info}
-
-
 $$
-\begin{bmatrix}
-x_2\\
-y_2\\
-z_2  
-\end{bmatrix}
-= R \begin{bmatrix}
-                  x_1\\
-                  y_1\\
-                  z_1  
-                  \end{bmatrix}
+  \mathcal{K}g (x_k) = g(f(x_k)) = g(x_{k+1})
 $$
-
-
 
 ``` 
 search: false
