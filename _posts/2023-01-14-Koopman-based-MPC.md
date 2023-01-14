@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "Koopman-based MPC"
-last_modified_at: 2023-01-14T00:00:00-00:00
 tags: [TubeMPC, MPC, All]
 comments: true
 author_profile: false
