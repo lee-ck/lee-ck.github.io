@@ -102,7 +102,6 @@ $\Psi$의 차원이 커질수록 계산이 어려움. 하지만 차원이 커야
 {: .notice--info}
 Koopman modeling 사용해서 제어기 설계하는 연구를 하는 경우에는 굳이 NN를 쓸 필요는 없어보임. 물론 실제 application에 적용할때는 유용할듯.
 
-
 <!-- ``` 
 search: false
 $$
