@@ -27,9 +27,9 @@ toc: true
 
 <!-- Q. V. Tran, ***Changyu Lee*** et al., "Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach," Major revision, 2022. -->
 
-***Changyu Lee*** et al., "Electric Propulsion ~," Major revision, 2022
+***Changyu Lee*** et al., "Electric Propulsion ~," Under revision, 2022
 
-***Changyu Lee*** et al., "Nonlinear Model Predictive Control ~," Major revision, 2022 
+***Changyu Lee*** et al., "Nonlinear Model Predictive Control ~," Under revision, 2022 
 
 Junwoo Jang, ***Changyu Lee***, and Jinwhan Kim*, "Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking", IEEE Sensors Letters, Vol. 6, No. 5, 2022.
 
