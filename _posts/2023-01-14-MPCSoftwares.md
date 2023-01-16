@@ -30,17 +30,17 @@ MPC 구현할 때 자주 사용하는 Software List:
 
 > CVX [http://cvxr.com/cvx/](http://cvxr.com/cvx/)
 >> MATLAB 을 위한 Convex optimization
+>>
+>> Gurobi, Mosek 등의 solver 지원
 
 > CVXPY [https://www.cvxpy.org/](https://www.cvxpy.org/)
 >> Python 을 위한 Convex optimization
 
-> CVXGEN [https://cvxgen.com/docs/index.html](https://cvxgen.com/docs/index.html)
+> CVXGEN [https://cvxgen.com/](https://cvxgen.com/docs/index.html)
 >> Convex optimization위한 코드 생성 - 빠름
 >>
->> CVXGEN이 좋은듯..
+>> CVXGEN이 제일 빨랐음
 
-
-OSQP, Gurobi 등도 자주 쓰이는 듯
 
 
 **Reachability, Tube MPC**

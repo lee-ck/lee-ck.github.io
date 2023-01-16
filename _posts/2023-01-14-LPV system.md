@@ -38,7 +38,13 @@ $$
 
 
 
+### **The process of identifying the state-space matrices of an LPV system using SIM method is as follows:**
 
+1. Collect input-output data from the LPV system.
+2. Form the Hankel matrix of the input-output data.
+3. Use singular value decomposition (SVD) to decompose the Hankel matrix.
+4. Estimate the system's state-space matrices from the SVD factors.
+5. Verify the identified model using techniques such as cross-validation.
 
 
 
