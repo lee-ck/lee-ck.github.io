@@ -29,21 +29,26 @@ MPC 구현할 때 자주 사용하는 Software List:
 **LMPC**
 
 > CVX http://cvxr.com/cvx/
-> 
+>> MATLAB 을 위한 Convex optimization
+
 > CVXPY https://www.cvxpy.org/
->
+>> Python 을 위한 Convex optimization
+
 > CVXGEN https://cvxgen.com/docs/index.html
->
->> CVX 기반으로 MATLAB, Python, ... 에 사용할 수 있게 만든것들
+>> Convex optimization위한 코드 생성 - 빠름
 >>
 >> CVXGEN이 좋은듯..
 
 
+OSQP, Gurobi 등도 자주 쓰이는 듯
 
 
+**Reachability, Tube MPC**
 
 
+> CORA https://tumcps.github.io/CORA/
+>> Zonotope 연산에 사용했었음
 
-
-
+> MPT3 (Multi-Parametric Toolbox 3) https://www.mpt3.org/
+>> 가장 많이 씀
 
