@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Koopman-based MPC"
-tags: [Koopman, MPC]
+title:  "Linear Parameter Varying System"
+tags: [Modeling, Control]
 comments: true
 author_profile: false
 toc: true

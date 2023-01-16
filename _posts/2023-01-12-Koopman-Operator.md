@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Koopman Operator"
-tags: [Koopman Operator, All]
+tags: [Koopman]
 last_modified_at: 2023-01-14T16:00+09:00
 comments: true
 author_profile: false
