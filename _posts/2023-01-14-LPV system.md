@@ -27,8 +27,9 @@ $$
 $$
 
 
-
-
+> LTV (Linear Time-Varying) 모델과의 차이점은?
+>> (By ChatGPT)
+![title](/fig/chatGPT.jpg){: width="500"}{: .align-center}
 
 
 
