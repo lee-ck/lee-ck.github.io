@@ -33,26 +33,112 @@ $$
 
 
 
+## DMDc &rarr; LPV system identification
+
+System:
+
+>$$ \mathbf{x} \in \mathbb{R}^n, $$ 
+>$$ \mathbf{u} \in \mathbb{R}^l $$ 
+>
+>$$ \mathbf{A} \in \mathbb{R}^{n\times n}, $$
+>$$ \mathbf{B} \in \mathbb{R}^{n\times l} $$
+>
+
+Data (m 개의 데이터):
+
+$$
+\mathbf{X} = 
+\begin{bmatrix}
+| & | &  & | \\
+\mathbf{x}_1 & \mathbf{x}_2 & \ldots & \mathbf{x}_{m-1} \\
+| & | &  & | \\
+\end{bmatrix}
+$$
+
+$$
+\mathbf{X}^+ = 
+\begin{bmatrix}
+| & | &  & | \\
+\mathbf{x}_2 & \mathbf{x}_3 & \ldots & \mathbf{x}_{m} \\
+| & | &  & | \\
+\end{bmatrix}
+$$
+
+$$
+\mathbf{U_c} = 
+\begin{bmatrix}
+| & | &  & | \\
+\mathbf{u}_1 & \mathbf{u}_2 & \ldots & \mathbf{u}_{m-1} \\
+| & | &  & | \\
+\end{bmatrix}
+$$
+
+>
+> $$ \mathbf{X}^+\approx \mathbf{A}\mathbf{X} + \mathbf{B}\mathbf{U_c} $$
+>
+
+
+### DMDc (Unknown $\mathbf{B}$)
+
+$$ 
+\mathbf{X}^+ 
+\approx 
+\mathbf{G} \mathbf{\Omega} = \begin{bmatrix}
+\mathbf{A} & \mathbf{B}
+\end{bmatrix}
+\begin{bmatrix}
+\mathbf{X} \\ \mathbf{U_c}
+\end{bmatrix}
+$$
+
+
+$$ 
+\begin{bmatrix}
+\mathbf{A} & \mathbf{B}
+\end{bmatrix} = 
+\mathbf{X}^+ \begin{bmatrix}
+\mathbf{X} \\ \mathbf{U_c}
+\end{bmatrix}^\dagger
+$$
 
 
 
+Least square problem : 
 
+$$
+||\mathbf{X}^+ - \mathbf{G}\mathbf{\Omega}||_F
+$$
 
-### **The process of identifying the state-space matrices of an LPV system using SIM method is as follows:**
+&rarr; SVD 로 pseudoinverse 찾기
 
-1. Collect input-output data from the LPV system.
-2. Form the Hankel matrix of the input-output data.
-3. Use singular value decomposition (SVD) to decompose the Hankel matrix.
-4. Estimate the system's state-space matrices from the SVD factors.
-5. Verify the identified model using techniques such as cross-validation.
+$$
+\mathbf{\Omega} = \mathbf{U}\mathbf{\Sigma}\mathbf{V}^* \approx \tilde{\mathbf{U}} \tilde{\mathbf{\Sigma}}\tilde{\mathbf{V}}^* 
+$$
 
+그러면 SVD를 통하여 다음과 같이 $\mathbf{G}$를 근사화 할 수 있음
 
+$$
+\mathbf{G}\approx \mathbf{\bar{G}} = \mathbf{X}^+
+\tilde{\mathbf{V}} \tilde{\mathbf{\Sigma}}^{-1} \tilde{\mathbf{U}}^*
+$$
 
+> $$\mathbf{G} \in \mathbb{R}^{n\times (n+l)} $$
 
+$$
+\begin{bmatrix}
+\mathbf{A} & \mathbf{B}
+\end{bmatrix}
+\approx
+\begin{bmatrix}
+\mathbf{X}^+
+\tilde{\mathbf{V}} \tilde{\mathbf{\Sigma}}^{-1} \tilde{\mathbf{U}}^*_1
+& 
+\mathbf{X}^+
+\tilde{\mathbf{V}} \tilde{\mathbf{\Sigma}}^{-1} \tilde{\mathbf{U}}^*_2
+\end{bmatrix}
+$$
 
-
-
-
-
-
+> $$\tilde{\mathbf{U}}_1 \in \mathbb{R}^{n\times p} $$
+> 
+> $$\tilde{\mathbf{U}}_2 \in \mathbb{R}^{l\times p} $$
 
