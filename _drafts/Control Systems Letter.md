@@ -155,17 +155,34 @@ $$
 > $$\tilde{\mathbf{U}}_2 \in \mathbb{R}^{l\times p} $$
 
 
-###### Optimal control
+###### Synthesize optimal control
+
+MPC vs NMPC 
+
+
+$$
+\begin{aligned} 
+    \min_{\mathbf{z}_{(\cdot)},{\mathbf{\bar{u}}}_{(\cdot)}} \sum_{k=0}^{N-1}  l(&\mathbf{z}_k,\mathbf{\bar{u}}_k)+l_f(\mathbf{z}_N),   \\ 
+    \text{s.t. } 
+    \mathbf{z}_{k+1} &= A\mathbf{z}_k + B\mathbf{\bar{u}}_k   \\
+    \mathbf{z}_k &\in \mathbb{X}   \\
+    \mathbf{\bar{u}}_k &\in \mathbb{U}  \\
+    \mathbf{z}_N &\in \mathbb{X}_f
+\end{aligned}
+$$
+where $N$ is the prediction horizon, $\mathbb S$ is the RPI set of the system \eqref{pre:error}, $l(\mathbf{z}_k,\mathbf{\bar{u}}_k)$ is the stage cost, $l_f(\mathbf{z}_N)$ is the terminal cost, and $\mathbb{X}_f$ is the terminal constraints.
+
+
 
 ###### Simulations 
 
 Local linearizatoin
 Koopman - LTI
-Koopman - LPV
+Koopman - LPV (proposed)
 비교
 
-lifting function dimension : N 에 따른 비교
-
+lifting function dimension : N 에 따른 비교 
+Koopman vs Proposed N에 따른 오차 분포 각 N에 대하여 다른 intitial state, center point of RBF 
 
 
 ###### Discussion
@@ -175,67 +192,5 @@ lifting function dimension : N 에 따른 비교
 
 
 
-
-
-
-\subsection{Tube-based Model Predictive Control}
-\begin{definition} [RPI set of the LTI system]
-A set $\Omega \subset \mathbb{R}^n$ is a {\color{blue}robust invariant set (RPI)} set of the LTI system $x^+ = Ax + w$, if $Ax+w \in \Omega $ for all $x \in \Omega$ and $w\in \mathbb{W}$.
-\end{definition}
-
-Consider the following LTI system:
-\begin{equation} 
-\begin{aligned}
-\label{eq:actual_system}
-    \mathbf{x}_{k+1} = A \mathbf{x}_k &+ B \mathbf{u}_k + \mathbf{w}_k, \\
-\text{s.t. }\mathbf{x}_k  &\in \mathbb{X}, \\
-                \mathbf{u}_k  &\in \mathbb{U}, 
-\end{aligned}
-\end{equation}
-where $k$ is the time index, and $\mathbf{x}_k \subset \mathbb{R}^n $ and $\mathbf{u}_k \subset \mathbb{R}^m $ are the state and input vectors, respectively. Let $\mathbf{w}_k \in \mathbb W \subset \mathbb{R}^n$ be a bounded disturbance vector. The nominal system {\color{blue}of \eqref{eq:actual_system} (without the disturbance) is given} as follows:
-\begin{equation}
-\mathbf{z}_{k+1} = A\mathbf{z}_k + B\mathbf{\bar{u}}_k,
-\label{eq:nominal_system}
-\end{equation}
-where $\mathbf{\bar{u}}_k$ is the nominal input that is derived from a nominal MPC and $\mathbf{z}_k$ is the nominal state. Then the control input of the TMPC is {\color{blue}now designed} as follows:
-\begin{equation}
- \mathbf{u}_k= \mathbf{\bar{u}}_k + K(\mathbf{x}_k-\mathbf{z}_k),
- \label{eq:TMPC_control}
-\end{equation}
-where {\color{blue}the second term in \eqref{eq:TMPC_control}} is the auxiliary state feedback control that keeps the actual system in the invariant tube by compensating for the error. 
-Let $\mathbf{e}_k = \mathbf{x}_k - \mathbf{z}_k$ be the error vector. Then the error system can be {\color{blue}written} by \eqref{eq:actual_system}-\eqref{eq:TMPC_control} as follows:
-\begin{equation}
-\label{pre:error}
-\begin{aligned} 
-\mathbf{e}_{k+1} & = A(\mathbf{x}_k-\mathbf{z}_k) + B(\mathbf{u}_k - \mathbf{\bar{u}}_k) + \mathbf{w}_k 
-\\ 
-    &  = (A + BK) \mathbf{e}_k + \mathbf{w}_k.
-\end{aligned}
-\end{equation}
-If the system $A + BK $ is Schur stable, then an RPI set $\mathbb{S}$ {\color{blue}of the LTI error system \eqref{pre:error}} can be computed by iterative Minkowski sum, as {\color{blue}done in} \Cref{algorithm:LTI_RPI}.
-\begin{algorithm} [b]
-\caption{Calculation of an RPI set $\mathbb{S}$ of an LTI system.}\label{alg:cap}
-\begin{algorithmic}[1]
-\State $\mathbb{E}_0 \leftarrow  \{\mathbf{0}\}$, $\mathbb{E}_1 \leftarrow \mathbb{W}$
-\State $k \leftarrow 0$
-\While{$\mathbb{E}_{k+1} \nsubseteq \mathbb{E}_{k}$} \label{al:eps} 
-    \State $k = k + 1$
-    \State $\mathbb{E}_{k+1} = (A+BK)\mathbb{E}_{k} \oplus \mathbb{W}$
-\EndWhile
-\State $\mathbb{S} \leftarrow \mathbb{E}_k$
-\end{algorithmic}
-\label{algorithm:LTI_RPI}
-\end{algorithm}
-For {\color{blue}practical implementation,} an outer $\epsilon$-approximation is usually used {\color{blue}for} the termination condition in line~\ref{al:eps} of an \Cref{algorithm:LTI_RPI} \cite{rakovic2005invariant}. Finally, the control input of the nominal MPC is computed with constraints tightened by the RPI set as follows:
-\begin{equation} 
-\begin{aligned} 
-    \min_{\mathbf{z}_{(\cdot)},{\mathbf{\bar{u}}}_{(\cdot)}} \sum_{k=0}^{N-1}  l(&\mathbf{z}_k,\mathbf{\bar{u}}_k)+l_f(\mathbf{z}_N),   \\ 
-    \text{s.t. } 
-    \mathbf{z}_{k+1} &= A\mathbf{z}_k + B\mathbf{\bar{u}}_k,   \\
-    \mathbf{z}_k &\in \mathbb{X} \ominus \mathbb{S},   \\
-    \mathbf{\bar{u}}_k &\in \mathbb{U} \ominus K \mathbb{S}, \\
-    \mathbf{z}_N &\in \mathbb{X}_f \ominus \mathbb{S},
-\end{aligned}
-\end{equation}
-where $N$ is the prediction horizon, {\color{blue}$\mathbb S$ is the RPI set of the system \eqref{pre:error},} $l(\mathbf{z}_k,\mathbf{\bar{u}}_k)$ is the stage cost, $l_f(\mathbf{z}_N)$ is the terminal cost, and $\mathbb{X}_f$ is the terminal constraints.
-% and the state-feedback control used in TMPC algorithm ensures that the actual system satisfies the original constraints under the bounded model uncertainty and disturbances. This also contributes to performance and stability.
+> Definition 1. RPI set of the LPV system
+>> A set $\Omega \subset \mathbb{R}^n$ is a robust invariant set (RPI) set of the LPV system $x^+ = A(p)x + w$, if $A(p)x+w \in \Omega $ for all $x \in \Omega$, $p \in \mathbb{P}$, and $w\in \mathbb{W}$.
