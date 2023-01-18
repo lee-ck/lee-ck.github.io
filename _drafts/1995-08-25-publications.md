@@ -10,6 +10,20 @@ toc: true
 &larr; visit my google scholar
 
 # Journal
+## Preprint
+
+***Changyu Lee*** et al., "Safety-Guaranteed ~ Berthing ~," In prep., 2023
+
+Jonghwi Kim, ***Changyu Lee*** et al., "Field experiment ~," under review, 2023
+
+Junwoo Jang, ***Changyu Lee*** et al., "A learning-based approach ~," under review, 2022.
+
+Quoc Van Tran, ***Changyu Lee*** et al., "~ Formation Tracking Control of USV ~," Under revision, 2022
+
+***Changyu Lee*** et al., "~ Electric Propulsion ~," Under revision, 2022
+
+***Changyu Lee*** et al., "Nonlinear Model Predictive Control ~," Under revision, 2022 
+
 ## International
 <!-- (1st - 5 papers, 2nd - 5 papers) -->
 
@@ -19,17 +33,6 @@ toc: true
 
 <!-- Dongha Chung, ***Changyu Lee*** et al., "Pohang Canal Dataset ~," In prep (100/100)., 2023 -->
 
-***Changyu Lee*** et al., "Safety-Guaranteed Berthing~," In prep., 2023
-
-<!-- Jonghwi Kim, ***Changyu Lee*** et al., "Field experiment of autonomous ship navigation in canal and surrounding nearshore environments," under review, 2023 -->
-
-<!-- Junwoo Jang, ***Changyu Lee*** et al., "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction," under review, 2022. -->
-
-<!-- Q. V. Tran, ***Changyu Lee*** et al., "Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach," Major revision, 2022. -->
-
-***Changyu Lee*** et al., "Electric Propulsion ~," Under revision, 2022
-
-***Changyu Lee*** et al., "Nonlinear Model Predictive Control ~," Under revision, 2022 
 
 Junwoo Jang, ***Changyu Lee***, and Jinwhan Kim*, "Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking", IEEE Sensors Letters, Vol. 6, No. 5, 2022.
 
@@ -40,7 +43,7 @@ Junwoo Jang, ***Changyu Lee***, and Jinwhan Kim*, "Ambiguity Resolution Between 
 
 # Conference
 ## International
-<!-- Jinwook Park, Changyu Lee, Jinwhan Kim* Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis  IFAC WC 2023 -->
+Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis", ***Submitted*** (IFAC WC 2023)
 
 ***Changyu Lee***, Quoc Van Tran and Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles", 14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Copenhagen, Denmark, Sep. 2022.
 
@@ -50,6 +53,8 @@ Junwoo Jang, ***Changyu Lee***, and Jinwhan Kim*, "Ambiguity Resolution Between 
 
 
 ## Domestic
+박기용, ***이찬규***, 김진환*, " ~ 모델예측제어 ~", ***Submitted*** (로봇학회), 2023.
+
 ***이찬규***, 김진환*, "선박을 위한 강인한 모델예측제어기반 경로 추종 및 장애물 회피", 제어로봇시스템학회, 2022. 06.
 
 ***이찬규***, 김진환*, "불규칙파 중 전기추진선박의 에너지 효율 향상을 위한 모델예측제어", 한국해양과학기술협의회 공동학술대회, 2022.06.

@@ -43,6 +43,7 @@ System:
 >$$ \mathbf{A} \in \mathbb{R}^{n\times n}, $$
 >$$ \mathbf{B} \in \mathbb{R}^{n\times l} $$
 >
+>$$ \mathbf{p} \in \mathbb{R}, $$ 
 
 Data (m 개의 데이터):
 
@@ -87,26 +88,28 @@ $$
 >
 
 
-### DMDc (Unknown $\mathbf{B}$)
+### Assumption : known $\mathbf{B}$
+
+>
+> $$ \underbrace{\mathbf{X}^+ - \mathbf{B}\mathbf{U_c}}_{\text{"known"}} \approx \mathbf{A}\mathbf{X} + \mathbf{A}_p\mathbf{X}_p  $$
 
 $$ 
-\mathbf{X}^+ 
+\mathbf{X}^+  - \mathbf{B}\mathbf{U_c}
 \approx 
 \mathbf{G} \mathbf{\Omega} = \begin{bmatrix}
-\mathbf{A} & \mathbf{B}
-\end{bmatrix}
+\mathbf{A} & \mathbf{A}_p \end{bmatrix}
 \begin{bmatrix}
-\mathbf{X} \\ \mathbf{U_c}
+\mathbf{X} \\ \mathbf{X}_p
 \end{bmatrix}
 $$
 
 
 $$ 
 \begin{bmatrix}
-\mathbf{A} & \mathbf{B}
+\mathbf{A} & \mathbf{A}_p
 \end{bmatrix} = 
-\mathbf{X}^+ \begin{bmatrix}
-\mathbf{X} \\ \mathbf{U_c}
+(\mathbf{X}^+  - \mathbf{B}\mathbf{U_c}) \begin{bmatrix}
+\mathbf{X} \\ \mathbf{X}_p
 \end{bmatrix}^\dagger
 $$
 
@@ -115,7 +118,7 @@ $$
 Least square problem : 
 
 $$
-||\mathbf{X}^+ - \mathbf{G}\mathbf{\Omega}||_F
+||(\mathbf{X}^+  - \mathbf{B}\mathbf{U_c})- \mathbf{G}\mathbf{\Omega}||_F
 $$
 
 &rarr; SVD 로 pseudoinverse 찾기
@@ -135,7 +138,7 @@ $$
 
 $$
 \begin{bmatrix}
-\mathbf{A} & \mathbf{B}
+\mathbf{A} & \mathbf{A}_p
 \end{bmatrix}
 \approx
 \begin{bmatrix}
