@@ -65,7 +65,7 @@ $$
 $$
 
 $$
-\mathbf{U_c} = 
+\mathbf{U}_c = 
 \begin{bmatrix}
 | & | &  & | \\
 \mathbf{u}_1 & \mathbf{u}_2 & \ldots & \mathbf{u}_{m-1} \\
@@ -73,8 +73,17 @@ $$
 \end{bmatrix}
 $$
 
+$$
+\mathbf{X}_p = 
+\begin{bmatrix}
+| & | &  & | \\
+\mathbf{X}_1 \mathbf{p}_1 & \mathbf{X}_2 \mathbf{p}_2 & \ldots & \mathbf{X}_{m-1} \mathbf{p}_{m-1} \\
+| & | &  & | \\
+\end{bmatrix}
+$$
+
 >
-> $$ \mathbf{X}^+\approx \mathbf{A}\mathbf{X} + \mathbf{B}\mathbf{U_c} $$
+> $$ \mathbf{X}^+\approx \mathbf{A}\mathbf{X} + \mathbf{A}_p\mathbf{X}_p + \mathbf{B}\mathbf{U_c} $$
 >
 
 
