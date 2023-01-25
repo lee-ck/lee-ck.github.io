@@ -12,18 +12,19 @@ toc: true
 http://casadi.org/ 에서 software 다운, directory 설정
 
 ```matlab
-addpath('C:\Users\leech\Desktop\casadi-windows-matlabR2016a-v3.5.5'); % my pc
-addpath('C:\Users\user\Desktop\CasADi\casadi-windows-matlabR2016a-v3.5.5\') % lab
-addpath('C:\Users\leeck\Desktop\CasADi\casadi-windows-matlabR2016a-v3.5.5\') % my homr
+addpath('\casadi-windows-matlabR2016a-v3.5.5'); 
 import casadi.*
+% 경로 설정 및 import
 
-Num = 500;
+% Prediction horizon
+Num = 50; 
+
+% Weighting scalars
 q1 = 1;
 q2 = 1;
 r = 1;
 p1 = 1;
 p2 = 1;
-
 
 %% Parameter setting - States
 x = SX.sym('x'); 
@@ -135,66 +136,5 @@ NMPC.input.u0 = [usol(2:end,:);usol(end,:)];
 
 caltime = toc;
 Q_command = usol(1);
-    
-
-
-
-% Plot the results
-figure(1);
-set(gcf,'color','white')
-hold on
-grid on
-box on
-axis equal 
-plot(xsol(1,1), xsol(1,2),'ko');
-plot(xsol(:,1), xsol(:,2),'r-');
-legend('Current state','NMPC trajectory')
-title('Phase Plot');
-xlim([-3 3])
-ylim([-3 3])
-
-figure(2);
-set(gcf,'color','white')
-subplot(2,2,1)
-hold on
-grid on
-box on
-plot(xsol(1,1),'ko');
-plot(xsol(:,1),'r-');
-legend('Current state','NMPC trajectory')
-title('x');
-ylim([-5 5])
-set(gca,'FontSize',14,'FontName','Aerial')
-
-subplot(2,2,3);
-hold on
-grid on
-box on
-plot(xsol(1,2),'ko');
-plot(xsol(:,2),'r-');
-legend('Current state','NMPC trajectory')
-title('y');
-ylim([-3 3])
-set(gca,'FontSize',14,'FontName','Aerial')
-
-
-
-
-subplot(2,2,2);
-hold on
-grid on
-box on
-plot(usol(:,1),'k-');
-title('Control Input');
-ylim([u_min-0.2 u_max+0.2])
-
-
-% subplot(2,2,4);
-% hold on
-% grid on
-% box on
-% plot(test_data_actual(:,1), test_data_actual(:,5),'--');
-% title('Parameter');
-% ylim([mu_min-0.2 mu_max+0.2])
 ```
-1. 
+
