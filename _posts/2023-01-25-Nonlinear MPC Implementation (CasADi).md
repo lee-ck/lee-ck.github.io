@@ -9,30 +9,192 @@ toc: true
 ---
 #### How to implement Linear Model Predictive Control (LMPC) with CVXGEN?
 
-1. https://cvxgen.com/ 에서 아이디 생성
-2. *edit* 창에서 원하는 states, inputs, horizon, parameters 설정
-    ![title](/fig/cvxgen1.png){: width="500"}{: .align-center}
-3. *generate C* 창에서 code generation 실행
-    ![title](/fig/cvxgen2.png){: width="500"}{: .align-center}
-4. *matlab* 창에 화면에 나오는 커맨드 실행
-    ![title](/fig/cvxgen3.png){: width="500"}{: .align-center}
-5. matlab에서 다음의 파일들이 저장됨
-    ![title](/fig/cvxgen4.png){: width="200"}{: .align-center}
-6. csolve.mexw64 를 함수로 사용하면 됨. 이때 2.에서 설정한 파라미터들을 적절하게 설정해줘야함.
-ex) 
+http://casadi.org/ 에서 software 다운, directory 설정
 
-```Matlab
-settings.verbose = 0; 
-% 여러가지 세팅 조절가능. 이거는 solution에 대한 결과를 print할지를 결정하는 파라미터.
-LMPC.A = A;
-LMPC.B = B;
-LMPC.Q = Q;
-LMPC.P = P;
-LMPC.R = R;
-LMPC.x_0 = x0;
-LMPC.u_max = u_max;
-LMPC.u_min = u_min;
-sol = csolve(LMPC,settings);
-u_KMPC = sol.u{1}; % 첫번째 input 사용.
+```matlab
+addpath('C:\Users\leech\Desktop\casadi-windows-matlabR2016a-v3.5.5'); % my pc
+addpath('C:\Users\user\Desktop\CasADi\casadi-windows-matlabR2016a-v3.5.5\') % lab
+addpath('C:\Users\leeck\Desktop\CasADi\casadi-windows-matlabR2016a-v3.5.5\') % my homr
+import casadi.*
+
+Num = 500;
+q1 = 1;
+q2 = 1;
+r = 1;
+p1 = 1;
+p2 = 1;
+
+
+%% Parameter setting - States
+x = SX.sym('x'); 
+y = SX.sym('y');
+states = [x;y]; 
+n_states = length(states);
+
+%% Parameter setting - Inputs
+u = SX.sym('u'); 
+controls = u; 
+n_controls = length(controls);
+
+%% Parameter setting - Parameters
+n_params = 1;
+
+%% Casadi setting   
+U = SX.sym('U',n_controls,Num); 
+P = SX.sym('P',n_states+Num);
+X = SX.sym('X',n_states,(Num+1));
+
+objective = 0;  % Objective function
+g = [];         % constraints vector
+
+st  = X(:,1);   % initial state
+g = [g;st-P(1:n_states)]; % initial condition constraints
+
+%% calculate objective function
+n_tot = n_states+n_controls+n_params;
+for k = 1:Num
+    st = X(:,k);  
+    con = U(:,k); 
+    param = P(n_states+k);
+
+    %% Cost function    
+    objective = objective + st(1)^2*q1 + st(2)^2*q2 + con(1)^2*r;
+
+    st_next = X(:,k+1);
+    flag = 1;
+    if flag == 1
+        % Euler
+        xdot = vanderpol(st, con, param);
+        st_next_euler = st + (dt*xdot);
+        g = [g;st_next-st_next_euler]; % compute constraints
+    else
+        % RK45
+        k1 = vanderpol(st , con, param);
+        k2 = vanderpol(st+dt/2*k1, con, param);
+        k3 = vanderpol(st+dt/2*k2, con, param);
+        k4 = vanderpol(st+dt*k3  , con, param);
+        st_next_RK45 = st + dt/6*(k1+2*k2+2*k3+k4);
+        g = [g;st_next-st_next_RK45]; % compute constraints                
+    end
+end
+st = X(:,Num+1);  
+objective = objective + st(1)^2*p1 + st(2)^2*p2;
+
+OPT_variables = [reshape(X,n_states*(Num+1),1);reshape(U,n_controls*Num,1)];
+
+nlp_prob = struct('f', objective, 'x', OPT_variables, 'g', g, 'p', P);
+
+opts = struct;
+opts.ipopt.max_iter = 20;
+opts.ipopt.print_level = 0; % 0 ~ 3
+opts.print_time = 0;
+opts.ipopt.acceptable_tol = 1e-8;
+opts.ipopt.acceptable_obj_change_tol = 1e-8;
+
+NMPC.solver = nlpsol('solver', 'ipopt', nlp_prob,opts);
+
+
+%% Equaility contraints : Dyanmic equations 
+NMPC.args.lbg(1:n_states*(Num+1)) = -1e-10;  % -1e-20   % Equality constraints
+NMPC.args.ubg(1:n_states*(Num+1)) =  1e-10;  %  1e-20   % Equality constraints
+
+%% Inequaility contraints : States & Inputs
+NMPC.args.lbx(1:n_states:n_states*(Num+1),1) =  -10;     % state x1 lower bound 
+NMPC.args.ubx(1:n_states:n_states*(Num+1),1) =  10;      % state x1 upper bound 
+NMPC.args.lbx(2:n_states:n_states*(Num+1),1) =  -10;     % state x2 lower bound
+NMPC.args.ubx(2:n_states:n_states*(Num+1),1) =  10;      % state x2 upper bound
+NMPC.args.lbx(n_states*(Num+1)+1:n_controls:n_states*(Num+1)+n_controls*Num,1) = u_min; % u lower bound
+NMPC.args.ubx(n_states*(Num+1)+1:n_controls:n_states*(Num+1)+n_controls*Num,1) = u_max; % u upper bound
+
+disp('*************** MPC setting ***************')
+disp(strcat('Prediction Num :` ' , num2str(Num)))
+disp(strcat('Prediction Ts :` ' , num2str(dt) ,'sec'))
+if flag == 1
+    disp('Integration algorithm : Euler method')
+else
+    disp('Integration algorithm : RK 45')
+end
+
+NMPC.args.p(1:n) = [init_x];
+NMPC.args.p(n+1) = 0.8;
+
+
+
+NMPC.input.u0 = u_min*ones(Num,n_controls);
+NMPC.input.X0 = repmat(init_x,1,Num+1)'; 
+
+tic;
+NMPC.args.x0  = [reshape(NMPC.input.X0',n_states*(Num+1),1);reshape(NMPC.input.u0',n_controls*Num,1)];
+sol = NMPC.solver('x0', NMPC.args.x0, 'lbx', NMPC.args.lbx, 'ubx', NMPC.args.ubx,...
+    'lbg', NMPC.args.lbg, 'ubg', NMPC.args.ubg,'p',NMPC.args.p);
+usol = reshape(full(sol.x(n_states*(Num+1)+1:end))',n_controls,Num)'; % get controls only from the solution
+xsol= reshape(full(sol.x(1:n_states*(Num+1)))',n_states,Num+1)'; % get solution TRAJECTORY
+
+NMPC.input.X0 = [xsol(2:end,:);xsol(end,:)];
+NMPC.input.u0 = [usol(2:end,:);usol(end,:)];
+
+caltime = toc;
+Q_command = usol(1);
+    
+
+
+
+% Plot the results
+figure(1);
+set(gcf,'color','white')
+hold on
+grid on
+box on
+axis equal 
+plot(xsol(1,1), xsol(1,2),'ko');
+plot(xsol(:,1), xsol(:,2),'r-');
+legend('Current state','NMPC trajectory')
+title('Phase Plot');
+xlim([-3 3])
+ylim([-3 3])
+
+figure(2);
+set(gcf,'color','white')
+subplot(2,2,1)
+hold on
+grid on
+box on
+plot(xsol(1,1),'ko');
+plot(xsol(:,1),'r-');
+legend('Current state','NMPC trajectory')
+title('x');
+ylim([-5 5])
+set(gca,'FontSize',14,'FontName','Aerial')
+
+subplot(2,2,3);
+hold on
+grid on
+box on
+plot(xsol(1,2),'ko');
+plot(xsol(:,2),'r-');
+legend('Current state','NMPC trajectory')
+title('y');
+ylim([-3 3])
+set(gca,'FontSize',14,'FontName','Aerial')
+
+
+
+
+subplot(2,2,2);
+hold on
+grid on
+box on
+plot(usol(:,1),'k-');
+title('Control Input');
+ylim([u_min-0.2 u_max+0.2])
+
+
+% subplot(2,2,4);
+% hold on
+% grid on
+% box on
+% plot(test_data_actual(:,1), test_data_actual(:,5),'--');
+% title('Parameter');
+% ylim([mu_min-0.2 mu_max+0.2])
 ```
-7. 
+1. 
