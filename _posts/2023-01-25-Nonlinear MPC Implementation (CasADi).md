@@ -7,7 +7,7 @@ comments: true
 author_profile: false
 toc: true
 ---
-#### How to implement Linear Model Predictive Control (LMPC) with CVXGEN?
+#### How to implement Nonlinear Model Predictive Control (NMPC) with CasADi?
 
 http://casadi.org/ 에서 software 다운, directory 설정
 
