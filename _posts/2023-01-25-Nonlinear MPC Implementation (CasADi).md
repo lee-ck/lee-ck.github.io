@@ -20,11 +20,10 @@ toc: true
     ![title](/fig/cvxgen4.png){: width="200"}{: .align-center}
 6. csolve.mexw64 를 함수로 사용하면 됨. 이때 2.에서 설정한 파라미터들을 적절하게 설정해줘야함.
 ex) 
-```Matlab
 
+```Matlab
 settings.verbose = 0; 
 % 여러가지 세팅 조절가능. 이거는 solution에 대한 결과를 print할지를 결정하는 파라미터.
-
 LMPC.A = A;
 LMPC.B = B;
 LMPC.Q = Q;
@@ -33,9 +32,7 @@ LMPC.R = R;
 LMPC.x_0 = x0;
 LMPC.u_max = u_max;
 LMPC.u_min = u_min;
-
 sol = csolve(LMPC,settings);
 u_KMPC = sol.u{1}; % 첫번째 input 사용.
-
 ```
 7. 

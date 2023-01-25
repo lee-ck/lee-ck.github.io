@@ -22,8 +22,8 @@ toc: true
     ![title](/fig/cvxgen4.png){: width="300"}{: .align-center}
 6. csolve.mexw64 를 함수로 사용하면 됨. 이때 2.에서 설정한 파라미터들을 적절하게 설정해줘야함.
 ex) 
-```Matlab
 
+```
 settings.verbose = 0; 
 % 여러가지 세팅 조절가능. 이거는 solution에 대한 결과를 print할지를 결정하는 파라미터.
 
