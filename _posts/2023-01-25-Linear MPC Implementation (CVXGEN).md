@@ -13,13 +13,13 @@ toc: true
 
 1. https://cvxgen.com/ 에서 아이디 생성
 2. *edit* 창에서 원하는 states, inputs, horizon, parameters 설정
-    ![title](/fig/cvxgen1.png){: width="300"}{: .align-center}
+    ![title](/fig/cvxgen1.png){: width="500"}{: .align-center}
 3. *generate C* 창에서 code generation 실행
-    ![title](/fig/cvxgen2.png){: width="300"}{: .align-center}
+    ![title](/fig/cvxgen2.png){: width="500"}{: .align-center}
 4. *matlab* 창에 화면에 나오는 커맨드 실행
-    ![title](/fig/cvxgen3.png){: width="300"}{: .align-center}
+    ![title](/fig/cvxgen3.png){: width="500"}{: .align-center}
 5. matlab에서 다음의 파일들이 저장됨
-    ![title](/fig/cvxgen4.png){: width="300"}{: .align-center}
+    ![title](/fig/cvxgen4.png){: width="200"}{: .align-center}
 6. csolve.mexw64 를 함수로 사용하면 됨. 이때 2.에서 설정한 파라미터들을 적절하게 설정해줘야함.
 ex) 
 
