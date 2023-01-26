@@ -43,7 +43,7 @@ MPC 구현할 때 자주 사용하는 Software List:
 
 2-dim toy example에서 연산속도 비교.
 
-quadprog > qpOASES >= CVXGEN
+qpSWIFT > CVXGEN > qpOASES >> quadprog
 
 ![title](/fig/cvx_comptime_compare.png){: width="500"}{: .align-center}
 
