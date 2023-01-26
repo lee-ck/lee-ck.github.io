@@ -37,10 +37,15 @@ MPC 구현할 때 자주 사용하는 Software List:
 >> Python 을 위한 Convex optimization
 
 > CVXGEN [https://cvxgen.com/](https://cvxgen.com/docs/index.html)
->> Convex optimization위한 코드 생성 - 빠름
->>
->> CVXGEN이 제일 빨랐음
+>> Convex optimization위한 코드 생성 
 
+> qpOASES, quadprog ...
+
+2-dim toy example에서 연산속도 비교.
+
+quadprog > qpOASES >= CVXGEN
+
+![title](/fig/cvx_comptime_compare.png){: width="500"}{: .align-center}
 
 
 **Reachability, Tube MPC**
