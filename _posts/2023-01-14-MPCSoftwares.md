@@ -26,6 +26,13 @@ MPC 구현할 때 자주 사용하는 Software List:
 >>
 >> 개인적으로 ACADO 보다 customize가 쉬움
 
+
+![title](/fig/noncvx_comptime_compare.png){: width="500"}{: .align-center}
+
+Figure from.
+
+Ref) Robin Verschueren et al., "acados—a modular open-source framework for fast embedded optimal control", Mathematical Programming Computation 2022
+
 **LMPC**
 
 > CVX [http://cvxr.com/cvx/](http://cvxr.com/cvx/)
