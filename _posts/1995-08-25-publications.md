@@ -14,6 +14,8 @@ toc: true
 
 ***Changyu Lee*** et al., "Safety-Guaranteed ~ Berthing ~," In prep., 2023
 
+***Changyu Lee*** et al., "MPC for Uncertain Nonlinear System  ~ Koopman Operator," In prep., 2023
+
 Jonghwi Kim, ***Changyu Lee*** et al., "Field experiment ~," under review, 2023
 
 Junwoo Jang, ***Changyu Lee*** et al., "A learning-based approach ~," under review, 2022.
