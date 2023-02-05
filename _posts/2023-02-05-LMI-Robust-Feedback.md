@@ -47,6 +47,7 @@ A^c & P^{-1}
 $$
 
 $K = YS^{-1}, P = S^{-1}$ gives
+
 $$
 \begin{bmatrix}
 S^{-1}-Q- S^{-1} Y^\top R YS^{-1} & A^\top+S^{-1}Y^\top B^\top \\
