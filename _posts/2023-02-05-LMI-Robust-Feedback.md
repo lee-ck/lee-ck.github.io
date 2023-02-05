@@ -31,7 +31,7 @@ $$
 $$
 
 $$
-    \text{s.t.} \quad A^c(p)^\top P A^C(P) - P \leq -Q - K^\top R K
+    \text{s.t.} \quad A^c(p)^\top P A^c(P) - P \leq -Q - K^\top R K
 $$
 
 where $A^c(p) = A(p) + BK$
