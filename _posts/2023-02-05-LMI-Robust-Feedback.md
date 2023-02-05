@@ -31,7 +31,7 @@ $$
 $$
 
 $$
-    \text{s.t.} A^c(p)^\top P A^C(P) - p < -Q - K^\top R K
+    \text{s.t.} A^c(p)^\top P A^C(P) - P < -Q - K^\top R K
 $$
 
 where $A^c(p) = A(p) + BK$
