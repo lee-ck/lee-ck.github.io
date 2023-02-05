@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Linear Matrix Inequality (LMI)"
+title:  "Robust State-Feedback Control (Linear Matrix Inequality (LMI))"
 tags: [MPC, Robust MPC]
 last_modified_at: 2023-02-05T16:00+09:00
 comments: true
