@@ -30,12 +30,13 @@ $$
     \min_{P,K} \text{tr}(P)
 $$
 
-Let $A^c(p) = A(p) + BK$
 $$
     \text{s.t.} A^c(p)^\top P A^C(P) - p < -Q - K^\top R K
 $$
 
+where $A^c(p) = A(p) + BK$
 
+LMI의 standard trick ($Y=P^{-1}, L=KY$)이용하여 convexification.
 
 ## Reference
 
