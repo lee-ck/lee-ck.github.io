@@ -18,7 +18,8 @@ Jonghwi Kim, ***Changyu Lee*** et al., "GPS-free Autonomous Navigation in the Na
 
 ***Changyu Lee*** et al., "Safety-Guaranteed Ship Berthing using Tube-based Model Predictive Control", In prep., 2023
 
-***Changyu Lee*** et al., "Model Predictive Control for Uncertain Nonlinear System based on Parameter-Varying Koopman Operater", In prep., 2023
+***Changyu Lee*** et al., "A Parameter-Varying Koopman Operator for Modeling and Control of
+Nonlinear Systems", In prep., 2023
 
 Jonghwi Kim, ***Changyu Lee*** et al., "Field experiment of autonomous ship navigation in canal and surrounding nearshore environments", under review, 2023
 
@@ -49,7 +50,7 @@ Junwoo Jang, ***Changyu Lee***, and Jinwhan Kim*, "Ambiguity Resolution Between 
 
 # Conference
 ## International
-Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "SMPC", ***In prep.*** (UR 2023)
+Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control", ***In prep.*** (UR 2023)
 
 Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis", ***Submitted*** (IFAC WC 2023)
 
