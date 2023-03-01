@@ -12,20 +12,20 @@ toc: true
 # Journal
 ## Preprint
 
-Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", In prep., 2023
+Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", In prep., 2023
 
-Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim, "Perception-guided Trajectory Planning and Control for an Autonomous Surface Vehicle in Narrow Waterways", In prep., 2023
+Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Perception-guided Trajectory Planning and Control for an Autonomous Surface Vehicle in Narrow Waterways", In prep., 2023
 
-***Changyu Lee***, Quoc Van Tran, Jinwhan Kim, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", In prep., 2023
+***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", In prep., 2023
 
-***Changyu Lee***, Kiyong Park, Jinwhan Kim, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", In prep., 2023
+***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", In prep., 2023
 
 Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim∗, Wangseok Jang, Saeyong Park, "Field experiment of autonomous ship navigation in canal and surrounding nearshore environments", under review, 2023
 
 
 Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction," under review, 2022.
 
-Quoc Van Tran, ***Changyu Lee*** et al., "Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach", Under revision, 2022
+Quoc Van Tran*, ***Changyu Lee*** et al., "Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach", Under revision, 2022
 
 ***Changyu Lee***, Jinwhan Kim*, "Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves", Under revision, 2022
 
