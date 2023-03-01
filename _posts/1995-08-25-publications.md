@@ -14,12 +14,11 @@ toc: true
 
 Dongha Chung, ***Changyu Lee*** et al., "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", In prep., 2023
 
-Jonghwi Kim, ***Changyu Lee*** et al., "GPS-free Autonomous Navigation in the Narrow Waterway by Detecting Front Navigable Regions Using Camera and LiDAR", In prep., 2023
+Jonghwi Kim, ***Changyu Lee*** et al., "Perception-guided Trajectory Planning and Control for an Autonomous Surface Vehicle in Narrow Waterways", In prep., 2023
 
-***Changyu Lee*** et al., "Safety-Guaranteed Ship Berthing using Tube-based Model Predictive Control", In prep., 2023
+***Changyu Lee*** et al., "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", In prep., 2023
 
-***Changyu Lee*** et al., "A Parameter-Varying Koopman Operator for Modeling and Control of
-Nonlinear Systems", In prep., 2023
+***Changyu Lee*** et al., "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", In prep., 2023
 
 Jonghwi Kim, ***Changyu Lee*** et al., "Field experiment of autonomous ship navigation in canal and surrounding nearshore environments", under review, 2023
 
@@ -50,7 +49,7 @@ Junwoo Jang, ***Changyu Lee***, and Jinwhan Kim*, "Ambiguity Resolution Between 
 
 # Conference
 ## International
-Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control", ***In prep.*** (UR 2023)
+Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control", ***Submitted*** (UR 2023)
 
 Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis", ***Submitted*** (IFAC WC 2023)
 
@@ -62,7 +61,7 @@ Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Ship Berthing Control wit
 
 
 ## Domestic
-박기용, ***이찬규***, 김진환*, " ~ 모델예측제어 ~", ***Submitted*** (로봇학회), 2023.
+박기용, ***이찬규***, 김진환*, "비선형 모델 예측 제어 기법을 이용한 두 개의 전방향 추진기를 갖는 선박의 자동 접안", 한국로봇학회 한국로봇종합학술대회, 2023. 02.
 
 ***이찬규***, 김진환*, "선박을 위한 강인한 모델예측제어기반 경로 추종 및 장애물 회피", 제어로봇시스템학회, 2022. 06.
 
