@@ -16,8 +16,9 @@ Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "Pohang Canal Datase
 
 ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", In prep., 2023
 
-##### --Under review--
 Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Detection and Path Folloing Control for Autonomous Ship Navigation in Narrow Waterways", under review, 2023
+
+##### --Under review--
 
 ***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", under review, 2023
 
@@ -26,7 +27,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim∗, Wang
 Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction," under review, 2022.
 
 ##### --Under revision--
-Quoc Van Tran*, ***Changyu Lee*** et al., "Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach", Under revision, 2022
 
 ***Changyu Lee***, Jinwhan Kim*, "Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves", Under revision, 2022
 
@@ -41,6 +41,7 @@ Quoc Van Tran*, ***Changyu Lee*** et al., "Robust Bearing-based Formation Tracki
 
 <!-- Dongha Chung, ***Changyu Lee*** et al., "Pohang Canal Dataset ~," In prep (100/100)., 2023 -->
 
+Quoc Van Tran*, ***Changyu Lee***, Jinwhan Kim, Quang Hoang Nguyen, "Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach", IEEE Transactions on Control of Network Systems, Accepted, 2023
 
 Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking", IEEE Sensors Letters, Vol. 6, No. 5, 2022.
 
