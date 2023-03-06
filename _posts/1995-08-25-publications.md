@@ -30,10 +30,10 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim∗, Wang
 
 Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction," under review, 2022. -->
 
-Dongha Chung, ***Changyu Lee***, ~, "Pohang Canal ~", In prep., 2023
+Dongha Chung, ***Changyu Lee***, ~, "Pohang Canal ~", Under review, 2023
 
 
-Jonghwi Kim, ***Changyu Lee***, ~, "Navigable Area ~", In prep., 2023
+Jonghwi Kim, ***Changyu Lee***, ~, "Navigable Area ~", Under review, 2023
 
 ***Changyu Lee***, ~, "Parameter-Varying Koopman Operator ~", Under review, 2023
 
