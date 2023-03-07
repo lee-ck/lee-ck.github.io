@@ -33,7 +33,7 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "A learning-based approach to surf
 Dongha Chung, ***Changyu Lee***, ~, "Pohang Canal ~", Under review, 2023
 
 
-Jonghwi Kim, ***Changyu Lee***, ~, "Navigable Area ~", Under review, 2023
+Jonghwi Kim$^\dagger$, ***Changyu Lee***$^\dagger$, ~, "Navigable Area ~", Under review, 2023 ($^\dagger$co-author)
 
 ***Changyu Lee***, ~, "Parameter-Varying Koopman Operator ~", Under review, 2023
 
