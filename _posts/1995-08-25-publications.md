@@ -19,7 +19,7 @@ toc: true
 Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Detection and Path Folloing Control for Autonomous Ship Navigation in Narrow Waterways", under review, 2023 -->
 
 
-***C. Lee***, Q. V. Tran ~, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", In prep. (TCST), 2023
+***C. Lee***, Q. V. Tran, J. Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", In prep. (TCST), 2023
 
 
 ##### --Under review--
@@ -30,12 +30,12 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim∗, Wang
 
 Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction," under review, 2022. -->
 
-D. Chung, ***C. Lee***, J. Kim, J.Kim "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (IJRR), 2023
+D. Chung, ***C. Lee***, J. Kim, J.Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (IJRR), 2023
 
 
-Jonghwi Kim$^\dagger$, ***C. Lee***$^\dagger$, D. Chung, J. Kim, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under review (RAL), 2023 ($^\dagger$: equally contributed)
+Jonghwi Kim$^\dagger$, ***C. Lee***$^\dagger$, D. Chung, J. Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under review (RAL), 2023 ($^\dagger$: equally contributed)
 
-***C. Lee***, K. Park, J. Kim, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", Under review (L-CSS (CDC option)), 2023
+***C. Lee***, K. Park, J. Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", Under review (L-CSS (CDC option)), 2023
 
 J. Kim, ***C. Lee***, D. Chung, Y. Cho, J. Kim*, W. Jang, S. Park, "Field experiment of autonomous ship navigation in canal and surrounding nearshore environments", Under review (JFR), 2023
 
