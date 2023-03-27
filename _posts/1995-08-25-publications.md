@@ -39,7 +39,7 @@ Jonghwi Kim$^\dagger$, ***C. Lee***$^\dagger$, D. Chung, J. Kim*, "Navigable Are
 
 J. Kim, ***C. Lee***, D. Chung, Y. Cho, J. Kim*, W. Jang, S. Park, "Field experiment of autonomous ship navigation in canal and surrounding nearshore environments", Under review (JFR), 2023
 
-J. Jang, ***C. Lee***, J. Kim*, "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction", Under review, 2022.
+J. Jang, ***C. Lee***, J. Kim*, "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction", Under review (AURO)), 2022.
 
 ##### --Under revision--
 
@@ -83,6 +83,11 @@ Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Ship Berthing Control wit
 
 
 ## Domestic
+
+정동하, 김종휘, ***이찬규***, 김진환*, "자율 운항 연구를 위한 다중 센서 데이터 취득 방법", 해양공학회, 2023
+
+김종휘, ***이찬규***, 정동하, 김진환*, "~", 조선학회, 2023
+
 박기용, ***이찬규***, 김진환*, "비선형 모델 예측 제어 기법을 이용한 두 개의 전방향 추진기를 갖는 선박의 자동 접안", 한국로봇학회 한국로봇종합학술대회, 2023. 02.
 
 ***이찬규***, 김진환*, "선박을 위한 강인한 모델예측제어기반 경로 추종 및 장애물 회피", 제어로봇시스템학회, 2022. 06.
