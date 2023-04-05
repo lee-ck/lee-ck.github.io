@@ -19,10 +19,11 @@ toc: true
 Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Detection and Path Folloing Control for Autonomous Ship Navigation in Narrow Waterways", under review, 2023 -->
 
 
-***C. Lee***, Q. V. Tran, J. Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", In prep. (TCST), 2023
-
 
 ##### --Under review--
+
+***C. Lee***, Q. V. Tran, J. Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", Under review. (TCST), 2023
+
 
 <!-- ***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", under review, 2023
 
@@ -47,7 +48,7 @@ J. Jang, ***C. Lee***, J. Kim*, "A learning-based approach to surface vehicle dy
 
 ***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment", Under revision, 2022  -->
 
-***C. Lee***, J. Kim*, "Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves", Under revision (CEP), 2022
+***C. Lee***, J. Kim*, "Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves", Provisionally Accepted (CEP), 2022
 
 ***C. Lee***, D. Chung, J. Kim, J. Kim*, "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment", Under revision (TMECH), 2022 
 
