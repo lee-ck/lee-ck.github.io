@@ -9,6 +9,12 @@ toc: true
 ---
 
 
+
+2020 CDC, "Deep Learning of Koopman Representation for Control"
+- DNN Koopman을 Controlled dynamical system 으로 확장
+- OpenAI Gym 시뮬레이션 제어 성능 검증
+
+
 <!-- ## Wha
 
 Koopman Operator는 비선형 시스템을 (by evolving functions of the state "as known as observable function") infinite-dim.의 선형 시스템으로 표현해주는 Operator.

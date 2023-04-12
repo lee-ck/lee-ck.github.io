@@ -36,7 +36,7 @@ D. Chung, ***C. Lee***, J. Kim, J.Kim*, "Pohang Canal Dataset: A Multimodal Mari
 
 Jonghwi Kim$^\dagger$, ***C. Lee***$^\dagger$, D. Chung, J. Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under review (RAL), 2023 ($^\dagger$: equally contributed)
 
-***C. Lee***, K. Park, J. Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", Under review (L-CSS (CDC option)), 2023
+***C. Lee***, K. Park, J. Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", Under review (CDC 2023), 2023
 
 J. Kim, ***C. Lee***, D. Chung, Y. Cho, J. Kim*, W. Jang, S. Park, "Field experiment of autonomous ship navigation in canal and surrounding nearshore environments", Under review (JFR), 2023
 
