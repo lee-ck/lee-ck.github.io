@@ -2,7 +2,7 @@
 layout: single
 title:  "Koopman Operator"
 tags: [Koopman]
-last_modified_at: 2023-01-14T16:00+09:00
+last_modified_at: 2023-04-13T16:00+09:00
 comments: true
 author_profile: false
 toc: true
@@ -20,7 +20,7 @@ Koopman Operator는 비선형 시스템을 (by evolving functions of the state "
 
 How to approximate
 - Data-driven
-- <mark>No prior information</mark>
+- No prior information
 - DMD, EDMD, DNN 등의 방법들이 사용됨
 
 ## Basic Mathematical Formulation

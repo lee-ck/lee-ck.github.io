@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Koopman Operator"
+title:  "Koopman Operator 2"
 tags: [Koopman]
 last_modified_at: 2023-03-30T16:00+09:00
 comments: true
@@ -10,10 +10,13 @@ toc: true
 
 
 
-2020 CDC, "Deep Learning of Koopman Representation for Control"
+
+
+
+<!-- 2020 CDC, "Deep Learning of Koopman Representation for Control"
 - DNN Koopman을 Controlled dynamical system 으로 확장
 - OpenAI Gym 시뮬레이션 제어 성능 검증
-
+ -->
 
 <!-- ## Wha
 
