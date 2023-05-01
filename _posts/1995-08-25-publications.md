@@ -31,23 +31,24 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim∗, Wang
 
 Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction," under review, 2022. -->
 
-D. Chung, ***C. Lee***, J. Kim, J.Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (IJRR), 2023
-
-
 J. Kim, ***C. Lee***, D. Chung, Y. Cho, J. Kim*, W. Jang, S. Park, "Field experiment of autonomous ship navigation in canal and surrounding nearshore environments", Under review (JFR), 2023
 
 J. Jang, ***C. Lee***, J. Kim*, "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction", Under review (AURO)), 2022.
 
 ##### --Under revision--
 
-Jonghwi Kim$^\dagger$, ***C. Lee***$^\dagger$, D. Chung, J. Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under review (RAL), 2023 ($^\dagger$: equally contributed)
+
+D. Chung, ***C. Lee***, J. Kim, J.Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (IJRR), 2023
+
+
+Jonghwi Kim$^\dagger$, ***C. Lee***$^\dagger$, D. Chung, J. Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under revision (RAL), 2023 ($^\dagger$: equally contributed)
 
 
 <!-- ***Changyu Lee***, Jinwhan Kim*, "Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves", Under revision, 2022
 
 ***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment", Under revision, 2022  -->
 
-***C. Lee***, D. Chung, J. Kim, J. Kim*, "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment", Under revision (TMECH), 2022 
+***C. Lee***, D. Chung, J. Kim, J. Kim*, "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment", Under revision (TMECH), 2023
 
 ## International
 <!-- (1st - 5 papers, 2nd - 5 papers) -->
