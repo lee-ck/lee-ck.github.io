@@ -38,7 +38,7 @@ J. Jang, ***C. Lee***, J. Kim*, "A learning-based approach to surface vehicle dy
 ##### --Under revision--
 
 
-D. Chung, J. Kim, ***C. Lee***, J.Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (IJRR), 2023
+D. Chung, J. Kim, ***C. Lee***, J.Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under revision (IJRR), 2023
 
 
 Jonghwi Kim$^\dagger$, ***C. Lee***$^\dagger$, D. Chung, J. Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under revision (RAL), 2023 ($^\dagger$: equally contributed)
