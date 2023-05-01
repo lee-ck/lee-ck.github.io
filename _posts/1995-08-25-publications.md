@@ -66,6 +66,8 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "Ambiguity Resolution Between Cons
 
 
 ## Domestic
+***이찬규***, 김진환*, "Trajectory Optimization for Autonomous Berthing of Twin-Propeller Twin-Rudder Ship", 해양공학회지 2023, ***In progress***
+
 ***이찬규***, 장준우, 김진환*, "확률 모델예측제어 알고리즘을 이용한 작동기 수가 부족한 무인잠수정 운동 제어", 제어로봇시스템학회지, Vol. 26(5), pp. 373-378, May. 2020.
 
 
@@ -73,7 +75,7 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "Ambiguity Resolution Between Cons
 ## International
 ***C. Lee***, K. Park, J. Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", ***Submitted*** (CDC 2023)
 
-Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control", ***Submitted*** (UR 2023)
+Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control", ***Accepted*** (UR 2023)
 
 Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis", ***Accepted*** (IFAC WC 2023)
 
