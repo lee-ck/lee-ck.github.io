@@ -34,14 +34,14 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "A learning-based approach to surf
 D. Chung, ***C. Lee***, J. Kim, J.Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (IJRR), 2023
 
 
-Jonghwi Kim$^\dagger$, ***C. Lee***$^\dagger$, D. Chung, J. Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under review (RAL), 2023 ($^\dagger$: equally contributed)
-
-
 J. Kim, ***C. Lee***, D. Chung, Y. Cho, J. Kim*, W. Jang, S. Park, "Field experiment of autonomous ship navigation in canal and surrounding nearshore environments", Under review (JFR), 2023
 
 J. Jang, ***C. Lee***, J. Kim*, "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction", Under review (AURO)), 2022.
 
 ##### --Under revision--
+
+Jonghwi Kim$^\dagger$, ***C. Lee***$^\dagger$, D. Chung, J. Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under review (RAL), 2023 ($^\dagger$: equally contributed)
+
 
 <!-- ***Changyu Lee***, Jinwhan Kim*, "Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves", Under revision, 2022
 
