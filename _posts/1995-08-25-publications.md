@@ -63,7 +63,7 @@ J. Jang, ***C. Lee***, J. Kim*, "A learning-based approach to surface vehicle dy
 
 <!-- Dongha Chung, ***Changyu Lee*** et al., "Pohang Canal Dataset ~," In prep (100/100)., 2023 -->
 
-***C. Lee***, J. Kim*, "Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves", Control Engineering Practice, Accepted, 2022
+***Changyu Lee***, Jinwhan Kim*, "Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves", Control Engineering Practice, Accepted, 2022
 
 Quoc Van Tran*, ***Changyu Lee***, Jinwhan Kim, Quang Hoang Nguyen, "Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach", IEEE Transactions on Control of Network Systems, Accepted, 2023
 
