@@ -13,9 +13,9 @@ toc: true
 ## Preprint
 ##### --In preparation--
 
-"Deep Koopman Operator Modeling ~ "
+"Deep Koopman Operator Modeling for Surface Vehicle"
 
-"Safety ~ Ship contro
+"Safety-guranteed Ship control ~ using DKTMPC (Deep Koopman operator TMPC)"
 
 <!-- Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", In prep., 2023
 
@@ -36,13 +36,13 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim∗, Wang
 
 Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction," under review, 2022. -->
 
-D. Chung, ***C. Lee***, J. Kim, J.Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (International Journal of Robotics Research), 2023
-
-
 J. Kim, ***C. Lee***, D. Chung, Y. Cho, J. Kim*, W. Jang, S. Park, "Field experiment of autonomous ship navigation in canal and surrounding nearshore environments", Under review (Journal of Field Robotics), 2023
 
 
 ##### --Under revision--
+
+D. Chung, ***C. Lee***, J. Kim, J.Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (International Journal of Robotics Research), 2023
+
 
 Jonghwi Kim$^\dagger$, ***C. Lee***$^\dagger$, D. Chung, J. Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under revision (IEEE Robotics and Automation Letters), 2023 ($^\dagger$: equally contributed)
 
