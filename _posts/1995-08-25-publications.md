@@ -41,7 +41,7 @@ J. Kim, ***C. Lee***, D. Chung, Y. Cho, J. Kim*, W. Jang, S. Park, "Field experi
 
 ##### --Under revision--
 
-D. Chung, ***C. Lee***, J. Kim, J.Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (International Journal of Robotics Research), 2023
+D. Chung, J. Kim, ***C. Lee***, J.Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (International Journal of Robotics Research), 2023
 
 
 Jonghwi Kim$^\dagger$, ***C. Lee***$^\dagger$, D. Chung, J. Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under revision (IEEE Robotics and Automation Letters), 2023 ($^\dagger$: equally contributed)
