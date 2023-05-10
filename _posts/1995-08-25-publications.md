@@ -11,7 +11,7 @@ toc: true
 
 # Journal
 ## Preprint
-##### --In preparation--
+### --In preparation--
 
 "Deep Koopman Operator Modeling for Surface Vehicle"
 
@@ -25,7 +25,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 
 
-##### --Under review--
+### --Under review--
 
 ***C. Lee***, Q. V. Tran, J. Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", Under review. (IEEE Transactions on Control Systems Technology), 2023
 
@@ -39,7 +39,7 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "A learning-based approach to surf
 J. Kim, ***C. Lee***, D. Chung, Y. Cho, J. Kim*, W. Jang, S. Park, "Field experiment of autonomous ship navigation in canal and surrounding nearshore environments", Under review (Journal of Field Robotics), 2023
 
 
-##### --Under revision--
+### --Under revision--
 
 D. Chung, J. Kim, ***C. Lee***, J.Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (International Journal of Robotics Research), 2023
 
