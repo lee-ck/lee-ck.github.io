@@ -13,9 +13,9 @@ toc: true
 ## Preprint
 ### --In preparation--
 
-"Deep Koopman Operator Modeling for Surface Vehicle"
+"Deep Koopman Operator for Surface Vehicle Modeling" (IEEE Control Systems Letters with ACC 2024)
 
-"Safety-guranteed Ship control ~ using DKTMPC (Deep Koopman operator TMPC)"
+<!-- "Safety-guranteed Ship control ~ using DKTMPC (Deep Koopman operator TMPC)" T -->
 
 <!-- Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", In prep., 2023
 
