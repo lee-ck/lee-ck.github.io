@@ -13,7 +13,7 @@ toc: true
 ## Preprint
 ### --In preparation--
 
-"Koopman-based Disturbance Compensating Model Predictive for Nonlinear Ship Heading Control" (IEEE Transactions on Control Systems Technology 2023)
+"Koopman-based Disturbance Compensating Model Predictive Ship Heading Control" (IEEE Transactions on Control Systems Technology 2023)
 
 <!-- "Safety-guranteed Ship control ~ using DKTMPC (Deep Koopman operator TMPC)" T -->
 
