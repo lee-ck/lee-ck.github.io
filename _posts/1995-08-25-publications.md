@@ -13,7 +13,7 @@ toc: true
 ## Preprint
 ### --In preparation--
 
-"Deep Koopman Operator for Surface Vehicle Modeling" (IEEE Control Systems Letters with ACC 2024)
+"Koopman-based Disturbance Compensating Model Predictive for Nonlinear Ship Heading Control" (IEEE Transactions on Control Systems Technology 2023)
 
 <!-- "Safety-guranteed Ship control ~ using DKTMPC (Deep Koopman operator TMPC)" T -->
 
@@ -93,9 +93,9 @@ Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Ship Berthing Control wit
 
 ## Domestic
 
-정동하, 김종휘, ***이찬규***, 김진환*, "자율 운항 연구를 위한 다중 센서 데이터셋 소개", 해양공학회, 2023
+정동하, 김종휘, ***이찬규***, 김진환*, "자율 운항 연구를 위한 다중 센서 데이터셋 소개", 한국해양공학회, 2023
 
-김종휘, 정동하, ***이찬규***, 김진환*, "가항영역 탐지를 통한 운하 환경에서의 자율 경로 생성", 조선학회, 2023
+김종휘, 정동하, ***이찬규***, 김진환*, "가항영역 탐지를 통한 운하 환경에서의 자율 경로 생성", 대한조선학회, 2023
 
 박기용, ***이찬규***, 김진환*, "비선형 모델 예측 제어 기법을 이용한 두 개의 전방향 추진기를 갖는 선박의 자동 접안", 한국로봇학회 한국로봇종합학술대회, 2023. 02.
 
