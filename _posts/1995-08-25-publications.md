@@ -82,9 +82,9 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "Ambiguity Resolution Between Cons
 ## International
 ***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", ***Submitted*** (CDC 2023)
 
-Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control", ***Accepted*** (UR 2023)
-
 Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis", ***Accepted*** (IFAC WC 2023)
+
+Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control", ***Accepted*** (UR 2023)
 
 ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles", 14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Copenhagen, Denmark, Sep. 2022.
 
