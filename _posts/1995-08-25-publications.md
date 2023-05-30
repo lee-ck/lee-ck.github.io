@@ -41,10 +41,10 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangse
 
 ### --Under revision--
 
-Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (International Journal of Robotics Research), 2023
+Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under revision (International Journal of Robotics Research), 2023
 
 
-**Jonghwi Kim$^\dagger$**, ***Changyu Lee$^\dagger$***, Dongha Chung, Jinwhan Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under revision (IEEE Robotics and Automation Letters), 2023 **($^\dagger$: equally contributed)**
+Jonghwi Kim$^\dagger$, ***Changyu Lee$^\dagger$***, Dongha Chung, Jinwhan Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under revision (IEEE Robotics and Automation Letters), 2023 **($^\dagger$: equally contributed)**
 
 <!-- ***Changyu Lee***, Jinwhan Kim*, "Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves", Under revision, 2022
 
