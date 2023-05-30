@@ -13,7 +13,7 @@ toc: true
 ## Preprint
 ### --In preparation--
 
-"Koopman-based Disturbance Compensating Model Predictive Ship Heading Control" (IEEE Transactions on Control Systems Technology 2023)
+***Changyu Lee*** and Jinwhan Kim*, "Koopman-based Disturbance Compensating Model Predictive Ship Heading Control" (IEEE Transactions on Control Systems Technology 2023)
 
 <!-- "Safety-guranteed Ship control ~ using DKTMPC (Deep Koopman operator TMPC)" T -->
 
@@ -27,7 +27,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ### --Under review--
 
-***C. Lee***, Q. V. Tran, J. Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", Under review. (IEEE Transactions on Control Systems Technology), 2023
+***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", Under review. (IEEE Transactions on Control Systems Technology), 2023
 
 
 <!-- ***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", under review, 2023
@@ -36,21 +36,21 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim∗, Wang
 
 Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction," under review, 2022. -->
 
-J. Kim, ***C. Lee***, D. Chung, Y. Cho, J. Kim*, W. Jang, S. Park, "Field experiment of autonomous ship navigation in canal and surrounding nearshore environments", Under review (Journal of Field Robotics), 2023
+Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park, "Field experiment of autonomous ship navigation in canal and surrounding nearshore environments", Under review (Journal of Field Robotics), 2023
 
 
 ### --Under revision--
 
-D. Chung, J. Kim, ***C. Lee***, J.Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (International Journal of Robotics Research), 2023
+Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (International Journal of Robotics Research), 2023
 
 
-Jonghwi Kim$^\dagger$, ***C. Lee***$^\dagger$, D. Chung, J. Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under revision (IEEE Robotics and Automation Letters), 2023 ($^\dagger$: equally contributed)
+Jonghwi Kim$^\dagger$, ***Changyu Lee***$^\dagger$, Dongha Chung, Jinwhan Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under revision (IEEE Robotics and Automation Letters), 2023 ($^\dagger$: equally contributed)
 
 <!-- ***Changyu Lee***, Jinwhan Kim*, "Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves", Under revision, 2022
 
 ***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment", Under revision, 2022  -->
 
-***C. Lee***, D. Chung, J. Kim, J. Kim*, "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment", Under revision (IEEE/ASME TRANSACTIONS ON MECHATRONICS), 2023
+***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment", Under revision (IEEE/ASME TRANSACTIONS ON MECHATRONICS), 2023
 
 ## International
 <!-- (1st - 5 papers, 2nd - 5 papers) -->
@@ -62,7 +62,7 @@ Jonghwi Kim$^\dagger$, ***C. Lee***$^\dagger$, D. Chung, J. Kim*, "Navigable Are
 <!-- Dongha Chung, ***Changyu Lee*** et al., "Pohang Canal Dataset ~," In prep (100/100)., 2023 -->
 
 
-J. Jang, ***C. Lee***, J. Kim*, "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction", Autonomous Robots, Accepted, 2023.
+Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction", Autonomous Robots, Accepted, 2023.
 
 
 ***Changyu Lee***, Jinwhan Kim*, "Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsin Irregular Waves", Control Engineering Practice, Accepted, 2023
@@ -80,7 +80,7 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "Ambiguity Resolution Between Cons
 
 # Conference
 ## International
-***C. Lee***, K. Park, J. Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", ***Submitted*** (CDC 2023)
+***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", ***Submitted*** (CDC 2023)
 
 Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control", ***Accepted*** (UR 2023)
 
