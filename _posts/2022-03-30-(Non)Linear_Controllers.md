@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "(Non-)Linear Controllers"
-tags: [Control]
+tags: []
 last_modified_at: 2023-04-13T16:00+09:00
 comments: true
 author_profile: false
