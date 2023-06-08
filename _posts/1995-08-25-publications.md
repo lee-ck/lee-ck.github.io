@@ -13,7 +13,9 @@ toc: true
 ## Preprint
 ### --In preparation--
 
-***Changyu Lee*** and Jinwhan Kim*, "Koopman-based Disturbance Compensating Model Predictive Ship Heading Control" 
+Tube-based LOS-MPC for Underactuated Ship Path Following
+
+PVKO-Pohang SI Data + Koopman MPC
 
 
 <!-- "Safety-guranteed Ship control ~ using DKTMPC (Deep Koopman operator TMPC)" T -->
@@ -42,10 +44,10 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangse
 
 ### --Under revision--
 
-Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under review (International Journal of Robotics Research), 2023
+Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", Under revision (International Journal of Robotics Research), 2023
 
 
-Jonghwi Kim$^\dagger$, ***Changyu Lee***$^\dagger$, Dongha Chung, Jinwhan Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under revision (IEEE Robotics and Automation Letters), 2023 ($^\dagger$: equally contributed)
+Jonghwi Kim$^\dagger$, ***Changyu Lee$^\dagger$***, Dongha Chung, Jinwhan Kim*, "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways", Under revision (IEEE Robotics and Automation Letters), 2023 **($^\dagger$: equally contributed)**
 
 <!-- ***Changyu Lee***, Jinwhan Kim*, "Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves", Under revision, 2022
 
@@ -83,9 +85,9 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "Ambiguity Resolution Between Cons
 ## International
 ***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", ***Submitted*** (CDC 2023)
 
-Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control", ***Accepted*** (UR 2023)
-
 Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis", ***Accepted*** (IFAC WC 2023)
+
+Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control", ***Accepted*** (UR 2023)
 
 ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles", 14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Copenhagen, Denmark, Sep. 2022.
 
