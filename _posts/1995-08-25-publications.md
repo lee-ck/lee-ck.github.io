@@ -15,7 +15,7 @@ toc: true
 
 Tube-based LOS-MPC for Underactuated Ship Path Following
 
-PVKO-Pohang SI Data + Koopman MPC
+<!-- PVKO-Pohang SI Data + Koopman MPC -->
 
 
 <!-- "Safety-guranteed Ship control ~ using DKTMPC (Deep Koopman operator TMPC)" T -->
@@ -98,7 +98,7 @@ Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle
 
 ## Domestic
 
-정동하, 김종휘, ***이찬규***, 김진환*, "자율 운항 연구를 위한 다중 센서 데이터셋 소개", 한국해양공학회, 2023
+정동하, 김종휘, ***이찬규***, 김진환*, "자율운항 연구를 위한 다중 센서 데이터 소개", 한국해양공학회, 2023
 
 김종휘, 정동하, ***이찬규***, 김진환*, "가항영역 탐지를 통한 운하 환경에서의 자율 경로 생성", 대한조선학회, 2023
 
