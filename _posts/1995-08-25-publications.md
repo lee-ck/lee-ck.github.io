@@ -76,7 +76,7 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "Ambiguity Resolution Between Cons
 
 
 ## Domestic
-***이찬규***, 김진환*, "Trajectory Optimization for Autonomous Berthing of a Twin-Propeller Twin-Rudder Ship", (JOET) 해양공학회지 2023, ***Submitted***
+***이찬규***, 김진환*, "Trajectory Optimization for Autonomous Berthing of a Twin-Propeller Twin-Rudder Ship", (JOET) 해양공학회지, Vol. 37(3), pp. 122-128, Jun. 2023.
 
 ***이찬규***, 장준우, 김진환*, "확률 모델예측제어 알고리즘을 이용한 작동기 수가 부족한 무인잠수정 운동 제어", (ICROS) 제어로봇시스템학회지, Vol. 26(5), pp. 373-378, May. 2020.
 
@@ -85,15 +85,15 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "Ambiguity Resolution Between Cons
 ## International
 ***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", ***Submitted*** (CDC 2023)
 
-Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis", ***Accepted*** (IFAC WC 2023)
+Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis", 22nd IFAC World Congress, Yokohama, Japnan, Jul, 2023.
 
-Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control", ***Accepted*** (UR 2023)
+Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control", 20th International Conference on Ubiquitous Robots (UR), Honolulu, USA, Jun, 2023.
 
 ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles", 14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Copenhagen, Denmark, Sep. 2022.
 
 ***Changyu Lee***, Jinwhan Kim*, "Energy Efficient Control for Electric Ship Propulsion Considering Thrust Fluctuation in Regular Waves", 13th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Oldenburg, Germany, Sep. 2021.
 
-***Changyu Lee***, Jinwhan Kim*, "Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking", 2019 16th International Conference on Ubiquitous Robots (UR), Jeju, Korea, Jun, 2019.
+***Changyu Lee***, Jinwhan Kim*, "Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking", 16th International Conference on Ubiquitous Robots (UR), Jeju, Korea, Jun, 2019.
 
 
 ## Domestic
