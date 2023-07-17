@@ -11,9 +11,9 @@ toc: true
 
 # Journal
 ## Preprint
-### --In preparation--
+<!-- ### --In preparation--
 
-Tube-based LOS-MPC for Underactuated Ship Path Following
+Tube-based LOS-MPC for Underactuated Ship Path Following -->
 
 <!-- PVKO-Pohang SI Data + Koopman MPC -->
 
@@ -68,7 +68,7 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "Ambiguity Resolution Between Cons
 ## International
 ***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", ***Accepted*** (CDC 2023)
 
-Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis", 22nd IFAC World Congress, Yokohama, Japnan, Jul, 2023.
+Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis", 22nd IFAC World Congress, Yokohama, Japan, Jul, 2023.
 
 Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control", 20th International Conference on Ubiquitous Robots (UR), Honolulu, USA, Jun, 2023.
 
