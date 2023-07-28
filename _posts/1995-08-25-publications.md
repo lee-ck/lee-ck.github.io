@@ -34,10 +34,10 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ### --Under revision--
 
 
-***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", Under revision. (IEEE Transactions on Control Systems Technology), 2023
+***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control]()", Under revision. (IEEE Transactions on Control Systems Technology), 2023
 
 
-Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park, "Field experiment of autonomous ship navigation in canal and surrounding nearshore environments", Under revision (JFR, Journal of Field Robotics), 2023
+Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park, "[Field experiment of autonomous ship navigation in canal and surrounding nearshore environments]()", Under revision (JFR, Journal of Field Robotics), 2023
 
 
 ***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "[Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment](https://arxiv.org/abs/2307.09845)", Under revision (TMECH, IEEE/ASME TRANSACTIONS ON MECHATRONICS), 2023
@@ -69,17 +69,17 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[Ambiguity Resolution Between Con
 
 # Conference
 ## International
-***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control", ***Accepted*** (CDC 2023)
+***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "[Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control]()", ***Accepted*** (CDC 2023)
 
-Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis", 22nd IFAC World Congress, Yokohama, Japan, Jul, 2023.
+Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis]()", 22nd IFAC World Congress, Yokohama, Japan, Jul, 2023.
 
-Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control", 20th International Conference on Ubiquitous Robots (UR), Honolulu, USA, Jun, 2023.
+Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control]()", 20th International Conference on Ubiquitous Robots (UR), Honolulu, USA, Jun, 2023.
 
 ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles](https://www.sciencedirect.com/science/article/pii/S2405896322024922)", 14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Copenhagen, Denmark, Sep. 2022.
 
 ***Changyu Lee***, Jinwhan Kim*, "[Energy Efficient Control for Electric Ship Propulsion Considering Thrust Fluctuation in Regular Waves](https://www.sciencedirect.com/science/article/pii/S2405896321015196)", 13th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Oldenburg, Germany, Sep. 2021.
 
-***Changyu Lee***, Jinwhan Kim*, "Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking", 16th International Conference on Ubiquitous Robots (UR), Jeju, Korea, Jun, 2019.
+***Changyu Lee***, Jinwhan Kim*, "[Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking](https://ieeexplore.ieee.org/document/8768710)", 16th International Conference on Ubiquitous Robots (UR), Jeju, Korea, Jun, 2019.
 
 
 ## Domestic
