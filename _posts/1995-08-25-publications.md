@@ -64,6 +64,8 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[Ambiguity Resolution Between Con
 ## Domestic
 ***이찬규***, 김진환*, "[Trajectory Optimization for Autonomous Berthing of a Twin-Propeller Twin-Rudder Ship](https://www.joet.org/m/journal/view.php?number=3108)", (JOET) 해양공학회지, Vol. 37(3), pp. 122-128, Jun. 2023.
 
+***이찬규***, 김경서, 김진환*, "2023 MBZIRC Maritime Grand Challenge 대회 소개", 로봇과 인간, Vol. 19(2), pp. 32-37, Apr. 2022.
+
 ***이찬규***, 장준우, 김진환*, "확률 모델예측제어 알고리즘을 이용한 작동기 수가 부족한 무인잠수정 운동 제어", (ICROS) 제어로봇시스템학회지, Vol. 26(5), pp. 373-378, May. 2020.
 
 
