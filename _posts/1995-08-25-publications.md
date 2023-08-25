@@ -45,7 +45,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangse
 
 ## International
 
-Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "[Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters](https://arxiv.org/abs/2303.05555)", International Journal of Robotics Research (IJRR), 2023
+Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "[Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters](https://journals.sagepub.com/doi/10.1177/02783649231191145)", International Journal of Robotics Research (IJRR), 2023
 
 
 Jonghwi Kim$^\dagger$, ***Changyu Lee$^\dagger$***, Dongha Chung, Jinwhan Kim*, "[Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways](https://ieeexplore.ieee.org/document/10172331)", IEEE Robotics and Automation Letters (RA-L), 2023 **($^\dagger$: equally contributed)**
