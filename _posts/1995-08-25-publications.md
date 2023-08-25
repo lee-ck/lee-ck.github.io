@@ -75,7 +75,7 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[Ambiguity Resolution Between Con
 
 Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis]()", 22nd IFAC World Congress, Yokohama, Japan, Jul, 2023.
 
-Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control]()", 20th International Conference on Ubiquitous Robots (UR), Honolulu, USA, Jun, 2023.
+Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control](https://ieeexplore.ieee.org/document/10202550)", 20th International Conference on Ubiquitous Robots (UR), Honolulu, USA, Jun, 2023.
 
 ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles](https://www.sciencedirect.com/science/article/pii/S2405896322024922)", 14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Copenhagen, Denmark, Sep. 2022.
 
