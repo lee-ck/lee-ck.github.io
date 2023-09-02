@@ -40,10 +40,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park, "[Field experiment of autonomous ship navigation in canal and surrounding nearshore environments]()", Under revision (JFR, Journal of Field Robotics), 2023
 
 
-***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "[Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment](https://arxiv.org/abs/2307.09845)", Under revision (TMECH, IEEE/ASME TRANSACTIONS ON MECHATRONICS), 2023
-
-
 ## International
+
+
+***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "[Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment](https://arxiv.org/abs/2307.09845)", Accepted (TMECH, IEEE/ASME TRANSACTIONS ON MECHATRONICS), 2023
+
 
 Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "[Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters](https://journals.sagepub.com/doi/10.1177/02783649231191145)", International Journal of Robotics Research (IJRR), 2023
 
