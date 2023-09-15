@@ -10,7 +10,7 @@ toc: true
 &larr; visit my google scholar
 
 # Journal
-## Preprint
+## Preprint (In preparation)
 <!-- ### --In preparation--
 
 Tube-based LOS-MPC for Underactuated Ship Path Following -->
@@ -25,6 +25,8 @@ Tube-based LOS-MPC for Underactuated Ship Path Following -->
 ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", In prep., 2023
 
 Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Detection and Path Folloing Control for Autonomous Ship Navigation in Narrow Waterways", under review, 2023 -->
+
+***Changyu Lee***, Jinwhan Kim*, "Robust Trajectory Planning and Control for Quadrotor using Cascade Tube-based Model Predictive Control", (IEEE Control Systems Letter (L-CSS))
 
 
 
