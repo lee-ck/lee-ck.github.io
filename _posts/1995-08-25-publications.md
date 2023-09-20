@@ -107,6 +107,8 @@ ${\color{blue}\it 02.}$ ***이찬규***, 김경서, 김진환*, "[2023 MBZIRC Ma
 
 ${\color{blue}\it 01.}$ ***이찬규***, 장준우, 김진환*, "[확률 모델예측제어 알고리즘을 이용한 작동기 수가 부족한 무인잠수정 운동 제어](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002585054)", (ICROS) 제어로봇시스템학회지, Vol. 26(5), pp. 373-378, May. 2020.
 
+![Image](/fig/ICROS.jpg){: width="600"}{: .align-center}
+
 ---
 
 
