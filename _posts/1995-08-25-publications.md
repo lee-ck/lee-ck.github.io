@@ -43,6 +43,8 @@ ${\color{blue}\it 02.}$ ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Safety
 ![Image](/fig/TCST.gif)
 
 
+---
+
 ${\color{blue}\it 01.}$ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park, "[Field experiment of autonomous ship navigation in canal and surrounding nearshore environments]()", Under revision (JFR, Journal of Field Robotics), 2023
 
 
@@ -53,21 +55,33 @@ ${\color{blue}\it 07.}$ ***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Ki
 
 ![Image](/fig/TMECH.gif)[Full Video](https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee)
 
+---
+
 ${\color{blue}\it 06.}$ Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "[Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters](https://journals.sagepub.com/doi/10.1177/02783649231191145)", International Journal of Robotics Research (IJRR), 2023
 
+
+---
 
 ${\color{blue}\it 05.}$ Jonghwi Kim$^\dagger$, ***Changyu Lee$^\dagger$***, Dongha Chung, Jinwhan Kim*, "[Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways](https://ieeexplore.ieee.org/document/10172331)", IEEE Robotics and Automation Letters (RA-L), 2023 **($^\dagger$: equally contributed)**
 
 ![Image](/fig/RAL.gif)
 
+---
+
 ${\color{blue}\it 04.}$ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction](https://link.springer.com/article/10.1007/s10514-023-10114-8)", Autonomous Robots, 2023.
+
+---
 
 
 ${\color{blue}\it 03.}$ ***Changyu Lee***, Jinwhan Kim*, "[Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsin Irregular Waves](https://www.sciencedirect.com/science/article/pii/S0967066123001028)", Control Engineering Practice, 2023
 
 ![Image](/fig/CEP.jpg){: width="600"}{: .align-center}
 
+---
+
 ${\color{blue}\it 02.}$ Quoc Van Tran, ***Changyu Lee***, Jinwhan Kim, Quang Hoang Nguyen, "[Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach](https://ieeexplore.ieee.org/document/10076261)", IEEE Transactions on Control of Network Systems, 2023
+
+---
 
 ${\color{blue}\it 01.}$ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking](https://ieeexplore.ieee.org/document/9747982)", IEEE Sensors Letters, Vol. 6, No. 5, 2022.
 
@@ -77,7 +91,11 @@ ${\color{blue}\it 03.}$ ***이찬규***, 김진환*, "[Trajectory Optimization f
 
 ![Image](/fig/JOET.jpg){: width="600"}{: .align-center}
 
+---
+
 ${\color{blue}\it 02.}$ ***이찬규***, 김경서, 김진환*, "[2023 MBZIRC Maritime Grand Challenge 대회 소개](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11157020)", 로봇과 인간, Vol. 19(2), pp. 32-37, Apr. 2022.
+
+---
 
 ${\color{blue}\it 01.}$ ***이찬규***, 장준우, 김진환*, "[확률 모델예측제어 알고리즘을 이용한 작동기 수가 부족한 무인잠수정 운동 제어](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002585054)", (ICROS) 제어로봇시스템학회지, Vol. 26(5), pp. 373-378, May. 2020.
 
@@ -88,21 +106,32 @@ ${\color{blue}\it 01.}$ ***이찬규***, 장준우, 김진환*, "[확률 모델�
 
 ![Image](/fig/CDC.jpg){: width="400"}{: .align-center}
 
+---
+
 Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis]()", 22nd IFAC World Congress, Yokohama, Japan, Jul, 2023.
 
+---
+
 Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control](https://ieeexplore.ieee.org/document/10202550)", 20th International Conference on Ubiquitous Robots (UR), Honolulu, USA, Jun, 2023.
+
+---
 
 ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles](https://www.sciencedirect.com/science/article/pii/S2405896322024922)", 14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Copenhagen, Denmark, Sep. 2022.
 
 ![Image](/fig/CAMS2.jpg){: width="600"}{: .align-center}
 
+---
+
 ***Changyu Lee***, Jinwhan Kim*, "[Energy Efficient Control for Electric Ship Propulsion Considering Thrust Fluctuation in Regular Waves](https://www.sciencedirect.com/science/article/pii/S2405896321015196)", 13th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Oldenburg, Germany, Sep. 2021.
 
 ![Image](/fig/CAMS1.jpg){: width="400"}{: .align-center}
 
+---
+
 ***Changyu Lee***, Jinwhan Kim*, "[Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking](https://ieeexplore.ieee.org/document/8768710)", 16th International Conference on Ubiquitous Robots (UR), Jeju, Korea, Jun, 2019.
 
 ![Image](/fig/UR.jpg){: width="600"}{: .align-center}
+
 
 
 ## Domestic
