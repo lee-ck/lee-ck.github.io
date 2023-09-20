@@ -74,7 +74,7 @@ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[Ambiguity Resolution Between Con
 
 # Conference
 ## International
-***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "[Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control]()", ***Accepted*** (CDC 2023)
+***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "[Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control](https://arxiv.org/pdf/2309.10278.pdf)", ***Accepted*** (CDC 2023)
 
 Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis]()", 22nd IFAC World Congress, Yokohama, Japan, Jul, 2023.
 
