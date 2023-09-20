@@ -38,6 +38,9 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control]()", Under revision. (IEEE Transactions on Control Systems Technology), 2023
 
+![Image](/fig/TCST.jpg)
+
+
 
 Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park, "[Field experiment of autonomous ship navigation in canal and surrounding nearshore environments]()", Under revision (JFR, Journal of Field Robotics), 2023
 
@@ -45,31 +48,31 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangse
 ## International
 
 
-***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "[Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment](https://arxiv.org/abs/2307.09845)", Accepted (TMECH, IEEE/ASME TRANSACTIONS ON MECHATRONICS), 2023
+07.***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "[Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment](https://arxiv.org/abs/2307.09845)", Accepted (TMECH, IEEE/ASME TRANSACTIONS ON MECHATRONICS), 2023
 
 
-Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "[Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters](https://journals.sagepub.com/doi/10.1177/02783649231191145)", International Journal of Robotics Research (IJRR), 2023
+06.Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "[Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters](https://journals.sagepub.com/doi/10.1177/02783649231191145)", International Journal of Robotics Research (IJRR), 2023
 
 
-Jonghwi Kim$^\dagger$, ***Changyu Lee$^\dagger$***, Dongha Chung, Jinwhan Kim*, "[Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways](https://ieeexplore.ieee.org/document/10172331)", IEEE Robotics and Automation Letters (RA-L), 2023 **($^\dagger$: equally contributed)**
+05.Jonghwi Kim$^\dagger$, ***Changyu Lee$^\dagger$***, Dongha Chung, Jinwhan Kim*, "[Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways](https://ieeexplore.ieee.org/document/10172331)", IEEE Robotics and Automation Letters (RA-L), 2023 **($^\dagger$: equally contributed)**
 
 
-Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction](https://link.springer.com/article/10.1007/s10514-023-10114-8)", Autonomous Robots, 2023.
+04.Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction](https://link.springer.com/article/10.1007/s10514-023-10114-8)", Autonomous Robots, 2023.
 
 
-***Changyu Lee***, Jinwhan Kim*, "[Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsin Irregular Waves](https://www.sciencedirect.com/science/article/pii/S0967066123001028)", Control Engineering Practice, 2023
+03.***Changyu Lee***, Jinwhan Kim*, "[Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsin Irregular Waves](https://www.sciencedirect.com/science/article/pii/S0967066123001028)", Control Engineering Practice, 2023
 
-Quoc Van Tran, ***Changyu Lee***, Jinwhan Kim, Quang Hoang Nguyen, "[Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach](https://ieeexplore.ieee.org/document/10076261)", IEEE Transactions on Control of Network Systems, 2023
+02.Quoc Van Tran, ***Changyu Lee***, Jinwhan Kim, Quang Hoang Nguyen, "[Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach](https://ieeexplore.ieee.org/document/10076261)", IEEE Transactions on Control of Network Systems, 2023
 
-Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking](https://ieeexplore.ieee.org/document/9747982)", IEEE Sensors Letters, Vol. 6, No. 5, 2022.
+01.Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking](https://ieeexplore.ieee.org/document/9747982)", IEEE Sensors Letters, Vol. 6, No. 5, 2022.
 
 
 ## Domestic
-***이찬규***, 김진환*, "[Trajectory Optimization for Autonomous Berthing of a Twin-Propeller Twin-Rudder Ship](https://www.joet.org/m/journal/view.php?number=3108)", (JOET) 해양공학회지, Vol. 37(3), pp. 122-128, Jun. 2023.
+03.***이찬규***, 김진환*, "[Trajectory Optimization for Autonomous Berthing of a Twin-Propeller Twin-Rudder Ship](https://www.joet.org/m/journal/view.php?number=3108)", (JOET) 해양공학회지, Vol. 37(3), pp. 122-128, Jun. 2023.
 
-***이찬규***, 김경서, 김진환*, "[2023 MBZIRC Maritime Grand Challenge 대회 소개](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11157020)", 로봇과 인간, Vol. 19(2), pp. 32-37, Apr. 2022.
+02.***이찬규***, 김경서, 김진환*, "[2023 MBZIRC Maritime Grand Challenge 대회 소개](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11157020)", 로봇과 인간, Vol. 19(2), pp. 32-37, Apr. 2022.
 
-***이찬규***, 장준우, 김진환*, "[확률 모델예측제어 알고리즘을 이용한 작동기 수가 부족한 무인잠수정 운동 제어](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002585054)", (ICROS) 제어로봇시스템학회지, Vol. 26(5), pp. 373-378, May. 2020.
+01.***이찬규***, 장준우, 김진환*, "[확률 모델예측제어 알고리즘을 이용한 작동기 수가 부족한 무인잠수정 운동 제어](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002585054)", (ICROS) 제어로봇시스템학회지, Vol. 26(5), pp. 373-378, May. 2020.
 
 
 # Conference
