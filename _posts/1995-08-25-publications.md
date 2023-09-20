@@ -40,7 +40,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control]()", Under revision. (IEEE Transactions on Control Systems Technology), 2023
 
-![Image](/fig/TCST.jpg){: width="400" height="350"}{: .align-center}
+![Image](/fig/TCST.gif)
 
 
 Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park, "[Field experiment of autonomous ship navigation in canal and surrounding nearshore environments]()", Under revision (JFR, Journal of Field Robotics), 2023
@@ -51,12 +51,14 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangse
 
 07.***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "[Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment](https://arxiv.org/abs/2307.09845)", Accepted (TMECH, IEEE/ASME TRANSACTIONS ON MECHATRONICS), 2023
 
+[![Image](/fig/TMECH.gif)](https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee)
 
 06.Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "[Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters](https://journals.sagepub.com/doi/10.1177/02783649231191145)", International Journal of Robotics Research (IJRR), 2023
 
 
 05.Jonghwi Kim$^\dagger$, ***Changyu Lee$^\dagger$***, Dongha Chung, Jinwhan Kim*, "[Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways](https://ieeexplore.ieee.org/document/10172331)", IEEE Robotics and Automation Letters (RA-L), 2023 **($^\dagger$: equally contributed)**
 
+![Image](/fig/RAL.gif)
 
 04.Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction](https://link.springer.com/article/10.1007/s10514-023-10114-8)", Autonomous Robots, 2023.
 
