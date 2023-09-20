@@ -30,12 +30,16 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ![IMAGE ALT TEXT HERE](/fig/lcss.gif)
 
+---
 
 
-### --Under review--
+
+<!-- ### --Under review-- -->
 
 
 ### --Under revision--
+
+---
 
 
 ${\color{blue}\it 02.}$ ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control]()", Under revision. (IEEE Transactions on Control Systems Technology), 2023
@@ -47,6 +51,8 @@ ${\color{blue}\it 02.}$ ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Safety
 
 ${\color{blue}\it 01.}$ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park, "[Field experiment of autonomous ship navigation in canal and surrounding nearshore environments]()", Under revision (JFR, Journal of Field Robotics), 2023
 
+
+---
 
 ## International
 
@@ -85,6 +91,8 @@ ${\color{blue}\it 02.}$ Quoc Van Tran, ***Changyu Lee***, Jinwhan Kim, Quang Hoa
 
 ${\color{blue}\it 01.}$ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking](https://ieeexplore.ieee.org/document/9747982)", IEEE Sensors Letters, Vol. 6, No. 5, 2022.
 
+---
+
 
 ## Domestic
 ${\color{blue}\it 03.}$ ***이찬규***, 김진환*, "[Trajectory Optimization for Autonomous Berthing of a Twin-Propeller Twin-Rudder Ship](https://www.joet.org/m/journal/view.php?number=3108)", (JOET) 해양공학회지, Vol. 37(3), pp. 122-128, Jun. 2023.
@@ -98,6 +106,8 @@ ${\color{blue}\it 02.}$ ***이찬규***, 김경서, 김진환*, "[2023 MBZIRC Ma
 ---
 
 ${\color{blue}\it 01.}$ ***이찬규***, 장준우, 김진환*, "[확률 모델예측제어 알고리즘을 이용한 작동기 수가 부족한 무인잠수정 운동 제어](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002585054)", (ICROS) 제어로봇시스템학회지, Vol. 26(5), pp. 373-378, May. 2020.
+
+---
 
 
 # Conference
@@ -132,6 +142,8 @@ Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Path Tracking and Obstacl
 
 ![Image](/fig/UR.jpg){: width="600"}{: .align-center}
 
+
+---
 
 
 ## Domestic
