@@ -65,6 +65,8 @@ ${\color{blue}\it 04.}$ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[A learni
 
 ${\color{blue}\it 03.}$ ***Changyu Lee***, Jinwhan Kim*, "[Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsin Irregular Waves](https://www.sciencedirect.com/science/article/pii/S0967066123001028)", Control Engineering Practice, 2023
 
+![Image](/fig/CEP.jpg){: width="400"}{: .align-center}
+
 ${\color{blue}\it 02.}$ Quoc Van Tran, ***Changyu Lee***, Jinwhan Kim, Quang Hoang Nguyen, "[Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach](https://ieeexplore.ieee.org/document/10076261)", IEEE Transactions on Control of Network Systems, 2023
 
 ${\color{blue}\it 01.}$ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking](https://ieeexplore.ieee.org/document/9747982)", IEEE Sensors Letters, Vol. 6, No. 5, 2022.
@@ -72,6 +74,8 @@ ${\color{blue}\it 01.}$ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[Ambiguit
 
 ## Domestic
 ${\color{blue}\it 03.}$ ***이찬규***, 김진환*, "[Trajectory Optimization for Autonomous Berthing of a Twin-Propeller Twin-Rudder Ship](https://www.joet.org/m/journal/view.php?number=3108)", (JOET) 해양공학회지, Vol. 37(3), pp. 122-128, Jun. 2023.
+
+![Image](/fig/JOET.jpg){: width="400"}{: .align-center}
 
 ${\color{blue}\it 02.}$ ***이찬규***, 김경서, 김진환*, "[2023 MBZIRC Maritime Grand Challenge 대회 소개](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11157020)", 로봇과 인간, Vol. 19(2), pp. 32-37, Apr. 2022.
 
@@ -82,15 +86,23 @@ ${\color{blue}\it 01.}$ ***이찬규***, 장준우, 김진환*, "[확률 모델�
 ## International
 ***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "[Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control](https://arxiv.org/pdf/2309.10278.pdf)", ***Accepted*** (CDC 2023)
 
+![Image](/fig/CDC.jpg){: width="400"}{: .align-center}
+
 Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis]()", 22nd IFAC World Congress, Yokohama, Japan, Jul, 2023.
 
 Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control](https://ieeexplore.ieee.org/document/10202550)", 20th International Conference on Ubiquitous Robots (UR), Honolulu, USA, Jun, 2023.
 
 ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles](https://www.sciencedirect.com/science/article/pii/S2405896322024922)", 14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Copenhagen, Denmark, Sep. 2022.
 
+![Image](/fig/CAMS2.jpg){: width="400"}{: .align-center}
+
 ***Changyu Lee***, Jinwhan Kim*, "[Energy Efficient Control for Electric Ship Propulsion Considering Thrust Fluctuation in Regular Waves](https://www.sciencedirect.com/science/article/pii/S2405896321015196)", 13th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Oldenburg, Germany, Sep. 2021.
 
+![Image](/fig/CAMS1.jpg){: width="400"}{: .align-center}
+
 ***Changyu Lee***, Jinwhan Kim*, "[Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking](https://ieeexplore.ieee.org/document/8768710)", 16th International Conference on Ubiquitous Robots (UR), Jeju, Korea, Jun, 2019.
+
+![Image](/fig/UR.jpg){: width="400"}{: .align-center}
 
 
 ## Domestic
