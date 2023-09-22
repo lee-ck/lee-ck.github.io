@@ -28,8 +28,14 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ***Changyu Lee***, Jinwhan Kim*, "Robust Trajectory Planning and Control for Quadrotor using Cascade Tube-based Model Predictive Control", (TBD)
 
+<p align="center">
+Your content
+</p>
+
+***Baseline***
 ![IMAGE ALT TEXT HERE](/fig/lcss.gif)
 
+***Proposed***
 ![IMAGE ALT TEXT HERE](/fig/lcss_proposed.gif)
 
 ---
