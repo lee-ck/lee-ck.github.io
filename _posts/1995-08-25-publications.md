@@ -30,6 +30,8 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ![IMAGE ALT TEXT HERE](/fig/lcss.gif)
 
+![IMAGE ALT TEXT HERE](/fig/lcss_proposed.gif)
+
 ---
 
 
