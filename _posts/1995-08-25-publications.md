@@ -26,7 +26,7 @@ Tube-based LOS-MPC for Underactuated Ship Path Following -->
 
 Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Detection and Path Folloing Control for Autonomous Ship Navigation in Narrow Waterways", under review, 2023 -->
 
-***Changyu Lee***, Jinwhan Kim*, "Robust Trajectory Planning and Control for Quadrotor using Cascade Tube-based Model Predictive Control", (TBD)
+${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Robust Trajectory Planning and Control for Quadrotor using Cascade Tube-based Model Predictive Control", (TBD)
 
 <p align="center">
 ***Baseline***
@@ -54,20 +54,20 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 
-${\color{blue}\it 02.}$ ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control]()", Under revision. (IEEE Transactions on Control Systems Technology), 2023
+${\color{blue}\it 09.}$ ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control]()", Under revision. (IEEE Transactions on Control Systems Technology), 2023
 
 ![Image](/fig/TCST.gif)
 
 
 ---
 
-${\color{blue}\it 01.}$ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park, "[Field experiment of autonomous ship navigation in canal and surrounding nearshore environments]()", Under revision (JFR, Journal of Field Robotics), 2023
+## International
+
+
+${\color{blue}\it 08.}$ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park, "[Field experiment of autonomous ship navigation in canal and surrounding nearshore environments]()", Under revision (JFR, Journal of Field Robotics), 2023
 
 
 ---
-
-## International
-
 
 ${\color{blue}\it 07.}$ ***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "[Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment](https://arxiv.org/abs/2307.09845)", Accepted (TMECH, IEEE/ASME TRANSACTIONS ON MECHATRONICS), 2023
 
