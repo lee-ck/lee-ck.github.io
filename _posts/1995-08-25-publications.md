@@ -64,12 +64,12 @@ ${\color{blue}\it 09.}$ ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Safety
 ## International
 
 
-${\color{blue}\it 08.}$ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park, "[Field experiment of autonomous ship navigation in canal and surrounding nearshore environments]()", Under revision (JFR, Journal of Field Robotics), 2023
+${\color{blue}\it 08.}$ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park, "[Field experiment of autonomous ship navigation in canal and surrounding nearshore environments]()", Journal of Field Robotics (JFR), 2023
 
 
 ---
 
-${\color{blue}\it 07.}$ ***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "[Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment](https://arxiv.org/abs/2307.09845)", Accepted (TMECH, IEEE/ASME TRANSACTIONS ON MECHATRONICS), 2023
+${\color{blue}\it 07.}$ ***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "[Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment](https://ieeexplore.ieee.org/document/10258470)", IEEE/ASME TRANSACTIONS ON MECHATRONICS (TMECH), 2023
 
 ![Image](/fig/TMECH.gif)[Full Video](https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee)
 
