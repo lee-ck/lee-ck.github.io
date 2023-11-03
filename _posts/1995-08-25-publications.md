@@ -26,19 +26,24 @@ Tube-based LOS-MPC for Underactuated Ship Path Following -->
 
 Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Detection and Path Folloing Control for Autonomous Ship Navigation in Narrow Waterways", under review, 2023 -->
 
-${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Robust Trajectory Planning and Control for Quadrotor using Cascade Tube-based Model Predictive Control", (TBD)
+${\color{blue}\it 10.}$ "Control Barrier Function"
 
+![IMAGE ALT TEXT HERE](/fig/cbf.gif)
+
+
+${\color{blue}\it 10.}$ "Robust Trajectory Planning and Control for Quadrotor"
+<!-- 
 <p align="center">
 ***Baseline***
-</p>
+</p> -->
 
 
 ![IMAGE ALT TEXT HERE](/fig/lcss.gif)
 
-
+<!-- 
 <p align="center">
 ***Proposed***
-</p>
+</p> -->
 
 ![IMAGE ALT TEXT HERE](/fig/lcss_proposed.gif)
 
