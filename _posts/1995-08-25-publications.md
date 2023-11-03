@@ -32,18 +32,9 @@ ${\color{blue}\it 10.}$ "Control Barrier Function"
 
 
 ${\color{blue}\it 10.}$ "Robust Trajectory Planning and Control for Quadrotor"
-<!-- 
-<p align="center">
-***Baseline***
-</p> -->
-
 
 ![IMAGE ALT TEXT HERE](/fig/lcss.gif)
 
-<!-- 
-<p align="center">
-***Proposed***
-</p> -->
 
 ![IMAGE ALT TEXT HERE](/fig/lcss_proposed.gif)
 
