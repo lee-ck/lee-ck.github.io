@@ -26,17 +26,18 @@ Tube-based LOS-MPC for Underactuated Ship Path Following -->
 
 Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Detection and Path Folloing Control for Autonomous Ship Navigation in Narrow Waterways", under review, 2023 -->
 
-${\color{blue}\it 11.}$ "Efficient Obstacle Avoidance of Mobile Robot using Model Predictive Control with State-Dependent Control Barrier Function", RA-L
-
-![IMAGE ALT TEXT HERE](/fig/ncbf.jpg)
+<!-- ![IMAGE ALT TEXT HERE](/fig/ncbf.jpg) -->
 
 
-${\color{blue}\it 10.}$ "Robust Trajectory Planning and Control for Quadrotor", L-CSS
-
+${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Robust Trajectory Planning and Control for Quadrotor", IEEE Control Systems Letters (L-CSS)
+<!-- 
 ![IMAGE ALT TEXT HERE](/fig/lcss.gif)
 
 
-![IMAGE ALT TEXT HERE](/fig/lcss_proposed.gif)
+![IMAGE ALT TEXT HERE](/fig/lcss_proposed.gif) -->
+
+${\color{blue}\it 11.}$ ***Changyu Lee***, Jinwhan Kim*, "Pose-Dependent Control Barrier Function for Efficient Obstacle Avoidance of Nonholonomic Vehilces", IEEE Control Systems Letters (L-CSS)
+
 
 ---
 
