@@ -29,14 +29,14 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <!-- ![IMAGE ALT TEXT HERE](/fig/ncbf.jpg) -->
 
 
-${\color{blue}\it 11.}$ ***Changyu Lee***, Jinwhan Kim*, "Robust Trajectory Planning and Control for Quadrotor", IEEE Control Systems Letters (L-CSS)
+<!-- ${\color{blue}\it 11.}$ ***Changyu Lee***, Jinwhan Kim*, "Robust Trajectory Planning and Control for Quadrotor", IEEE Control Systems Letters (L-CSS) -->
 
 <!-- ![IMAGE ALT TEXT HERE](/fig/lcss.gif) -->
 
 
 <!-- ![IMAGE ALT TEXT HERE](/fig/lcss_proposed.gif) -->
 
-${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Pose-Dependent Control Barrier Function for Efficient Obstacle Avoidance of Nonholonomic Vehilces", IEEE Control Systems Letters (L-CSS)
+<!-- ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Pose-Dependent Control Barrier Function for Efficient Obstacle Avoidance of Nonholonomic Vehilces", IEEE Control Systems Letters (L-CSS) -->
 
 
 ---
@@ -46,7 +46,7 @@ ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Pose-Dependent Control
 <!-- ### --Under review-- -->
 
 
-### --Under revision--
+<!-- ### --Under revision--
 
 ---
 
@@ -56,7 +56,7 @@ ${\color{blue}\it 09.}$ ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Safety
 ![Image](/fig/TCST.gif)
 
 
----
+--- -->
 
 ## International
 
