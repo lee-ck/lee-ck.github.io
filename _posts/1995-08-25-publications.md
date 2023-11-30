@@ -10,7 +10,7 @@ toc: true
 &larr; visit my google scholar
 
 # Journal
-## Preprint (In preparation)
+<!-- ## Preprint (In preparation) -->
 <!-- ### --In preparation--
 
 Tube-based LOS-MPC for Underactuated Ship Path Following -->
