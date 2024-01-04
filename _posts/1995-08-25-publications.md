@@ -182,3 +182,21 @@ Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Path Tracking and Obstacl
 김종휘, 김근환, ***이찬규***, 김진환*, 이필엽, "단안 카메라 영상을 이용한 합성곱 신경망 기반 선박 탐지 및 추적", 한국해양공학회 추계학술대회, 2018.11.
 
 
+
+
+
+
+## Reviewer Experiences
+
+### Journal
+
+- IEEE Transactions on Control Systems Technology
+- IEEE Control Systems Letters
+- International Journal of Naval Architecture and Ocean Engineering
+
+
+### Conference
+
+- IEEE Conference on Decision and Control
+- IFAC World Congress
+-  IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles.
