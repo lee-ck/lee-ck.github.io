@@ -55,7 +55,7 @@ ${\color{blue}\it 08.}$ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon C
 
 ---
 
-${\color{blue}\it 07.}$ ***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "[Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment](https://ieeexplore.ieee.org/document/10258470)", IEEE/ASME TRANSACTIONS ON MECHATRONICS (TMECH), 2023
+${\color{blue}\it 07.}$ ***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "[Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment](https://ieeexplore.ieee.org/document/10258470)", IEEE/ASME Transactions ON Mechatronics (TMECH), 2023
 
 ![Image](/fig/TMECH.gif)[Full Video](https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee)
 
