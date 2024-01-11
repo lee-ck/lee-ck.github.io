@@ -10,7 +10,7 @@ toc: true
 &larr; visit my google scholar
 
 # Journal
-### --In preparation--
+<!-- ### --In preparation-- -->
 <!-- ### --In preparation--
 
 Tube-based LOS-MPC for Underactuated Ship Path Following -->
@@ -36,13 +36,13 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 <!-- ![IMAGE ALT TEXT HERE](/fig/lcss_proposed.gif) -->
 
-${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based Control Barrier Function for Efficient Obstacle Avoidance of Nonholonomic Vehilces", IEEE Control Systems Letters (L-CSS)
+<!-- ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based Control Barrier Function for Efficient Obstacle Avoidance of Nonholonomic Vehilces", IEEE Control Systems Letters (L-CSS) -->
 
-### --Under review--
+<!-- ### --Under review-- -->
 
 <!-- ### --Under revision-- -->
 
-${\color{blue}\it 09.}$ ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", Conditionally accepted. (IEEE Transactions on Control Systems Technology), 2023
+<!-- ${\color{blue}\it 09.}$ ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", Conditionally accepted. (IEEE Transactions on Control Systems Technology), 2023 -->
 
 <!-- ![Image](/fig/TCST.gif) -->
 
