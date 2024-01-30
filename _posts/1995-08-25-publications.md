@@ -66,7 +66,7 @@ ${\color{blue}\it 06.}$ Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Ki
 
 ---
 
-${\color{blue}\it 05.}$ Jonghwi Kim$^\dagger$, ***Changyu Lee$^\dagger$***, Dongha Chung, Jinwhan Kim*, "[Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways](https://ieeexplore.ieee.org/document/10172331)", IEEE Robotics and Automation Letters (RA-L), 2023 **($^\dagger$: equally contributed)**
+${\color{blue}\it 05.}$ Jonghwi Kim$^\dagger$, ***Changyu Lee$^\dagger$***, Dongha Chung, Jinwhan Kim*, "[Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways](https://ieeexplore.ieee.org/document/10172331)", IEEE Robotics and Automation Letters (RA-L), 2023 **($^\dagger$: equally contributed)** (Presented at IEEE ICRA 2024)
 
 ![Image](/fig/RAL.gif)
 
