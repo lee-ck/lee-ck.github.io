@@ -46,7 +46,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ## International
 
-${\color{blue}\it 09.}$ ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", Conditionally accepted. (IEEE Transactions on Control Systems Technology), 2023
+${\color{blue}\it 09.}$ ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", Accepted. (IEEE Transactions on Control Systems Technology), 2023
 
 ![Image](/fig/TCST.jpg)
 
