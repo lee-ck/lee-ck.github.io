@@ -44,8 +44,8 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 
 ## International
-
-${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based Control Barrier Function for Obstacle Avoidance in Nonholonomic Vehicles", IEEE Control Systems Letters (L-CSS), Under Review, 2024.	
+<!-- 
+${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based Control Barrier Function for Obstacle Avoidance in Nonholonomic Vehicles", IEEE Control Systems Letters (L-CSS), Under Review, 2024.	 -->
 
 
 ${\color{blue}\it 09.}$ ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control]()", IEEE Transactions on Control Systems Technology (TCST), 2024
