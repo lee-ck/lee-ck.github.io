@@ -116,13 +116,13 @@ ${\color{blue}\it 01.}$ ***이찬규***, 장준우, 김진환*, "[확률 모델�
 
 # Conference
 ## International
-***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "[Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control](https://arxiv.org/pdf/2309.10278.pdf)", 62nd IEEE Conference on Decision and Control (CDC 2023), Marina Bay Sands, Singapore, Dec, 2023.
+***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "[Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control](https://ieeexplore.ieee.org/abstract/document/10384235)", 62nd IEEE Conference on Decision and Control (CDC 2023), Marina Bay Sands, Singapore, Dec, 2023.
 
 ![Image](/fig/CDC.jpg){: width="400"}{: .align-center}
 
 ---
 
-Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis]()", 22nd IFAC World Congress, Yokohama, Japan, Jul, 2023.
+Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis](https://www.sciencedirect.com/science/article/pii/S240589632302219X)", 22nd IFAC World Congress, Yokohama, Japan, Jul, 2023.
 
 ---
 
