@@ -81,7 +81,7 @@ ${\color{blue}\it 04.}$ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[A learni
 ---
 
 
-${\color{blue}\it 03.}$ ***Changyu Lee***, Jinwhan Kim*, "[Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsin Irregular Waves](https://www.sciencedirect.com/science/article/pii/S0967066123001028)", Control Engineering Practice, 2023
+${\color{blue}\it 03.}$ ***Changyu Lee***, Jinwhan Kim*, "[Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves](https://www.sciencedirect.com/science/article/pii/S0967066123001028)", Control Engineering Practice, 2023
 
 ![Image](/fig/CEP.jpg){: width="600"}{: .align-center}
 
