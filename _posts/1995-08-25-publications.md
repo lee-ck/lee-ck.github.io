@@ -10,7 +10,7 @@ toc: true
 &larr; visit my google scholar
 
 # Journal
-<!-- ### --In preparation-- -->
+
 <!-- ### --In preparation--
 
 Tube-based LOS-MPC for Underactuated Ship Path Following -->
@@ -36,11 +36,16 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 <!-- ![IMAGE ALT TEXT HERE](/fig/lcss_proposed.gif) -->
 
-<!-- ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based Control Barrier Function for Efficient Obstacle Avoidance of Nonholonomic Vehilces", IEEE Control Systems Letters (L-CSS) -->
-
-
 <!-- ### --Under revision-- -->
 
+
+### In preparation
+
+${\color{blue}\it 11.}$ Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Berthing Control of Surface Ships Under Environmental Disturbances Using Reachability Analysis", (In Prep.)
+
+${\color{blue}\it 10.}$ ***Changyu Lee***, Kiyong, Park, Jinwhan Kim*, "Turning Circle-based Control Barrier Function for Efficient Collision Avoidance in Nonholonomic Vehicles", (In Prep.)
+
+![IMAGE ALT TEXT HERE](/fig/cbf_compare.png)
 
 
 ## International
