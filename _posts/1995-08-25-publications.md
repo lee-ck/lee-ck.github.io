@@ -60,7 +60,7 @@ ${\color{blue}\it 09.}$ ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Safety
 ---
 
 ${\color{blue}\it 08.}$ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park, "[Field experiment of autonomous ship navigation in canal and surrounding nearshore environments](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22262)", Journal of Field Robotics (JFR), 2023
-
+${\color{red}{  \text{(Editor's Choice at Science Robotics)} }}$ [->link](https://www.science.org/doi/10.1126/scirobotics.adm9464)
 
 ---
 
