@@ -5,7 +5,7 @@ title:  "Publications"
 tags: []
 last_modified_at: 2023-01-14T00:00:00-00:00
 author_profile: true
-toc: true
+toc: false
 ---
 
 &larr; visit my google scholar
@@ -82,43 +82,44 @@ ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based C
 
 ---
 
-${\color{blue}\it 07.}$ ***Changyu Lee***, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, "[Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment](https://ieeexplore.ieee.org/document/10258470)", IEEE/ASME Transactions on Mechatronics (TMECH), 2023
-
-![Image](/fig/TMECH.gif)[Full Video](https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee)
-
----
-
-${\color{blue}\it 06.}$ Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "[Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters](https://journals.sagepub.com/doi/10.1177/02783649231191145)", International Journal of Robotics Research (IJRR), 2023
-
-
----
-
 <div style="display: flex; align-items: center;">
-    <img src="/fig/TMECH.gif" alt="Image" style="width: 250px; margin-right: 10px;">
+    <img src="/fig/TMECH.gif" alt="Image" style="width: 300px; margin-right: 10px;">
     <div>
-        ${\color{blue}\it 07.}$ <b>Changyu Lee</b>, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, 
-        <a href="https://ieeexplore.ieee.org/document/10258470">"Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment"</a>, 
-        IEEE/ASME Transactions on Mechatronics (TMECH), 2023<br>
+        <a href="https://ieeexplore.ieee.org/document/10258470">
+        "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment" </a> <br>
+        IEEE/ASME Transactions on Mechatronics (TMECH), 2023  <br>
+        <b>Changyu Lee</b>, Dongha Chung, Jonghwi Kim, Jinwhan Kim* <br> 
         <a href="https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee">Full Video</a>
     </div>
 </div>
 
+
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/ijrr.jpeg" alt="Image" style="width: 250px; margin-right: 10px;">
+    <img src="/fig/ijrr.jpeg" alt="Image" style="width: 300px; margin-right: 10px;">
     <div>
-        ${\color{blue}\it 06.}$ Dongha Chung, Jonghwi Kim, <b>Changyu Lee</b>, Jinwhan Kim*, 
-        <a href="https://journals.sagepub.com/doi/10.1177/02783649231191145">"Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters"</a>, 
-        International Journal of Robotics Research (IJRR), 2023
+        <a href="https://journals.sagepub.com/doi/10.1177/02783649231191145">
+        "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters"</a> <br>
+        International Journal of Robotics Research (IJRR), 2023  <br>
+        Dongha Chung, Jonghwi Kim, <b>Changyu Lee</b>, Jinwhan Kim*  <br>
+        <a href="https://www.youtube.com/watch?v=dMfJOH9g3Bk&t=27s">Full Video</a>
     </div>
 </div>
-https://www.youtube.com/watch?v=dMfJOH9g3Bk&t=27s
+
 ---
 
-${\color{blue}\it 05.}$ Jonghwi Kim$^\dagger$, ***Changyu Lee$^\dagger$***, Dongha Chung, Jinwhan Kim*, "[Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways](https://ieeexplore.ieee.org/document/10172331)", IEEE Robotics and Automation Letters (RA-L), 2023 **($^\dagger$: equally contributed)** (Presented at IEEE ICRA 2024)
 
-![Image](/fig/RAL.gif)
+<div style="display: flex; align-items: center;">
+    <img src="/fig/RAL.gif" alt="Image" style="width: 300px; margin-right: 10px;">
+    <div>
+        <a href="https://ieeexplore.ieee.org/document/10172331">
+        "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways"</a> <br>
+        IEEE Robotics and Automation Letters (RA-L), 2023  <br>
+        Jonghwi Kim$^\dagger$, <b>Changyu Lee</b>^\dagger$, Dongha Chung, Jinwhan Kim*  <br>
+        **($^\dagger$: equally contributed)** (Presented at IEEE ICRA 2024)
+    </div>
+</div>
 
 ---
 
