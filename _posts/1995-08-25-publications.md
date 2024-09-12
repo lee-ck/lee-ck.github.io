@@ -57,14 +57,27 @@ ${\color{blue}\it 10.}$ ***Changyu Lee***, Kiyong, Park, Jinwhan Kim*, "Turning 
 ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based Control Barrier Function for Obstacle Avoidance in Nonholonomic Vehicles", IEEE Control Systems Letters (L-CSS), Under Review, 2024.	 -->
 
 
-${\color{blue}\it 09.}$ ***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control](https://ieeexplore.ieee.org/document/10472334)", IEEE Transactions on Control Systems Technology (TCST), 2024
-
-![Image](/fig/TCST.jpg)
+<div style="display: flex; align-items: center;">
+    <img src="/fig/TCST.jpg" alt="Image" style="width: 250px; margin-right: 10px;">
+    <div>
+        <a href="https://ieeexplore.ieee.org/document/10472334">"Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control"</a> <br>
+        IEEE Transactions on Control Systems Technology (TCST), 2024  <br>
+        <b>Changyu Lee</b>, Dongha Chung, Jonghwi Kim, Jinwhan Kim* <br>
+    </div>
+</div>
 
 ---
 
-${\color{blue}\it 08.}$ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park, "[Field experiment of autonomous ship navigation in canal and surrounding nearshore environments](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22262)", Journal of Field Robotics (JFR), 2023
-${\color{red}{  \text{(Editor's Choice at Science Robotics)} }}$ [->link](https://www.science.org/doi/10.1126/scirobotics.adm9464)
+
+<div style="display: flex; align-items: center;">
+    <img src="/fig/TCST.jpg" alt="Image" style="width: 250px; margin-right: 10px;">
+    <div>
+        <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22262">"Field experiment of autonomous ship navigation in canal and surrounding nearshore environments" </a> <br>
+        Journal of Field Robotics (JFR), 2023  <br>
+        Jonghwi Kim, <b>Changyu Lee</b>, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park <br> 
+        <a href="https://www.science.org/doi/10.1126/scirobotics.adm9464">Editor's Choice at Science Robotics</a>
+    </div>
+</div>
 
 ---
 
@@ -92,14 +105,14 @@ ${\color{blue}\it 06.}$ Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Ki
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/TMECH.gif" alt="Image" style="width: 250px; margin-right: 10px;">
+    <img src="/fig/ijrr.jpeg" alt="Image" style="width: 250px; margin-right: 10px;">
     <div>
         ${\color{blue}\it 06.}$ Dongha Chung, Jonghwi Kim, <b>Changyu Lee</b>, Jinwhan Kim*, 
         <a href="https://journals.sagepub.com/doi/10.1177/02783649231191145">"Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters"</a>, 
         International Journal of Robotics Research (IJRR), 2023
     </div>
 </div>
-
+https://www.youtube.com/watch?v=dMfJOH9g3Bk&t=27s
 ---
 
 ${\color{blue}\it 05.}$ Jonghwi Kim$^\dagger$, ***Changyu Lee$^\dagger$***, Dongha Chung, Jinwhan Kim*, "[Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways](https://ieeexplore.ieee.org/document/10172331)", IEEE Robotics and Automation Letters (RA-L), 2023 **($^\dagger$: equally contributed)** (Presented at IEEE ICRA 2024)
