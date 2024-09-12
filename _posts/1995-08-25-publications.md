@@ -44,16 +44,17 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 <div style="display: flex; align-items: center;">
     <div>
-        "Robust Berthing Control of Surface Ships Under Environmental Disturbances Using Reachability Analysis"</a> <br>
+        "Robust Berthing Control of Surface Ships Under Environmental Disturbances Using Reachability Analysis" <br>
         In Prep. 2024  <br>
         Jinwook Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
     </div>
 </div>
 
+---
 
 <div style="display: flex; align-items: center;">
     <div>
-        "Turning Circle-based Control Barrier Function for Efficient Collision Avoidance in Nonholonomic Vehicles"</a> <br>
+        "Turning Circle-based Control Barrier Function for Efficient Collision Avoidance in Nonholonomic Vehicles"<br>
         In Prep. 2024  <br>
         <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
     </div>
