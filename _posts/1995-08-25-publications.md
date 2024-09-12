@@ -72,7 +72,14 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/TCST.gif" alt="Image" style="width: 300px; margin-right: 10px;">
     <div>
-        <a href="https://ieeexplore.ieee.org/document/10472334"><img src="/fig/icon.png" style="width:25px;height:25px;"></a> <p style="font-size:110%"> <b>   Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control </b> </p> 
+        <div style="display: flex; align-items: center;">
+            <a href="https://ieeexplore.ieee.org/document/10472334">
+                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 10px;">
+            </a>
+            <p style="font-size:110%; margin: 0;">
+                <b>Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control</b>
+            </p>
+        </div>
         IEEE Transactions on Control Systems Technology (TCST), 2024  <br>
         <b>Changyu Lee</b>, Dongha Chung, Jonghwi Kim, Jinwhan Kim*        
     </div>
