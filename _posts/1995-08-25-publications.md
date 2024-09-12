@@ -123,20 +123,43 @@ ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based C
 
 ---
 
-${\color{blue}\it 04.}$ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction](https://link.springer.com/article/10.1007/s10514-023-10114-8)", Autonomous Robots, 2023.
+<div style="display: flex; align-items: center;">
+    <img src="/fig/auro.png" alt="Image" style="width: 300px; margin-right: 10px;">
+    <div>
+        <a href="https://link.springer.com/article/10.1007/s10514-023-10114-8">
+        "A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction"</a> <br>
+        Autonomous Robots, 2023  <br>
+        Junwoo Jang, <b>Changyu Lee</b>, Jinwhan Kim*  
+    </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
+    <img src="/fig/CEP.jpg" alt="Image" style="width: 300px; margin-right: 10px;">
+    <div>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0967066123001028">
+        "Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves"</a> <br>
+        Control Engineering Practice, 2023  <br>
+        <b>Changyu Lee</b>, Jinwhan Kim*  
+    </div>
+</div>
 
 ---
 
 
-${\color{blue}\it 03.}$ ***Changyu Lee***, Jinwhan Kim*, "[Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves](https://www.sciencedirect.com/science/article/pii/S0967066123001028)", Control Engineering Practice, 2023
-
-![Image](/fig/CEP.jpg){: width="600"}{: .align-center}
+<div style="display: flex; align-items: center;">
+    <img src="/fig/tcns.png" alt="Image" style="width: 300px; margin-right: 10px;">
+    <div>
+        <a href="https://ieeexplore.ieee.org/document/10076261">
+        "Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach"</a> <br>
+        IEEE Transactions on Control of Network Systems, 2023  <br>
+        Quoc Van Tran*, <b>Changyu Lee</b>, Jinwhan Kim, Quang Hoang Nguyen 
+    </div>
+</div>
 
 ---
 
-${\color{blue}\it 02.}$ Quoc Van Tran, ***Changyu Lee***, Jinwhan Kim, Quang Hoang Nguyen, "[Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach](https://ieeexplore.ieee.org/document/10076261)", IEEE Transactions on Control of Network Systems, 2023
-
----
 
 ${\color{blue}\it 01.}$ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking](https://ieeexplore.ieee.org/document/9747982)", IEEE Sensors Letters, Vol. 6, No. 5, 2022.
 
