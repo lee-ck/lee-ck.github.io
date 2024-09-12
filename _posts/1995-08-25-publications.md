@@ -116,7 +116,7 @@ ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based C
         <a href="https://ieeexplore.ieee.org/document/10172331">
         "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways"</a> <br>
         IEEE Robotics and Automation Letters (RA-L), 2023  <br>
-        Jonghwi Kim$^\dagger$, <b>Changyu Lee</b>^\dagger$, Dongha Chung, Jinwhan Kim*  <br>
+        Jonghwi Kim$^\dagger$, <b>Changyu Lee</b>$^\dagger$, Dongha Chung, Jinwhan Kim*  <br>
         **($^\dagger$: equally contributed)** (Presented at IEEE ICRA 2024)
     </div>
 </div>
