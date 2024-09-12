@@ -80,7 +80,7 @@ ${\color{blue}\it 06.}$ Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Ki
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/TMECH.gif" alt="Image" style="width: 300px; margin-right: 10px;">
+    <img src="/fig/TMECH.gif" alt="Image" style="width: 250px; margin-right: 10px;">
     <div>
         ${\color{blue}\it 07.}$ <b>Changyu Lee</b>, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, 
         <a href="https://ieeexplore.ieee.org/document/10258470">"Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment"</a>, 
@@ -92,13 +92,15 @@ ${\color{blue}\it 06.}$ Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Ki
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/TMECH.gif" alt="Image" style="width: 300px; margin-right: 10px;">
+    <img src="/fig/TMECH.gif" alt="Image" style="width: 250px; margin-right: 10px;">
     <div>
         ${\color{blue}\it 06.}$ Dongha Chung, Jonghwi Kim, <b>Changyu Lee</b>, Jinwhan Kim*, 
         <a href="https://journals.sagepub.com/doi/10.1177/02783649231191145">"Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters"</a>, 
         International Journal of Robotics Research (IJRR), 2023
     </div>
 </div>
+
+---
 
 ${\color{blue}\it 05.}$ Jonghwi Kim$^\dagger$, ***Changyu Lee$^\dagger$***, Dongha Chung, Jinwhan Kim*, "[Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways](https://ieeexplore.ieee.org/document/10172331)", IEEE Robotics and Automation Letters (RA-L), 2023 **($^\dagger$: equally contributed)** (Presented at IEEE ICRA 2024)
 
