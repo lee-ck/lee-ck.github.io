@@ -3,7 +3,7 @@ layout: single
 title:  "Publications"
 tags: []
 last_modified_at: 2023-01-14T00:00:00-00:00
-author_profile: true
+author_profile: false
 toc: true
 ---
 
@@ -70,7 +70,7 @@ ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based C
 
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/TCST.jpg" alt="Image" style="width: 250px; margin-right: 10px;">
+    <img src="/fig/jfr.png" alt="Image" style="width: 250px; margin-right: 10px;">
     <div>
         <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22262">"Field experiment of autonomous ship navigation in canal and surrounding nearshore environments" </a> <br>
         Journal of Field Robotics (JFR), 2023  <br>
