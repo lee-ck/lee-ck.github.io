@@ -189,7 +189,6 @@ ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based C
 
 ---
 
-
 <div style="display: flex; align-items: center;">
     <img src="/fig/tcns.pndg" alt="Image" style="width: 300px; margin-right: 10px;">
     <div>
@@ -201,8 +200,6 @@ ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based C
 </div>
 
 ---
-
-
 
 <div style="display: flex; align-items: center;">
     <img src="/fig/mbz.png" alt="Image" style="width: 300px; margin-right: 10px;">
@@ -218,36 +215,71 @@ ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based C
 
 # Conference
 ## International
-***Changyu Lee***, Kiyong Park, Jinwhan Kim*, "[Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control](https://ieeexplore.ieee.org/abstract/document/10384235)", 62nd IEEE Conference on Decision and Control (CDC 2023), Marina Bay Sands, Singapore, Dec, 2023.
 
-![Image](/fig/CDC.jpg){: width="400"}{: .align-center}
-
----
-
-Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis](https://www.sciencedirect.com/science/article/pii/S240589632302219X)", 22nd IFAC World Congress, Yokohama, Japan, Jul, 2023.
-
----
-
-Kiyong Park, ***Changyu Lee***, Jinwhan Kim*, "[Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control](https://ieeexplore.ieee.org/document/10202550)", 20th International Conference on Ubiquitous Robots (UR), Honolulu, USA, Jun, 2023.
-
----
-
-***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "[Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles](https://www.sciencedirect.com/science/article/pii/S2405896322024922)", 14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Copenhagen, Denmark, Sep. 2022.
-
-![Image](/fig/CAMS2.jpg){: width="600"}{: .align-center}
+<div style="display: flex; align-items: center;">
+    <img src="/fig/CDC.jpg" alt="Image" style="width: 300px; margin-right: 10px;">
+    <div>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10384235">
+        "Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control"</a> <br>
+        62nd IEEE Conference on Decision and Control (CDC), 2023  <br>
+        <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim*
+    </div>
+</div>
 
 ---
-
-***Changyu Lee***, Jinwhan Kim*, "[Energy Efficient Control for Electric Ship Propulsion Considering Thrust Fluctuation in Regular Waves](https://www.sciencedirect.com/science/article/pii/S2405896321015196)", 13th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Oldenburg, Germany, Sep. 2021.
-
-![Image](/fig/CAMS1.jpg){: width="400"}{: .align-center}
+<div style="display: flex; align-items: center;">
+    <img src="/fig/wc.png" alt="Image" style="width: 300px; margin-right: 10px;">
+    <div>
+        <a href="https://www.sciencedirect.com/science/article/pii/S240589632302219X">
+        "Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis"</a> <br>
+        22nd IFAC World Congress, 2023  <br>
+        Jinwook Park, <b>Changyu Lee</b>, Jinwhan Kim*
+    </div>
+</div>
 
 ---
+<div style="display: flex; align-items: center;">
+    <img src="/fig/ur2.png" alt="Image" style="width: 300px; margin-right: 10px;">
+    <div>
+        <a href="https://ieeexplore.ieee.org/document/10202550">
+        "Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control"</a> <br>
+        20th International Conference on Ubiquitous Robots (UR), 2023  <br>
+        Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim*
+    </div>
+</div>
 
-***Changyu Lee***, Jinwhan Kim*, "[Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking](https://ieeexplore.ieee.org/document/8768710)", 16th International Conference on Ubiquitous Robots (UR), Jeju, Korea, Jun, 2019.
+---
+<div style="display: flex; align-items: center;">
+    <img src="/fig/CAMS2.jpg" alt="Image" style="width: 300px; margin-right: 10px;">
+    <div>
+        <a href="https://www.sciencedirect.com/science/article/pii/S2405896322024922">
+        "Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles"</a> <br>
+        14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), 2022  <br>
+        <b>Changyu Lee</b>, Quoc Van Tran, Jinwhan Kim*
+    </div>
+</div>
 
-![Image](/fig/UR.jpg){: width="600"}{: .align-center}
+---
+<div style="display: flex; align-items: center;">
+    <img src="/fig/CAMS1.jpg" alt="Image" style="width: 300px; margin-right: 10px;">
+    <div>
+        <a href="https://www.sciencedirect.com/science/article/pii/S2405896321015196">
+        "Energy Efficient Control for Electric Ship Propulsion Considering Thrust Fluctuation in Regular Waves"</a> <br>
+        13th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), 2021  <br>
+        <b>Changyu Lee</b>, Jinwhan Kim*
+    </div>
+</div>
 
+---
+<div style="display: flex; align-items: center;">
+    <img src="/fig/UR.jpg" alt="Image" style="width: 300px; margin-right: 10px;">
+    <div>
+        <a href="https://ieeexplore.ieee.org/document/8768710">
+        "Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking"</a> <br>
+        16th International Conference on Ubiquitous Robots (UR), 2019  <br>
+        <b>Changyu Lee</b>, Jinwhan Kim*
+    </div>
+</div>
 
 ---
 
