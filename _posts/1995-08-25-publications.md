@@ -82,11 +82,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 <a href="https://ieeexplore.ieee.org/document/10472334" style="text-decoration:none">
 
-<a href="your link here"> <i class="fa fa-dribbble fa-4x"></i></a>
-<a href="your link here"> <i class="fa fa-behance-square fa-4x"></i></a>
-<a href="your link here"> <i class="fa fa-linkedin-square fa-4x"></i></a>
-<a href="your link here"> <i class="fa fa-twitter-square fa-4x"></i></a>
-<a href="your link here"> <i class="fa fa-facebook-square fa-4x"></i></a>
+<a href="https://ieeexplore.ieee.org/document/10472334"><img src="/fig/icon.png" style="width:20px;height:20px;"></a>
 
 
 
