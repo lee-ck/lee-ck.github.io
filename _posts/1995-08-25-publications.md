@@ -205,7 +205,7 @@ ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based C
 
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/ICROS.jpg" alt="Image" style="width: 300px; margin-right: 10px;">
+    <img src="/fig/mbz.png" alt="Image" style="width: 300px; margin-right: 10px;">
     <div>
         <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002585054">
         "Stochastic model predictive control for motion control of an underactuated underwater vehicle"</a> <br>
