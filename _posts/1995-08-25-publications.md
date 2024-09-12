@@ -87,7 +87,8 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22262">"Field experiment of autonomous ship navigation in canal and surrounding nearshore environments" </a> <br>
         Journal of Field Robotics (JFR), 2023  <br>
         Jonghwi Kim, <b>Changyu Lee</b>, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park <br> 
-        <a href="https://www.science.org/doi/10.1126/scirobotics.adm9464">Editor's Choice at Science Robotics</a>
+        <a href="https://www.science.org/doi/10.1126/scirobotics.adm9464">
+        <font color="red">Editor's Choice at Science Robotics </font> </a>
     </div>
 </div>
 
