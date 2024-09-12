@@ -80,7 +80,7 @@ ${\color{blue}\it 06.}$ Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Ki
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/TMECH.gif" alt="Image" style="width: 100px; margin-right: 10px;">
+    <img src="/fig/TMECH.gif" alt="Image" style="width: 300px; margin-right: 10px;">
     <div>
         ${\color{blue}\it 07.}$ <b>Changyu Lee</b>, Dongha Chung, Jonghwi Kim, Jinwhan Kim*, 
         <a href="https://ieeexplore.ieee.org/document/10258470">"Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment"</a>, 
@@ -92,7 +92,7 @@ ${\color{blue}\it 06.}$ Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Ki
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/TMECH.gif" alt="Image" style="width: 100px; margin-right: 10px;">
+    <img src="/fig/TMECH.gif" alt="Image" style="width: 300px; margin-right: 10px;">
     <div>
         ${\color{blue}\it 06.}$ Dongha Chung, Jonghwi Kim, <b>Changyu Lee</b>, Jinwhan Kim*, 
         <a href="https://journals.sagepub.com/doi/10.1177/02783649231191145">"Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters"</a>, 
