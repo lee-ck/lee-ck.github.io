@@ -41,15 +41,15 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ### In preparation
 
-${\color{blue}\it 13.}$ AUV Nav. + Control
+<!-- ${\color{blue}\it 13.}$ AUV Nav. + Control
 
-${\color{blue}\it 12.}$ TMPC + Exp. + ASV
+${\color{blue}\it 12.}$ TMPC + Exp. + ASV -->
 
-${\color{blue}\it 11.}$ Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Berthing Control of Surface Ships Under Environmental Disturbances Using Reachability Analysis", (In Prep.)
+Jinwook Park, ***Changyu Lee***, Jinwhan Kim*, "Robust Berthing Control of Surface Ships Under Environmental Disturbances Using Reachability Analysis", (In Prep.)
 
-${\color{blue}\it 10.}$ ***Changyu Lee***, Kiyong, Park, Jinwhan Kim*, "Turning Circle-based Control Barrier Function for Efficient Collision Avoidance in Nonholonomic Vehicles", (In Prep.)
+ ***Changyu Lee***, Kiyong, Park, Jinwhan Kim*, "Turning Circle-based Control Barrier Function for Efficient Collision Avoidance in Nonholonomic Vehicles", (In Prep.)
 
-![IMAGE ALT TEXT HERE](/fig/cbf_compare.png)
+<!-- ![IMAGE ALT TEXT HERE](/fig/cbf_compare.png) -->
 
 
 ## International
