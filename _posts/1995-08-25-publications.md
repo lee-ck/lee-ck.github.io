@@ -161,7 +161,15 @@ ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based C
 ---
 
 
-${\color{blue}\it 01.}$ Junwoo Jang, ***Changyu Lee***, Jinwhan Kim*, "[Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking](https://ieeexplore.ieee.org/document/9747982)", IEEE Sensors Letters, Vol. 6, No. 5, 2022.
+<div style="display: flex; align-items: center;">
+    <img src="/fig/sl.jpg" alt="Image" style="width: 300px; margin-right: 10px;">
+    <div>
+        <a href="https://ieeexplore.ieee.org/document/9747982">
+        "Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking"</a> <br>
+        IEEE Sensors Letters, 2022  <br>
+        Junwoo Jang, <b>Changyu Lee</b>, Jinwhan Kim*
+    </div>
+</div>
 
 ---
 
