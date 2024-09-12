@@ -74,7 +74,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10472334">
-                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 15px;">
+                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
             </a>
             <p style="font-size:110%; margin: 0;">
                 <b>Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control</b>
@@ -92,7 +92,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22262">
-                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 15px;">
+                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
             </a>
             <p style="font-size:110%; margin: 0;">
                 <b>Field experiment of autonomous ship navigation in canal and surrounding nearshore environments</b>
@@ -116,7 +116,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 15px;">
             </a>
             <a href="https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee">
-                <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 15px;">
+                <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 20px;">
             </a>
             <p style="font-size:110%; margin: 0;">
                 <b>Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment</b>
@@ -139,7 +139,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 15px;">
             </a>
             <a href="https://www.youtube.com/watch?v=dMfJOH9g3Bk&t=27s">
-                <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 15px;">
+                <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 20px;">
             </a>
             <p style="font-size:110%; margin: 0;">
                 <b>Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters</b>
