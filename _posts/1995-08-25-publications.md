@@ -401,7 +401,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/ur.jpg" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/UR.jpg" alt="Image" style="width: 350px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://ieeexplore.ieee.org/document/8768710">
