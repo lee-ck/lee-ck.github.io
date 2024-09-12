@@ -115,9 +115,9 @@ ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based C
     <div>
         <a href="https://ieeexplore.ieee.org/document/10172331">
         "Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways"</a> <br>
-        IEEE Robotics and Automation Letters (RA-L), 2023  <br>
+        IEEE Robotics and Automation Letters (RA-L), 2023 (Presented at IEEE ICRA 2024) <br>
         Jonghwi Kim$^\dagger$, <b>Changyu Lee</b>$^\dagger$, Dongha Chung, Jinwhan Kim*  <br>
-        **($^\dagger$: equally contributed)** (Presented at IEEE ICRA 2024)
+        ($^\dagger$: equally contributed) 
     </div>
 </div>
 
@@ -175,22 +175,46 @@ ${\color{blue}\it 10.}$ ***Changyu Lee***, Jinwhan Kim*, "Turning Circle-based C
 
 
 ## Domestic
-${\color{blue}\it 03.}$ ***이찬규***, 김진환*, "[Trajectory Optimization for Autonomous Berthing of a Twin-Propeller Twin-Rudder Ship](https://www.joet.org/m/journal/view.php?number=3108)", (JOET) 해양공학회지, Vol. 37(3), pp. 122-128, Jun. 2023.
 
-![Image](/fig/JOET.jpg){: width="600"}{: .align-center}
 
----
-
-${\color{blue}\it 02.}$ ***이찬규***, 김경서, 김진환*, "[2023 MBZIRC Maritime Grand Challenge 대회 소개](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11157020)", 로봇과 인간, Vol. 19(2), pp. 32-37, Apr. 2022.
-
----
-
-${\color{blue}\it 01.}$ ***이찬규***, 장준우, 김진환*, "[확률 모델예측제어 알고리즘을 이용한 작동기 수가 부족한 무인잠수정 운동 제어](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002585054)", (ICROS) 제어로봇시스템학회지, Vol. 26(5), pp. 373-378, May. 2020.
-
-![Image](/fig/ICROS.jpg){: width="600"}{: .align-center}
+<div style="display: flex; align-items: center;">
+    <img src="/fig/JOET.jpg" alt="Image" style="width: 300px; margin-right: 10px;">
+    <div>
+        <a href="https://www.joet.org/m/journal/view.php?number=3108">
+        "Trajectory Optimization for Autonomous Berthing of a Twin-Propeller Twin-Rudder Ship"</a> <br>
+        Journal of Ocean Engineering and Technology (한국해양공학회지), 2023  <br>
+        <b>Changyu Lee</b>, Jinwhan Kim*
+    </div>
+</div>
 
 ---
 
+
+<div style="display: flex; align-items: center;">
+    <img src="/fig/tcns.pndg" alt="Image" style="width: 300px; margin-right: 10px;">
+    <div>
+        <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11157020">
+        "2023 MBZIRC Maritime Grand Challenge 대회 소개"</a> <br>
+        로봇과 인간, 2022  <br>
+        <b>Changyu Lee</b>, Kyoungseo Kim, Jinwhan Kim*
+    </div>
+</div>
+
+---
+
+
+
+<div style="display: flex; align-items: center;">
+    <img src="/fig/ICROS.jpg" alt="Image" style="width: 300px; margin-right: 10px;">
+    <div>
+        <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002585054">
+        "Stochastic model predictive control for motion control of an underactuated underwater vehicle"</a> <br>
+        Journal of Institute of Control, Robotics and Systems (제어로봇시스템학회지), 2020  <br>
+        <b>Changyu Lee</b>, Junwoo Jang, Jinwhan Kim*
+    </div>
+</div>
+
+---
 
 # Conference
 ## International
