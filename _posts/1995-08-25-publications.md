@@ -87,28 +87,43 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ---
 
-
 <div style="display: flex; align-items: center;">
     <img src="/fig/jfr.png" alt="Image" style="width: 300px; margin-right: 10px;">
     <div>
-        <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22262">Field experiment of autonomous ship navigation in canal and surrounding nearshore environments </a> <br>
+        <div style="display: flex; align-items: center;">
+            <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22262">
+                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 10px;">
+            </a>
+            <p style="font-size:110%; margin: 0;">
+                <b>Field experiment of autonomous ship navigation in canal and surrounding nearshore environments</b>
+            </p>
+        </div>
         Journal of Field Robotics (JFR), 2023  <br>
-        Jonghwi Kim, <b>Changyu Lee</b>, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park <br> 
-        <a href="https://www.science.org/doi/10.1126/scirobotics.adm9464">
-        <font color="red">Editor's Choice at Science Robotics </font> </a>
+        Jonghwi Kim, <b>Changyu Lee</b>, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park   <br>
+        <a href="https://www.science.org/doi/10.1126/scirobotics.adm9464" style="text-decoration:none" > <font color="red">Editor's Choice at Science Robotics </font> </a>
+     
     </div>
 </div>
 
 ---
 
+
 <div style="display: flex; align-items: center;">
     <img src="/fig/TMECH.gif" alt="Image" style="width: 300px; margin-right: 10px;">
     <div>
-        <a href="https://ieeexplore.ieee.org/document/10258470">
-        "Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment" </a> <br>
+        <div style="display: flex; align-items: center;">
+            <a href="https://ieeexplore.ieee.org/document/10258470">
+                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 10px;">
+            </a>
+            <a href="https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee">
+                <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 10px;">
+            </a>
+            <p style="font-size:110%; margin: 0;">
+                <b>Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment</b>
+            </p>
+        </div>
         IEEE/ASME Transactions on Mechatronics (TMECH), 2023  <br>
         <b>Changyu Lee</b>, Dongha Chung, Jonghwi Kim, Jinwhan Kim* <br> 
-        <a href="https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee">Full Video</a>
     </div>
 </div>
 
