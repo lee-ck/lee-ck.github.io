@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title:  "Publications"
 tags: []
 last_modified_at: 2023-01-14T00:00:00-00:00
@@ -45,7 +44,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/docking.png" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/docking.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         "Robust Berthing Control of Surface Ships Under Environmental Disturbances Using Reachability Analysis" <br>
         In preparation, 2024  <br>
@@ -56,7 +55,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/cbfj.png" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/cbfj.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         "Turning Circle-based Control Barrier Function for Efficient Collision Avoidance in Nonholonomic Vehicles"<br>
         In preparation, 2024  <br>
@@ -70,7 +69,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ## International
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/TCST.gif" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/TCST.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10472334">
@@ -90,7 +89,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/TMECH.gif" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/TMECH.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10258470">
@@ -112,7 +111,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/jfr.png" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/jfr.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22262">
@@ -132,7 +131,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/ijrr.jpeg" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/ijrr.jpeg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://journals.sagepub.com/doi/10.1177/02783649231191145">
@@ -154,7 +153,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/RAL.gif" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/RAL.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10172331">
@@ -176,7 +175,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/auro.png" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/auro.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://link.springer.com/article/10.1007/s10514-023-10114-8">
@@ -195,7 +194,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/CEP.jpg" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/CEP.jpg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://www.sciencedirect.com/science/article/pii/S0967066123001028">
@@ -213,7 +212,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/tcns.png" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/tcns.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10076261">
@@ -232,7 +231,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/sl.jpg" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/sl.jpg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/9747982">
@@ -254,7 +253,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/JOET.jpg" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/JOET.jpg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://www.joet.org/m/journal/view.php?number=3108">
@@ -273,7 +272,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/mbz.png" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/mbz.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11157020">
@@ -291,7 +290,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/ICROS.jpg" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/ICROS.jpg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002585054">
@@ -313,7 +312,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ## International
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/CDC.jpg" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/CDC.jpg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://ieeexplore.ieee.org/abstract/document/10384235">
@@ -332,7 +331,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/wc.png" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/wc.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://www.sciencedirect.com/science/article/pii/S240589632302219X">
@@ -350,7 +349,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/ur2.png" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/ur2.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://ieeexplore.ieee.org/document/10202550">
@@ -368,7 +367,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/CAMS2.jpg" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/CAMS2.jpg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://www.sciencedirect.com/science/article/pii/S2405896322024922">
@@ -386,7 +385,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/CAMS1.jpg" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/CAMS1.jpg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://www.sciencedirect.com/science/article/pii/S2405896321015196">
@@ -404,7 +403,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/UR.jpg" alt="Image" style="width: 350px; margin-right: 15px;">
+    <img src="/fig/UR.jpg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://ieeexplore.ieee.org/document/8768710">
