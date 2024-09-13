@@ -158,10 +158,10 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10172331">
-                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 15px;">
+                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
             </a>
             <a href="https://ieeexplore.ieee.org/document/10172331/media#media">
-                <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 20px;">
+                <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 25px;">
             </a>
             <p style="font-size:110%; margin: 0;">
                 <b>Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways</b>
