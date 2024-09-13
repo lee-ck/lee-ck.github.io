@@ -165,10 +165,10 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10172331">
-                <img src="/fig/icon.png" style="width: 7%; height: auto; margin-right: 1px; object-fit: contain;">
+                <img src="/fig/icon.png" style="width: 7%; height:7%; margin-right: 0px;">
             </a>
             <a href="https://ieeexplore.ieee.org/document/10172331/media#media">
-                <img src="/fig/video.png" style="width:7%;height:7%; margin-right: 1px;">
+                <img src="/fig/video.png" style="width:7%; height:7%; margin-right: 0px;">
             </a> 
         </div>
             <p style="font-size:110%; margin: 0;">
