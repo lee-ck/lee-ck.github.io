@@ -102,7 +102,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
             <p style="font-size:110%; margin: 0;">
                 <b>Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment</b>
             </p>
-        <p style="font-size:100%; margin: 0;">
+        <p style="font-size:105%; margin: 0;">
             <font color="navy"> IEEE/ASME Transactions on Mechatronics (TMECH), 2024 </font>
         </p>        
         <b>Changyu Lee</b>, Dongha Chung, Jonghwi Kim, Jinwhan Kim* <br> 
