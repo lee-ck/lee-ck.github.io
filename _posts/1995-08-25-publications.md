@@ -175,7 +175,8 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
                 <b>Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways</b>
             </p>
         <p style="font-size:105%; margin: 0;">
-            <font color="navy"> IEEE Robotics and Automation Letters (RA-L), 2023 (Presented at IEEE ICRA 2024) </font>
+            <font color="navy"> IEEE Robotics and Automation Letters (RA-L), 2023 <br>
+             (Presented at IEEE ICRA 2024) </font>
         </p>             
         Jonghwi Kim$^\dagger$, <b>Changyu Lee</b>$^\dagger$, Dongha Chung, Jinwhan Kim*  <br>
         ($^\dagger$: equally contributed) 
