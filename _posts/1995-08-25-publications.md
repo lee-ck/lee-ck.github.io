@@ -74,11 +74,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10472334">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
+            </a> 
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control</b>
             </p>
-        </div>
         IEEE Transactions on Control Systems Technology (TCST), 2024  <br>
         <b>Changyu Lee</b>, Quoc Van Tran, Jinwhan Kim*
     </div>
@@ -97,11 +97,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
             </a>
             <a href="https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee">
                 <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 25px;">
-            </a> <br>
+            </a>
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment</b>
             </p>
-        </div>
         IEEE/ASME Transactions on Mechatronics (TMECH), 2024  <br>
         <b>Changyu Lee</b>, Dongha Chung, Jonghwi Kim, Jinwhan Kim* <br> 
     </div>
@@ -116,11 +116,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
             <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22262">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
+            </a> 
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Field experiment of autonomous ship navigation in canal and surrounding nearshore environments</b>
             </p>
-        </div>
         Journal of Field Robotics (JFR), 2023  <br>
         Jonghwi Kim, <b>Changyu Lee</b>, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park   <br>
         <a href="https://www.science.org/doi/10.1126/scirobotics.adm9464" style="text-decoration:none" > <font color="red">Editor's Choice at Science Robotics </font> </a>
@@ -139,11 +139,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
             </a>
             <a href="https://www.youtube.com/watch?v=dMfJOH9g3Bk&t=27s">
                 <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 25px;">
-            </a> <br>
+            </a> 
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters</b>
             </p>
-        </div>
         International Journal of Robotics Research (IJRR), 2023  <br>
         Dongha Chung, Jonghwi Kim, <b>Changyu Lee</b>, Jinwhan Kim*  <br>
     </div>
@@ -161,11 +161,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
             </a>
             <a href="https://ieeexplore.ieee.org/document/10172331/media#media">
                 <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 25px;">
-            </a> <br>
+            </a> 
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways</b>
             </p>
-        </div>
         IEEE Robotics and Automation Letters (RA-L), 2023 (Presented at IEEE ICRA 2024)  <br>
         Jonghwi Kim$^\dagger$, <b>Changyu Lee</b>$^\dagger$, Dongha Chung, Jinwhan Kim*  <br>
         ($^\dagger$: equally contributed) 
@@ -180,11 +180,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
             <a href="https://link.springer.com/article/10.1007/s10514-023-10114-8">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
+            </a>
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction</b>
             </p>
-        </div>
         Autonomous Robots, 2023  <br>
         Junwoo Jang, <b>Changyu Lee</b>, Jinwhan Kim*  
     </div>
@@ -199,11 +199,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
             <a href="https://www.sciencedirect.com/science/article/pii/S0967066123001028">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
+            </a>
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves</b>
             </p>
-        </div>
         Control Engineering Practice, 2023  <br>
         <b>Changyu Lee</b>, Jinwhan Kim*  
     </div>
@@ -217,11 +217,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10076261">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
+            </a> 
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach</b>
             </p>
-        </div>
         IEEE Transactions on Control of Network Systems, 2023  <br>
         Quoc Van Tran*, <b>Changyu Lee</b>, Jinwhan Kim, Hoang Quang Nguyen 
     </div>
@@ -236,11 +236,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/9747982">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
+            </a>
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking</b>
             </p>
-        </div>
         IEEE Sensors Letters, 2022  <br>
         Junwoo Jang, <b>Changyu Lee</b>, Jinwhan Kim*
     </div>
@@ -258,11 +258,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://www.joet.org/m/journal/view.php?number=3108">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
+            </a> 
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Trajectory Optimization for Autonomous Berthing of a Twin-Propeller Twin-Rudder Ship</b>
             </p>
-        </div>
         Journal of Ocean Engineering and Technology (한국해양공학회지), 2023  <br>
         <b>Changyu Lee</b>, Jinwhan Kim*
     </div>
@@ -277,11 +277,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11157020">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
+            </a> 
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>2023 MBZIRC Maritime Grand Challenge 대회 소개</b>
             </p>
-        </div>
         로봇과 인간, 2022  <br>
         <b>Changyu Lee</b>, Kyungseo Kim, Jinwhan Kim*
     </div>
@@ -295,11 +295,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002585054">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
+            </a> 
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Stochastic model predictive control for motion control of an underactuated underwater vehicle</b>
             </p>
-        </div>
         Journal of Institute of Control, Robotics and Systems (제어로봇시스템학회지), 2020  <br>
         <b>Changyu Lee</b>, Junwoo Jang, Jinwhan Kim*
     </div>
@@ -317,11 +317,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://ieeexplore.ieee.org/abstract/document/10384235">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
+            </a> 
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control</b>
             </p>
-        </div>
         62nd IEEE Conference on Decision and Control (CDC), 2023  <br>
         <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim*
     </div>
@@ -336,11 +336,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://www.sciencedirect.com/science/article/pii/S240589632302219X">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
+            </a> 
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis</b>
             </p>
-        </div>
         22nd IFAC World Congress, 2023  <br>
         Jinwook Park, <b>Changyu Lee</b>, Jinwhan Kim*
     </div>
@@ -354,11 +354,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://ieeexplore.ieee.org/document/10202550">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
+            </a>
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control</b>
             </p>
-        </div>
         20th International Conference on Ubiquitous Robots (UR), 2023  <br>
         Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim*
     </div>
@@ -372,11 +372,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://www.sciencedirect.com/science/article/pii/S2405896322024922">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
+            </a> 
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles</b>
             </p>
-        </div>
         14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), 2022  <br>
         <b>Changyu Lee</b>, Quoc Van Tran, Jinwhan Kim*
     </div>
@@ -390,11 +390,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://www.sciencedirect.com/science/article/pii/S2405896321015196">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
+            </a>
+        </div>
             <p style="font-size:110%; margin: 0;">
                 <b>Energy Efficient Control for Electric Ship Propulsion Considering Thrust Fluctuation in Regular Waves</b>
             </p>
-        </div>
         13th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), 2021  <br>
         <b>Changyu Lee</b>, Jinwhan Kim*
     </div>
@@ -408,11 +408,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://ieeexplore.ieee.org/document/8768710">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a> <br>
-            <p style="font-size:110%; margin: 0;">
-                <b>Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking</b>
-            </p>
+            </a> 
         </div>
+        <p style="font-size:110%; margin: 0;">
+            <b>Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking</b>
+        </p>
         16th International Conference on Ubiquitous Robots (UR), 2019  <br>
         <b>Changyu Lee</b>, Jinwhan Kim*
     </div>
