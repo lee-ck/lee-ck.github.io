@@ -165,7 +165,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10172331">
-                <img src="/fig/icon.png" style="width: 7%; height: 7%; margin-right: 1px;">
+                <img src="/fig/icon.png" style="width: 7%; height: auto; margin-right: 1px; object-fit: contain;">
             </a>
             <a href="https://ieeexplore.ieee.org/document/10172331/media#media">
                 <img src="/fig/video.png" style="width:7%;height:7%; margin-right: 1px;">
@@ -190,7 +190,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://link.springer.com/article/10.1007/s10514-023-10114-8">
-                <img src="/fig/icon.png" style="width: 7%; height: 7%; margin-right: 1px;">
+                <img src="/fig/icon.png" style="width: 7%; height: auto; margin-right: 1px; object-fit: contain;">
             </a>
         </div>
             <p style="font-size:110%; margin: 0;">
