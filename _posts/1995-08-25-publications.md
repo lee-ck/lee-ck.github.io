@@ -281,7 +281,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ## International
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/CDC.jpg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://ieeexplore.ieee.org/abstract/document/10384235">
@@ -302,7 +301,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/wc.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://www.sciencedirect.com/science/article/pii/S240589632302219X">
@@ -322,7 +320,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/ur2.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://ieeexplore.ieee.org/document/10202550">
@@ -342,7 +339,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/CAMS2.jpg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://www.sciencedirect.com/science/article/pii/S2405896322024922">
@@ -362,7 +358,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/CAMS1.jpg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://www.sciencedirect.com/science/article/pii/S2405896321015196">
@@ -382,7 +377,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/UR.jpg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <div style="display: flex; align-items: center;">
         <a href="https://ieeexplore.ieee.org/document/8768710">
