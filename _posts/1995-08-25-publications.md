@@ -136,10 +136,10 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://journals.sagepub.com/doi/10.1177/02783649231191145">
-                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 15px;">
+                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
             </a>
             <a href="https://www.youtube.com/watch?v=dMfJOH9g3Bk&t=27s">
-                <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 20px;">
+                <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 25px;">
             </a>
             <p style="font-size:110%; margin: 0;">
                 <b>Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters</b>
