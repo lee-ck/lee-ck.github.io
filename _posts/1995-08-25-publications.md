@@ -46,7 +46,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/docking.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        "Robust Berthing Control of Surface Ships Under Environmental Disturbances Using Reachability Analysis" <br>
+        <b>Robust Berthing Control of Surface Ships Under Environmental Disturbances Using Reachability Analysis</b> <br>
         In preparation, 2024  <br>
         Jinwook Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
     </div>
@@ -57,7 +57,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/cbfj.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        "Turning Circle-based Control Barrier Function for Efficient Collision Avoidance in Nonholonomic Vehicles"<br>
+        <b>Turning Circle-based Control Barrier Function for Efficient Collision Avoidance in Nonholonomic Vehicles</b><br>
         In preparation, 2024  <br>
         <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
     </div>
@@ -74,7 +74,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10472334">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control</b>
             </p>
@@ -97,7 +97,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
             </a>
             <a href="https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee">
                 <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 25px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment</b>
             </p>
@@ -116,7 +116,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
             <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22262">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Field experiment of autonomous ship navigation in canal and surrounding nearshore environments</b>
             </p>
@@ -139,7 +139,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
             </a>
             <a href="https://www.youtube.com/watch?v=dMfJOH9g3Bk&t=27s">
                 <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 25px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters</b>
             </p>
@@ -161,7 +161,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
             </a>
             <a href="https://ieeexplore.ieee.org/document/10172331/media#media">
                 <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 25px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways</b>
             </p>
@@ -180,7 +180,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
             <a href="https://link.springer.com/article/10.1007/s10514-023-10114-8">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction</b>
             </p>
@@ -199,7 +199,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
             <a href="https://www.sciencedirect.com/science/article/pii/S0967066123001028">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves</b>
             </p>
@@ -217,7 +217,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10076261">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach</b>
             </p>
@@ -236,7 +236,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/9747982">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking</b>
             </p>
@@ -258,7 +258,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://www.joet.org/m/journal/view.php?number=3108">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Trajectory Optimization for Autonomous Berthing of a Twin-Propeller Twin-Rudder Ship</b>
             </p>
@@ -277,7 +277,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11157020">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>2023 MBZIRC Maritime Grand Challenge 대회 소개</b>
             </p>
@@ -295,7 +295,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002585054">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Stochastic model predictive control for motion control of an underactuated underwater vehicle</b>
             </p>
@@ -317,7 +317,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://ieeexplore.ieee.org/abstract/document/10384235">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control</b>
             </p>
@@ -336,7 +336,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://www.sciencedirect.com/science/article/pii/S240589632302219X">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis</b>
             </p>
@@ -354,7 +354,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://ieeexplore.ieee.org/document/10202550">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control</b>
             </p>
@@ -372,7 +372,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://www.sciencedirect.com/science/article/pii/S2405896322024922">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles</b>
             </p>
@@ -390,7 +390,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://www.sciencedirect.com/science/article/pii/S2405896321015196">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Energy Efficient Control for Electric Ship Propulsion Considering Thrust Fluctuation in Regular Waves</b>
             </p>
@@ -408,7 +408,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <div style="display: flex; align-items: center;">
         <a href="https://ieeexplore.ieee.org/document/8768710">
                 <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
+            </a> <br>
             <p style="font-size:110%; margin: 0;">
                 <b>Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking</b>
             </p>
