@@ -81,9 +81,33 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
             </p>
         </div>
         IEEE Transactions on Control Systems Technology (TCST), 2024  <br>
-        <b>Changyu Lee</b>, Dongha Chung, Jonghwi Kim, Jinwhan Kim*        
+        <b>Changyu Lee</b>, Quoc Van Tran, Jinwhan Kim*
     </div>
 </div>
+
+---
+
+
+
+<div style="display: flex; align-items: center;">
+    <img src="/fig/TMECH.gif" alt="Image" style="width: 350px; margin-right: 15px;">
+    <div>
+        <div style="display: flex; align-items: center;">
+            <a href="https://ieeexplore.ieee.org/document/10258470">
+                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 20px;">
+            </a>
+            <a href="https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee">
+                <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 25px;">
+            </a>
+            <p style="font-size:110%; margin: 0;">
+                <b>Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment</b>
+            </p>
+        </div>
+        IEEE/ASME Transactions on Mechatronics (TMECH), 2024  <br>
+        <b>Changyu Lee</b>, Dongha Chung, Jonghwi Kim, Jinwhan Kim* <br> 
+    </div>
+</div>
+
 
 ---
 
@@ -106,30 +130,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 </div>
 
 ---
-
-
-<div style="display: flex; align-items: center;">
-    <img src="/fig/TMECH.gif" alt="Image" style="width: 350px; margin-right: 15px;">
-    <div>
-        <div style="display: flex; align-items: center;">
-            <a href="https://ieeexplore.ieee.org/document/10258470">
-                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 15px;">
-            </a>
-            <a href="https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee">
-                <img src="/fig/video.png" style="width:25px;height:25px; margin-right: 20px;">
-            </a>
-            <p style="font-size:110%; margin: 0;">
-                <b>Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment</b>
-            </p>
-        </div>
-        IEEE/ASME Transactions on Mechatronics (TMECH), 2023  <br>
-        <b>Changyu Lee</b>, Dongha Chung, Jonghwi Kim, Jinwhan Kim* <br> 
-    </div>
-</div>
-
-
----
-
 
 <div style="display: flex; align-items: center;">
     <img src="/fig/ijrr.jpeg" alt="Image" style="width: 350px; margin-right: 15px;">
@@ -221,7 +221,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
             </p>
         </div>
         IEEE Transactions on Control of Network Systems, 2023  <br>
-        Quoc Van Tran*, <b>Changyu Lee</b>, Jinwhan Kim, Quang Hoang Nguyen 
+        Quoc Van Tran*, <b>Changyu Lee</b>, Jinwhan Kim, Hoang Quang Nguyen 
     </div>
 </div>
 
@@ -281,7 +281,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
             </p>
         </div>
         로봇과 인간, 2022  <br>
-        <b>Changyu Lee</b>, Kyoungseo Kim, Jinwhan Kim*
+        <b>Changyu Lee</b>, Kyungseo Kim, Jinwhan Kim*
     </div>
 </div>
 
