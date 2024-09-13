@@ -93,10 +93,10 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10258470">
-                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 5px;">
+                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 3px;">
             </a>
             <a href="https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee">
-                <img src="/fig/video.png" style="width:20px;height:20px; margin-right: 25px;">
+                <img src="/fig/video.png" style="width:23px;height:23px; margin-right: 25px;">
             </a>
         </div>
             <p style="font-size:110%; margin: 0;">
@@ -135,10 +135,10 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://journals.sagepub.com/doi/10.1177/02783649231191145">
-                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 5px;">
+                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 3px;">
             </a>
             <a href="https://www.youtube.com/watch?v=dMfJOH9g3Bk&t=27s">
-                <img src="/fig/video.png" style="width:20px;height:20px; margin-right: 25px;">
+                <img src="/fig/video.png" style="width:23px;height:23px; margin-right: 25px;">
             </a> 
         </div>
             <p style="font-size:110%; margin: 0;">
@@ -157,10 +157,10 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10172331">
-                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 5px;">
+                <img src="/fig/icon.png" style="width:25px;height:25px; margin-right: 3px;">
             </a>
             <a href="https://ieeexplore.ieee.org/document/10172331/media#media">
-                <img src="/fig/video.png" style="width:20px;height:20px; margin-right: 25px;">
+                <img src="/fig/video.png" style="width:23px;height:23px; margin-right: 25px;">
             </a> 
         </div>
             <p style="font-size:110%; margin: 0;">
