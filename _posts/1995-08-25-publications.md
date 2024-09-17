@@ -98,7 +98,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
                 <img src="/fig/icon.png" style="width: 12%; height: 12%;">
             </a>
             <a href="https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee">
-                <img src="/fig/video.png" style="width:7%;height:7%; margin-right: 1px;">
+                <img src="/fig/video.png" style="width:12%;height:12%;">
             </a>
         </div>
             <p style="font-size:110%; margin: 0;">
@@ -144,7 +144,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
                 <img src="/fig/icon.png" style="width: 12%; height: 12%;">
             </a>
             <a href="https://www.youtube.com/watch?v=dMfJOH9g3Bk&t=27s">
-                <img src="/fig/video.png" style="width:7%;height:7%; margin-right: 1px;">
+                <img src="/fig/video.png" style="width:12%;height:12%;">
             </a> 
         </div>
             <p style="font-size:110%; margin: 0;">
@@ -168,7 +168,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
                 <img src="/fig/icon.png" style="width: 12%; height: 12%;">
             </a>
             <a href="https://ieeexplore.ieee.org/document/10172331/media#media">
-                <img src="/fig/video.png" style="width:7%; height:7%; margin-right: 0px;">
+                <img src="/fig/video.png" style="width:12%;height:12%;">
             </a> 
         </div>
             <p style="font-size:110%; margin: 0;">
