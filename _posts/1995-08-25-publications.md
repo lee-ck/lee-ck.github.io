@@ -95,7 +95,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <div>
         <div style="display: flex; align-items: center;">
             <a href="https://ieeexplore.ieee.org/document/10258470">
-                <img src="/fig/icon.png" style="width: 7%; height: 7%; margin-right: 1px;">
+                <img src="/fig/icon.png" style="width: 12%; height: 12%;">
             </a>
             <a href="https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee">
                 <img src="/fig/video.png" style="width:7%;height:7%; margin-right: 1px;">
