@@ -79,9 +79,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         </p>        
         <b>Changyu Lee</b>, Quoc Van Tran, Jinwhan Kim*
         <div style="display: flex; align-items: center;">
-            <a href="https://ieeexplore.ieee.org/document/10472334">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px;">
-            </a> 
+        <a href="https://ieeexplore.ieee.org/document/10472334"> Paper </a>
         </div>
     </div>
 </div>
@@ -101,12 +99,8 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         </p>        
         <b>Changyu Lee</b>, Dongha Chung, Jonghwi Kim, Jinwhan Kim* <br> 
         <div style="display: flex; align-items: center;">
-            <a href="https://ieeexplore.ieee.org/document/10258470">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px; margin-right: 4px;">
-            </a>
-            <a href="https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee">
-                <img src="/fig/video.png" style="width:20px;height:20px;">
-            </a>
+        <a href="https://ieeexplore.ieee.org/document/10258470"> Paper </a>
+        <a href="https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee"> Video </a>
         </div>
     </div>
 </div>
@@ -126,9 +120,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         Jonghwi Kim, <b>Changyu Lee</b>, Dongha Chung, Yonghoon Cho, Jinwhan Kim*, Wangseok Jang, Saeyong Park   <br>
         <a href="https://www.science.org/doi/10.1126/scirobotics.adm9464" style="text-decoration:none" > <font color="red">Editor's Choice at Science Robotics </font> </a>
              <div style="display: flex; align-items: center;">
-            <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22262">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px;">
-            </a> 
+        <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22262"> Paper </a>
         </div>
     </div>
 </div>
@@ -146,12 +138,8 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         </p>                
         Dongha Chung, Jonghwi Kim, <b>Changyu Lee</b>, Jinwhan Kim*  <br>
         <div style="display: flex; align-items: center;">
-            <a href="https://journals.sagepub.com/doi/10.1177/02783649231191145">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px;  margin-right: 4px;">
-            </a>
-            <a href="https://www.youtube.com/watch?v=dMfJOH9g3Bk&t=27s">
-                <img src="/fig/video.png" style="width:20px;height:20px;">
-            </a> 
+        <a href="https://journals.sagepub.com/doi/10.1177/02783649231191145"> Paper </a>
+        <a href="https://www.youtube.com/watch?v=dMfJOH9g3Bk&t=27s"> Video </a>
         </div>
     </div>
 </div>
@@ -172,12 +160,8 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         Jonghwi Kim$^\dagger$, <b>Changyu Lee</b>$^\dagger$, Dongha Chung, Jinwhan Kim*  <br>
         ($^\dagger$: equally contributed) 
         <div style="display: flex; align-items: center;">
-            <a href="https://ieeexplore.ieee.org/document/10172331">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px; margin-right: 4px;">
-            </a>
-            <a href="https://ieeexplore.ieee.org/document/10172331/media#media">
-                <img src="/fig/video.png" style="width:20px;height:20px;">
-            </a> 
+        <a href="https://ieeexplore.ieee.org/document/10172331"> Paper </a>
+        <a href="https://ieeexplore.ieee.org/document/10172331/media#media"> Video </a>
         </div>
     </div>
 </div>
@@ -195,9 +179,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         </p>             
         Junwoo Jang, <b>Changyu Lee</b>, Jinwhan Kim*  
         <div style="display: flex; align-items: center;">
-            <a href="https://link.springer.com/article/10.1007/s10514-023-10114-8">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px;">
-            </a>
+        <a href="https://link.springer.com/article/10.1007/s10514-023-10114-8"> Paper </a>
         </div>
     </div>
 </div>
@@ -216,8 +198,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         </p>      
         <b>Changyu Lee</b>, Jinwhan Kim*  
         <div style="display: flex; align-items: center;">
-            <a href="https://www.sciencedirect.com/science/article/pii/S0967066123001028">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px;">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0967066123001028"> Paper </a>
             </a>
         </div>
     </div>
@@ -236,9 +217,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         </p>      
         Quoc Van Tran*, <b>Changyu Lee</b>, Jinwhan Kim, Hoang Quang Nguyen 
         <div style="display: flex; align-items: center;">
-            <a href="https://ieeexplore.ieee.org/document/10076261">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px;">
-            </a> 
+        <a href="https://ieeexplore.ieee.org/document/10076261"> Paper </a>
         </div>
     </div>
 </div>
@@ -257,9 +236,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         </p>      
         Junwoo Jang, <b>Changyu Lee</b>, Jinwhan Kim*
         <div style="display: flex; align-items: center;">
-            <a href="https://ieeexplore.ieee.org/document/9747982">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px;">
-            </a>
+        <a href="https://ieeexplore.ieee.org/document/9747982"> Paper </a>
         </div>
     </div>
 </div>
@@ -284,15 +261,12 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <p style="font-size:110%; margin: 0;">
             <b>Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control</b>
         </p>
-        <a href="https://ieeexplore.ieee.org/abstract/document/10384235"> paper </a>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> 62nd IEEE Conference on Decision and Control (CDC), 2023 </font>
         </p>      
         <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim*
         <div style="display: flex; align-items: center;">
-        <a href="https://ieeexplore.ieee.org/abstract/document/10384235">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px;">
-            </a> 
+        <a href="https://ieeexplore.ieee.org/abstract/document/10384235"> Paper </a>
         </div>
     </div>
 </div>
@@ -310,9 +284,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         </p>      
         Jinwook Park, <b>Changyu Lee</b>, Jinwhan Kim*
         <div style="display: flex; align-items: center;">
-        <a href="https://www.sciencedirect.com/science/article/pii/S240589632302219X">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px;">
-            </a> 
+        <a href="https://www.sciencedirect.com/science/article/pii/S240589632302219X"> Paper </a>
         </div>
     </div>
 </div>
@@ -329,9 +301,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         </p>      
         Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim*
         <div style="display: flex; align-items: center;">
-        <a href="https://ieeexplore.ieee.org/document/10202550">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px;">
-            </a>
+        <a href="https://ieeexplore.ieee.org/document/10202550"> Paper </a>
         </div>
     </div>
 </div>
@@ -347,10 +317,8 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
             <font color="navy"> 14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), 2022 </font>
         </p>      
         <b>Changyu Lee</b>, Quoc Van Tran, Jinwhan Kim*
-        <div style="display: flex; align-items: center;">
-        <a href="https://www.sciencedirect.com/science/article/pii/S2405896322024922">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px;">
-            </a> 
+        <div style="display: flex; align-items: center;">        
+        <a href="https://www.sciencedirect.com/science/article/pii/S2405896322024922"> Paper </a>
         </div>
     </div>
 </div>
@@ -366,10 +334,8 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
             <font color="navy"> 13th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), 2021 </font>
         </p>      
         <b>Changyu Lee</b>, Jinwhan Kim*
-        <div style="display: flex; align-items: center;">
-        <a href="https://www.sciencedirect.com/science/article/pii/S2405896321015196">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px;">
-            </a>
+        <div style="display: flex; align-items: center;">        
+        <a href="https://www.sciencedirect.com/science/article/pii/S2405896321015196"> Paper </a>
         </div>
     </div>
 </div>
@@ -386,9 +352,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         </p>      
         <b>Changyu Lee</b>, Jinwhan Kim*
         <div style="display: flex; align-items: center;">
-        <a href="https://ieeexplore.ieee.org/document/8768710">
-                <img src="/fig/icon.png" style="width: 20px; height: 20px;">
-            </a> 
+        <a href="https://ieeexplore.ieee.org/document/8768710">  Paper </a>
         </div>
     </div>
 </div>
