@@ -199,7 +199,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <b>Changyu Lee</b>, Jinwhan Kim*  
         <div style="display: flex; align-items: center;">
         <a href="https://www.sciencedirect.com/science/article/pii/S0967066123001028"> Paper </a>
-            </a>
         </div>
     </div>
 </div>
