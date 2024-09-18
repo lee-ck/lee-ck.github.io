@@ -283,7 +283,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <div>
         <p style="font-size:110%; margin: 0;">
             <b>Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control</b>
-            [paper](https://ieeexplore.ieee.org/abstract/document/10384235)
+            <a href=https://ieeexplore.ieee.org/abstract/document/10384235> paper </a>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> 62nd IEEE Conference on Decision and Control (CDC), 2023 </font>
