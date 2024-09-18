@@ -9,8 +9,6 @@ toc: false
 
 &larr; visit my google scholar
 
-# Journal
-
 <!-- ### --In preparation--
 
 Tube-based LOS-MPC for Underactuated Ship Path Following -->
@@ -39,7 +37,9 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <!-- ### --Under revision-- -->
 
 
-### In preparation
+# International
+
+## Journal (In preparation)
 
 ---
 
@@ -65,8 +65,9 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ---
 
+## Journal (Published)
 
-## International
+---
 
 <div style="display: flex; align-items: center;">
     <img src="/fig/TCST.gif" alt="Image" style="width: 200px; margin-right: 15px;">
@@ -85,7 +86,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 </div>
 
 ---
-
 
 
 <div style="display: flex; align-items: center;">
@@ -243,18 +243,9 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ---
 
+## Conference
 
-## Domestic
-
-
-***이찬규***, 김진환*, "Trajectory Optimization for Autonomous Berthing of a Twin-Propeller Twin-Rudder Ship", Journal of Ocean Engineering and Technology (한국해양공학회지), 2023
-
-***이찬규***, 김경서, 김진환*, "2023 MBZIRC Maritime Grand Challenge 대회 소개", 로봇과 인간, 2022
-
-***이찬규***, 장준우, 김진환*, "Stochastic model predictive control for motion control of an underactuated underwater vehicle", Journal of Institute of Control, Robotics and Systems (제어로봇시스템학회지), 2020
-
-# Conference
-## International
+---
 
 <div style="display: flex; align-items: center;">
     <div>
@@ -360,7 +351,19 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 
-## Domestic
+# Domestic
+
+
+## Journal 
+
+***이찬규***, 김진환*, "Trajectory Optimization for Autonomous Berthing of a Twin-Propeller Twin-Rudder Ship", Journal of Ocean Engineering and Technology (한국해양공학회지), 2023
+
+***이찬규***, 김경서, 김진환*, "2023 MBZIRC Maritime Grand Challenge 대회 소개", 로봇과 인간, 2022
+
+***이찬규***, 장준우, 김진환*, "Stochastic model predictive control for motion control of an underactuated underwater vehicle", Journal of Institute of Control, Robotics and Systems (제어로봇시스템학회지), 2020
+
+## Conference
+
 
 김응현, ***이찬규***, 김진환*, "혼잡한 보행자 공간에서 운용되는 모바일 로봇 자율주행을 위한 경로계획", 한국로봇학회 한국로봇종합학술대회, 2024 ${\color{red}{\text{ (Most Outstanding Paper Award)}}}$
 
