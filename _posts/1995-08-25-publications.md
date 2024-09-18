@@ -99,7 +99,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         </p>        
         <b>Changyu Lee</b>, Dongha Chung, Jonghwi Kim, Jinwhan Kim* <br> 
         <div style="display: flex; align-items: center;">
-        <a href="https://ieeexplore.ieee.org/document/10258470"> Paper </a>
+        <a href="https://ieeexplore.ieee.org/document/10258470"> Paper </a> &nbsp;
         <a href="https://www.youtube.com/watch?v=p2MESqGvOSE&t=37s&ab_channel=CKLee"> Video </a>
         </div>
     </div>
@@ -138,7 +138,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         </p>                
         Dongha Chung, Jonghwi Kim, <b>Changyu Lee</b>, Jinwhan Kim*  <br>
         <div style="display: flex; align-items: center;">
-        <a href="https://journals.sagepub.com/doi/10.1177/02783649231191145"> Paper </a>
+        <a href="https://journals.sagepub.com/doi/10.1177/02783649231191145"> Paper </a> &nbsp;
         <a href="https://www.youtube.com/watch?v=dMfJOH9g3Bk&t=27s"> Video </a>
         </div>
     </div>
@@ -160,7 +160,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         Jonghwi Kim$^\dagger$, <b>Changyu Lee</b>$^\dagger$, Dongha Chung, Jinwhan Kim*  <br>
         ($^\dagger$: equally contributed) 
         <div style="display: flex; align-items: center;">
-        <a href="https://ieeexplore.ieee.org/document/10172331"> Paper </a>
+        <a href="https://ieeexplore.ieee.org/document/10172331"> Paper </a> &nbsp;
         <a href="https://ieeexplore.ieee.org/document/10172331/media#media"> Video </a>
         </div>
     </div>
