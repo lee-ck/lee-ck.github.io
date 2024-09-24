@@ -55,7 +55,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/cbfj.png" alt="Image" style="width: 200px; margin-right: 15px;">
+    <img src="/fig/tccbf.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <b>Turning Circle-based Control Barrier Function for Efficient Collision Avoidance in Nonholonomic Vehicles</b><br>
         In preparation, 2024  <br>
