@@ -46,7 +46,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/docking.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>Robust Berthing Control of Surface Ships Under Environmental Disturbances Using Reachability Analysis</b> <br>
+        <b>[J11] Robust Berthing Control of Surface Ships Under Environmental Disturbances Using Reachability Analysis</b> <br>
         In preparation, 2024  <br>
         Jinwook Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
     </div>
@@ -57,7 +57,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/tccbf.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>Turning Circle-based Control Barrier Function for Efficient Collision Avoidance in Nonholonomic Vehicles</b><br>
+        <b>[J10] Turning Circle-based Control Barrier Function for Efficient Collision Avoidance in Nonholonomic Vehicles</b><br>
         In preparation, 2024  <br>
         <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
     </div>
@@ -73,7 +73,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/TCST.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control</b>
+            <b>[J9] Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> IEEE Transactions on Control Systems Technology (TCST), 2024 </font>
@@ -92,7 +92,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/TMECH.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment</b>
+            <b>[J8] Nonlinear Model Predictive Control with Obstacle Avoidance Constraints for Autonomous Navigation in a Canal Environment</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> IEEE/ASME Transactions on Mechatronics (TMECH), 2024 </font>
@@ -112,7 +112,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/jfr.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>Field experiment of autonomous ship navigation in canal and surrounding nearshore environments</b>
+            <b>[J7] Field experiment of autonomous ship navigation in canal and surrounding nearshore environments</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> Journal of Field Robotics (JFR), 2023 </font>
@@ -131,7 +131,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/ijrr.jpeg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters</b>
+            <b>[J6] Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> International Journal of Robotics Research (IJRR), 2023 </font>
@@ -151,7 +151,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/RAL.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways</b>
+            <b>[J5] Navigable Area Detection and Perception-guided Model Predictive Control for Autonomous Navigation in Narrow Waterways</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> IEEE Robotics and Automation Letters (RA-L), 2023 <br>
@@ -172,7 +172,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/auro.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction</b>
+            <b>[J4] A learning-based approach to surface vehicle dynamics modeling for robust multistep prediction</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> Autonomous Robots, 2023 </font>
@@ -191,7 +191,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/CEP.jpg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves</b>
+            <b>[J3] Model Predictive Anti-spin Thruster Control for Efficient Ship Propulsion in Irregular Waves</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> Control Engineering Practice, 2023  </font>
@@ -209,7 +209,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/tcns.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach</b>
+            <b>[J2] Robust Bearing-based Formation Tracking Control of Underactuated Surface Vessels: An Output Regulation Approach</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy">         IEEE Transactions on Control of Network Systems, 2023  </font>
@@ -228,7 +228,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/sl.jpg" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking</b>
+            <b>[J1] Ambiguity Resolution Between Constant Velocity and Coordinated Turn Models for Multimodel Target Tracking</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy">  IEEE Sensors Letters, 2022  </font>
@@ -249,7 +249,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control</b>
+            <b>[C6] Parameter-Varying Koopman Operator for Nonlinear System Modeling and Control</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> 62nd IEEE Conference on Decision and Control (CDC), 2023 </font>
@@ -267,7 +267,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis</b>
+            <b>[C5] Robust Ship Berthing Control with Wind Disturbance Compensation using Reachability Analysis</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> 22nd IFAC World Congress, 2023 </font>
@@ -284,7 +284,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control</b>
+            <b>[C4] Robust Path Tracking and Obstacle Avoidance of Autonomous Ship using Stochastic Model Predictive Control</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> 20th International Conference on Ubiquitous Robots (UR), 2023 </font>
@@ -301,7 +301,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles</b>
+            <b>[C3] Robust Path Tracking and Obstacle Avoidance Using Tube-Based Model Predictive Control for Surface Vehicles</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> 14th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), 2022 </font>
@@ -318,7 +318,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>Energy Efficient Control for Electric Ship Propulsion Considering Thrust Fluctuation in Regular Waves</b>
+            <b>[C2] Energy Efficient Control for Electric Ship Propulsion Considering Thrust Fluctuation in Regular Waves</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> 13th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), 2021 </font>
@@ -335,7 +335,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking</b>
+            <b>[C1] Nonlinear Model Predictive Control of an Autonomous Underwater Vehicle for Terrain Profile Tracking</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> 16th International Conference on Ubiquitous Robots (UR), 2019 </font>
