@@ -47,7 +47,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/docking.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <b>[J11] Robust Berthing Control of Surface Ships Under Environmental Disturbances Using Reachability Analysis</b> <br>
-        In preparation, 2024  <br>
         Jinwook Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
     </div>
 </div>
@@ -58,7 +57,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/tccbf.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <b>[J10] Turning Circle-based Control Barrier Function for Efficient Collision Avoidance in Nonholonomic Vehicles</b><br>
-        In preparation, 2024  <br>
         <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
         <div style="display: flex; align-items: center;">
         <a href="https://youtu.be/uA3DNeYyQKo"> Paper </a> &nbsp;
