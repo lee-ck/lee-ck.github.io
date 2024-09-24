@@ -4,7 +4,7 @@ title:  "Publications"
 tags: []
 last_modified_at: 2023-01-14T00:00:00-00:00
 author_profile: true
-toc: false
+toc: true
 ---
 
 &larr; visit my google scholar
