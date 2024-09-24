@@ -39,7 +39,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 # International
 
-## Journal (In preparation)
+## Journal (Under review)
 
 ---
 
