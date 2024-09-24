@@ -162,7 +162,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
              (Presented at IEEE ICRA 2024) </font>
         </p>             
         Jonghwi Kim$^\dagger$, <b>Changyu Lee</b>$^\dagger$, Dongha Chung, Jinwhan Kim*  <br>
-        ($^\dagger$: equally contributed) 
+        <b>($^\dagger$: equally contributed) </b>
         <div style="display: flex; align-items: center;">
         <a href="https://ieeexplore.ieee.org/document/10172331"> Paper </a> &nbsp;
         <a href="https://ieeexplore.ieee.org/document/10172331/media#media"> Video </a>
