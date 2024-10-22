@@ -56,11 +56,11 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/tccbf.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J10] Turning Circle-based Control Barrier Function for Efficient Collision Avoidance in Nonholonomic Vehicles</b><br>
+        <b>[J10] Turning Circle-based Control Barrier Function for Efficient Collision Avoidance of Nonholonomic Vehicles</b><br>
         <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
         <div style="display: flex; align-items: center;">
-        <a href="https://youtu.be/uA3DNeYyQKo"> Paper </a> &nbsp;
-        <a href="https://youtu.be/uA3DNeYyQKo"> Video </a>
+        <a href="https://www.youtube.com/watch?v=_fUdCjV7Lbg"> Paper </a> &nbsp;
+        <a href="https://www.youtube.com/watch?v=_fUdCjV7Lbg"> Video </a>
         </div>
     </div>
 </div>
