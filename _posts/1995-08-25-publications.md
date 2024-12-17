@@ -34,11 +34,15 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 <!-- ![IMAGE ALT TEXT HERE](/fig/lcss_proposed.gif) -->
 
-<!-- ### --Under revision-- -->
+### Ongoing works
 
+- LLM-based Ship Collision Avoidance
+- Koopman Operator-based Robust Ship Heading Control
+- Trajectory Optimization & TRN of UUV
+- Adaptive Tube-based MPC for Quadrotors
+- Launch and Recovery Trajectory Planning and Control
 
 # International
-
 
 
 ## Journal (Under review)
