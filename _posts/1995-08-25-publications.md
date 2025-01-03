@@ -48,7 +48,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/dd.png" alt="Image" style="width: 200px; margin-right: 15px;">
+    <img src="/fig/recovery_planning.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <b>[J14] MPC-CBF for Recovery Trajectory Planning and Control of ASVs </b> <br>
         <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
