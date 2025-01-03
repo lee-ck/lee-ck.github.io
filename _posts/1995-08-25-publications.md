@@ -49,9 +49,9 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/dockingdd.png" alt="Image" style="width: 200px; margin-right: 15px;">
+    <img src="/fig/adaptive_tube.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J13] Adaptive Tube-based MPC for ~ </b> <br>
+        <b>[J13] Dynamic Tube MPC based on L1 Adaptive Control </b> <br>
         <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
     </div>
 </div>
@@ -59,9 +59,9 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/dockingdd.png" alt="Image" style="width: 200px; margin-right: 15px;">
+    <img src="/fig/CEP_L1.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J12] Head Point-based Adaptive Nonlinear MPC ~ </b> <br>
+        <b>[J12] Hand point-based Adaptive Nonlinear MPC for Robust Trajectory Tracking of Underactuated Surface Vehicles </b> <br>
         Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
     </div>
 </div>
