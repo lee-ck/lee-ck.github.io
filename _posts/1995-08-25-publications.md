@@ -60,7 +60,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/adaptive_tube.gif" alt="Image" style="width: 200px; margin-right: 15px;">
+    <img src="/fig/adaptive_tube2.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <b>[J13] Dynamic Tube MPC based on L1 Adaptive Control </b> <br>
         <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
