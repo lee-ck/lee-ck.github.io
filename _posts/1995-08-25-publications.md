@@ -47,7 +47,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ## Journal (In preparation)
 
----
+<!-- ---
 
 <div style="display: flex; align-items: center;">
     <img src="/fig/recovery_planning.png" alt="Image" style="width: 200px; margin-right: 15px;">
@@ -56,7 +56,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <b>Changyu Lee</b>$^\dagger$, Kiyong Park$^\dagger$, Jinwhan Kim* <br>
         <b>($^\dagger$: equally contributed) </b>
     </div>
-</div>
+</div> -->
 
 ---
 
