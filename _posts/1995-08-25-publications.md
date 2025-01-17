@@ -73,7 +73,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/CEP_L1.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J12] Hand point-based Adaptive Nonlinear MPC for Robust Trajectory Tracking of Underactuated Surface Vehicles </b> <br>
+        <b>[J12] Hand Position-based $\mathcal{L}_1$-Model Predictive Control for Robust Trajectory Tracking of Surface Vehicles </b> <br>
         Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
     </div>
 </div>
