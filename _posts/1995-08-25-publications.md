@@ -45,7 +45,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 # International 
 
 
-## Journal (In preparation)
+<!-- ## Journal (In preparation) -->
 
 <!-- ---
 
@@ -58,9 +58,9 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     </div>
 </div> -->
 
----
+<!-- --- -->
 
-<div style="display: flex; align-items: center;">
+<!-- <div style="display: flex; align-items: center;">
     <img src="/fig/adaptive_tube2.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <b>[J13] Dynamic Tube MPC with an $\mathcal{L}_1$ Adaptive Approach </b> <br>
@@ -88,10 +88,10 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     </div>
 </div>
 
----
+--- -->
 
-## Journal (Under review)
-
+<!-- ## Journal (Under review) -->
+<!-- 
 ---
 
 <div style="display: flex; align-items: center;">
@@ -106,7 +106,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     </div>
 </div>
 
----
+--- -->
 
 ## Journal (Published)
 
