@@ -83,7 +83,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/docking.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J11] Safety-Enhanced Berthing Control of Surface Ships Under Environmental Disturbance Zonotope Basd Reachability Analysis</b> <br>
+        <b>[J11] Safety-Enhanced Control Strategy for Surface Ships Berthing Using Backward and Forward Reachability Analysis</b> <br>
         Jinwook Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
     </div>
 </div>
