@@ -89,9 +89,9 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ---
 
-## Journal (Under review)
+<!-- ## Journal (Under review)
 
----
+--- -->
 
 <div style="display: flex; align-items: center;">
     <img src="/fig/tccbf.gif" alt="Image" style="width: 200px; margin-right: 15px;">
