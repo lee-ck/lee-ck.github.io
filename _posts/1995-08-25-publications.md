@@ -62,8 +62,8 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/tccbf_colregs.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J14] COLREGS + TC-CBF for Ship Collision Avoidance </b> <br>
-        <b>Changyu Lee</b>, Jinwhan Kim* <br>
+        <b>[J14] Control Barrier Function-based COLREGs-Compliant Collision Avoidance for Autonomous Surface Ships </b> <br>
+        <b>Changyu Lee</b>, Jinwook Park, Jinwhan Kim* <br>
     </div>
 </div>
 ---
