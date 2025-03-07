@@ -70,16 +70,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/adaptive_tube2.gif" alt="Image" style="width: 200px; margin-right: 15px;">
-    <div>
-        <b>[J13] Dynamic Tube-based MPC with $\mathcal{L}_1$ Adaptation for Improved Uncertainty Compensation </b> <br>
-        <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
-    </div>
-</div>
-
----
-
-<div style="display: flex; align-items: center;">
     <img src="/fig/CEP_L1.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <b>[J12] Hand Position-based $\mathcal{L}_1$-Model Predictive Control for Robust Trajectory Tracking of Underactuated Surface Vehicles </b> <br>
@@ -89,6 +79,16 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ---
 ## Journal (Under review)
+
+---
+
+<div style="display: flex; align-items: center;">
+    <img src="/fig/adaptive_tube2.gif" alt="Image" style="width: 200px; margin-right: 15px;">
+    <div>
+        <b>[J13] Dynamic Tube-based MPC with $\mathcal{L}_1$ Adaptation for Improved Uncertainty Compensation </b> <br>
+        <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
+    </div>
+</div>
 
 ---
 
