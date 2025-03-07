@@ -72,7 +72,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/CEP_L1.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J12] Hand Position-based $\mathcal{L}_1$-Model Predictive Control for Robust Trajectory Tracking of Underactuated Surface Vehicles </b> <br>
+        <b>[J13] Hand Position-based $\mathcal{L}_1$-Model Predictive Control for Robust Trajectory Tracking of Underactuated Surface Vehicles </b> <br>
         Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
     </div>
 </div>
@@ -82,22 +82,22 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ---
 
+
 <div style="display: flex; align-items: center;">
-    <img src="/fig/adaptive_tube2.gif" alt="Image" style="width: 200px; margin-right: 15px;">
+    <img src="/fig/docking.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J13] Dynamic Tube-based MPC with $\mathcal{L}_1$ Adaptation for Improved Uncertainty Compensation </b> <br>
-        <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
+        <b>[J12] Safety-Enhanced Control Strategy for Surface Ships Berthing Using Backward and Forward Reachability Analysis</b> <br>
+        Jinwook Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
     </div>
 </div>
 
 ---
 
-
 <div style="display: flex; align-items: center;">
-    <img src="/fig/docking.png" alt="Image" style="width: 200px; margin-right: 15px;">
+    <img src="/fig/adaptive_tube2.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J11] Safety-Enhanced Control Strategy for Surface Ships Berthing Using Backward and Forward Reachability Analysis</b> <br>
-        Jinwook Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
+        <b>[J11] Dynamic Tube-based MPC with $\mathcal{L}_1$ Adaptation for Improved Uncertainty Compensation </b> <br>
+        <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
     </div>
 </div>
 
