@@ -69,6 +69,10 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 </div>
 ---
 
+## Journal (Under review)
+
+---
+
 <div style="display: flex; align-items: center;">
     <img src="/fig/CEP_L1.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
@@ -78,10 +82,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 </div>
 
 ---
-## Journal (Under review)
-
----
-
 
 <div style="display: flex; align-items: center;">
     <img src="/fig/docking.png" alt="Image" style="width: 200px; margin-right: 15px;">
