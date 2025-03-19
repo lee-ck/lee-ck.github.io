@@ -61,7 +61,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/tccbf_colregs.gif" alt="Image" style="width: 200px; margin-right: 15px;">
+    <img src="/fig/llm.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <b>[J15] ShipQA: Large Language Model based Ship-to-Ship Navigational Question and Answering </b> <br>
         Yeongha Shin, <b>Changyu Lee</b>, Jinwhan Kim* <br>
@@ -70,7 +70,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/tccbf_colregs.gif" alt="Image" style="width: 200px; margin-right: 15px;">
+    <img src="/fig/tccbf_colreg.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <b>[J14] Control Barrier Function-based COLREGs-Compliant Collision Avoidance for Autonomous Surface Ships </b> <br>
         <b>Changyu Lee</b>, Jinwook Park, Jinwhan Kim* <br>
@@ -306,6 +306,24 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 ## Conference
 
 ---
+
+<div style="display: flex; align-items: center;">
+    <div>
+        <p style="font-size:110%; margin: 0;">
+            <b>[C7] Adaptive MPC for Trajectory Tracking of Surface Vehicles in the Presence of Uncertainty</b>
+        </p>
+        <p style="font-size:105%; margin: 0;">
+            <font color="navy"> Oceans, 2025 </font>
+        </p>      
+        Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim*
+        <div style="display: flex; align-items: center;">
+        <a href="https://ieeexplore.ieee.org/abstract/document/10384235"> Paper </a>
+        </div>
+    </div>
+</div>
+
+---
+
 
 <div style="display: flex; align-items: center;">
     <div>
