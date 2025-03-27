@@ -63,7 +63,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/llm.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J15] ShipQA: Large Language Model based Ship-to-Ship Navigational Question and Answering </b> <br>
+        <b>[J15] MARQA: Bridging Human and Autonomous Ship Operations Through Large Language Model-Based Navigational Reasoning </b> <br>
         Yeongha Shin, <b>Changyu Lee</b>, Jinwhan Kim* <br>
     </div>
 </div>
@@ -72,7 +72,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/tccbf_colreg.gif" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J14] Control Barrier Function-based COLREGs-Compliant Collision Avoidance for Autonomous Surface Ships </b> <br>
+        <b>[J14] Efficient COLREGs-Compliant Collision Avoidance using Turning Circle-based Control Barrier Function </b> <br>
         <b>Changyu Lee</b>, Jinwook Park, Jinwhan Kim* <br>
     </div>
 </div>
