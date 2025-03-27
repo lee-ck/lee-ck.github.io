@@ -74,6 +74,10 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <div>
         <b>[J14] Efficient COLREGs-Compliant Collision Avoidance using Turning Circle-based Control Barrier Function </b> <br>
         <b>Changyu Lee</b>, Jinwook Park, Jinwhan Kim* <br>
+        <div style="display: flex; align-items: center;">        
+        <a href="https://youtu.be/TujWKvx-GDQ"> Video 1</a>
+        <a href="https://youtu.be/bBjPDJtwvZQ"> Video 2</a>
+        </div>
     </div>
 </div>
 ---
