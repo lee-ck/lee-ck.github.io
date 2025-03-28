@@ -27,8 +27,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <!-- ![IMAGE ALT TEXT HERE](/fig/ncbf.jpg) -->
 
 
-<!-- ${\color{blue}\it 11.}$ ***Changyu Lee***, Jinwhan Kim*, "Robust Trajectory Planning and Control for Quadrotor", IEEE Control Systems Letters (L-CSS) -->
-
 <!-- ![IMAGE ALT TEXT HERE](/fig/lcss.gif) -->
 
 
@@ -47,16 +45,25 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ## Journal (In preparation)
 
-<!-- ---
+---
+
+<div style="display: flex; align-items: center;">
+    <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
+    <div>
+        <b>[J17] Koopman Operator-based Tube MPC for Robust Heading Control of ASVs </b> <br>
+        <b>Changyu Lee</b>, Jinwhan Kim* <br>
+    </div>
+</div>
+
+---
 
 <div style="display: flex; align-items: center;">
     <img src="/fig/recovery_planning.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J14] Robut MPC-CBF for Recovery Trajectory Planning and Control of ASVs </b> <br>
-        <b>Changyu Lee</b>$^\dagger$, Kiyong Park$^\dagger$, Jinwhan Kim* <br>
-        <b>($^\dagger$: equally contributed) </b>
+        <b>[J16] Robut MPC-CBF for Recovery Trajectory Planning and Control of ASVs </b> <br>
+        <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
     </div>
-</div> -->
+</div>
 
 ---
 
