@@ -82,7 +82,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <b>[J14] Efficient COLREGs-Compliant Collision Avoidance using Turning Circle-based Control Barrier Function </b> <br>
         <b>Changyu Lee</b>, Jinwook Park, Jinwhan Kim* <br>
         <div style="display: flex; align-items: center;">        
-        <a href="https://youtu.be/TujWKvx-GDQ"> Video 1 </a>
+        <a href="https://youtu.be/TujWKvx-GDQ"> Video 1 </a> &nbsp;
         <a href="https://youtu.be/bBjPDJtwvZQ"> Video 2 </a>
         </div>
     </div>
@@ -98,6 +98,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <div>
         <b>[J13] Hand Position-based $\mathcal{L}_1$-Model Predictive Control for Robust Trajectory Tracking of Underactuated Surface Vehicles </b> <br>
         Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
+        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5177223"> Paper </a> &nbsp;
     </div>
 </div>
 
