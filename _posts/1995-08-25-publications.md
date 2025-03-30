@@ -45,7 +45,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 
 ## Journal (In preparation)
 
----
+<!-- ---
 
 <div style="display: flex; align-items: center;">
     <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
@@ -63,7 +63,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         <b>[J16] Robut MPC-CBF for Recovery Trajectory Planning and Control of ASVs </b> <br>
         <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
     </div>
-</div>
+</div> -->
 
 ---
 
@@ -322,7 +322,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <div>
         <p style="font-size:110%; margin: 0;">
-            <b>[C7] Adaptive MPC for Trajectory Tracking of Surface Vehicles in the Presence of Uncertainty</b>
+            <b>[C7] Robust Trajectory Tracking for Surface Vehicles via L1-Augmented Model Predictive Control</b>
         </p>
         <p style="font-size:105%; margin: 0;">
             <font color="navy"> Oceans, 2025 </font>
