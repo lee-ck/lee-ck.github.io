@@ -51,7 +51,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <b>[J17] Koopman Operator-based Tube MPC for Robust Heading Control of ASVs </b> <br>
-        <b>Changyu Lee</b>, Jinwhan Kim* <br>
+        <b>Changyu Lee</b>, Jiyong Choi, Jinwhan Kim* <br>
     </div>
 </div>
 
@@ -70,7 +70,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/llm.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J15] MARQA: Bridging Human and Autonomous Ship Operations Through Large Language Model-Based Navigational Reasoning </b> <br>
+        <b>[J15] MARQA: LLM-Based Question Answering for Negotiation-Capable Autonomous Ship Navigation </b> <br>
         Yeongha Shin, <b>Changyu Lee</b>, Jinwhan Kim* <br>
     </div>
 </div>
