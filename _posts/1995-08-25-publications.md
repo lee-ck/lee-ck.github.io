@@ -50,7 +50,27 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J17] Koopman Operator-based Tube MPC for Robust Heading Control of ASVs </b> <br>
+        <b>[J19] DeepReach </b> <br> - 올해 말까지
+        <b>Changyu Lee</b>, Kiyong Park, Jinwook Park, Jinwhan Kim* <br>
+    </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
+    <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
+    <div>
+        <b>[J18] UUV control + TRN + CBF ..?? </b> <br> - 9월 전
+        <b>Changyu Lee</b>, Jiyong Choi, Jinwhan Kim* <br>
+    </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
+    <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
+    <div>
+        <b>[J17] Koopman Operator-based Tube MPC for Robust Heading Control of ASVs </b> <br> - 6월 전
         <b>Changyu Lee</b>, Jiyong Choi, Jinwhan Kim* <br>
     </div>
 </div>
@@ -60,7 +80,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
 <div style="display: flex; align-items: center;">
     <img src="/fig/recovery_planning.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J16] Robut MPC-CBF for Recovery Trajectory Planning and Control of ASVs </b> <br>
+        <b>[J16] Robut MPC-CBF for Recovery Trajectory Planning and Control of ASVs </b> <br> - 7월 전
         <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
     </div>
 </div> -->
