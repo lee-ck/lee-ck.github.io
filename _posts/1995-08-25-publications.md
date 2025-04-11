@@ -9,39 +9,7 @@ toc: true
 
 &larr; visit my google scholar
 
-<!-- ### --In preparation--
-
-Tube-based LOS-MPC for Underactuated Ship Path Following -->
-
-<!-- PVKO-Pohang SI Data + Koopman MPC -->
-
-
-<!-- "Safety-guranteed Ship control ~ using DKTMPC (Deep Koopman operator TMPC)" T -->
-
-<!-- Dongha Chung, Jonghwi Kim, ***Changyu Lee***, Jinwhan Kim*, "Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters", In prep., 2023
-
-***Changyu Lee***, Quoc Van Tran, Jinwhan Kim*, "Safety-Guaranteed Ship Berthing using Cascade Tube-based Model Predictive Control", In prep., 2023
-
-Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Detection and Path Folloing Control for Autonomous Ship Navigation in Narrow Waterways", under review, 2023 -->
-
-<!-- ![IMAGE ALT TEXT HERE](/fig/ncbf.jpg) -->
-
-
-<!-- ![IMAGE ALT TEXT HERE](/fig/lcss.gif) -->
-
-
-<!-- ![IMAGE ALT TEXT HERE](/fig/lcss_proposed.gif) -->
-
-
-
-<!-- ### Ongoing works
-
-- LLM-based Ship Collision Avoidance
-- Koopman Operator-based Robust Ship Heading Control
-- Trajectory Optimization & TRN of UUV -->
-
 # International 
-
 
 ## Journal (In preparation)
 
@@ -61,7 +29,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <b>[J18] UUV control + TRN + CBF ..?? </b> <br> - 9월 전
-        <b>Changyu Lee</b>, Jiyong Choi, Jinwhan Kim* <br>
+        <b>Changyu Lee</b>, Hyunkuen Cho, Jinwhan Kim* <br>
     </div>
 </div>
 
@@ -71,7 +39,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <b>[J17] Koopman Operator-based Tube MPC for Robust Heading Control of ASVs </b> <br> - 6월 전
-        <b>Changyu Lee</b>, Jiyong Choi, Jinwhan Kim* <br>
+        Jiyong Choi, <b>Changyu Lee</b>, Jinwhan Kim* <br>
     </div>
 </div>
 
@@ -81,9 +49,12 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
     <img src="/fig/recovery_planning.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <b>[J16] Robut MPC-CBF for Recovery Trajectory Planning and Control of ASVs </b> <br> - 7월 전
-        <b>Changyu Lee</b>, Kiyong Park, Jinwhan Kim* <br>
+        Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
     </div>
 </div> -->
+
+
+## Journal (Under review)
 
 ---
 
@@ -94,6 +65,7 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         Yeongha Shin, <b>Changyu Lee</b>, Jinwhan Kim* <br>
     </div>
 </div>
+
 ---
 
 <div style="display: flex; align-items: center;">
@@ -107,9 +79,6 @@ Jonghwi Kim, ***Changyu Lee***, Dongha Chung, Jinwhan Kim*, "Navigable Area Dete
         </div>
     </div>
 </div>
----
-
-## Journal (Under review)
 
 ---
 
