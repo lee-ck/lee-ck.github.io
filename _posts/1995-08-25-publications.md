@@ -13,45 +13,35 @@ toc: true
 
 ## Journal (In preparation)
 
-<!-- ---
 
-<div style="display: flex; align-items: center;">
-    <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
-    <div>
-        <b>[J19] DeepReach </b> <br> - 올해 말까지
-        <b>Changyu Lee</b>, Kiyong Park, Jinwook Park, Jinwhan Kim* <br>
-    </div>
-</div>
+
+<!-- --- 진욱 VO-CBF
+<b>[J20] VO CBF </b> <br> - 올해 말까지
+Yeongha Shin, <b>Changyu Lee</b>, Jinwhan Kim* <br>
+
+--- 영하 LLM CBF Multi-vessel
+<b>[J19] LLM COLAV Multi Vessel Traffic </b> <br> - 올해 말까지
+Yeongha Shin, <b>Changyu Lee</b>, Jinwhan Kim* <br>
+
+--- 지용 Koopman MPC 
+<b>[J18] Koopman Operator-based Tube MPC for Robust Heading Control of ASVs </b> <br> - 6월 전
+Jiyong Choi, <b>Changyu Lee</b>, Jinwhan Kim* <br>
+
+--- 기용 Recovery planning and control 
+<b>[J17] Robut MPC-CBF for Recovery Trajectory Planning and Control of ASVs </b> <br> - 7월 전
+Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br> -->
 
 ---
 
 <div style="display: flex; align-items: center;">
     <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
-        <b>[J18] UUV control + TRN + CBF ..?? </b> <br> - 9월 전
+        <b>[J16] Underwater vehicle control + TRN </b> <br> 
         <b>Changyu Lee</b>, Hyunkuen Cho, Jinwhan Kim* <br>
     </div>
 </div>
 
----
 
-<div style="display: flex; align-items: center;">
-    <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
-    <div>
-        <b>[J17] Koopman Operator-based Tube MPC for Robust Heading Control of ASVs </b> <br> - 6월 전
-        Jiyong Choi, <b>Changyu Lee</b>, Jinwhan Kim* <br>
-    </div>
-</div>
-
----
-
-<div style="display: flex; align-items: center;">
-    <img src="/fig/recovery_planning.png" alt="Image" style="width: 200px; margin-right: 15px;">
-    <div>
-        <b>[J16] Robut MPC-CBF for Recovery Trajectory Planning and Control of ASVs </b> <br> - 7월 전
-        Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
-    </div>
-</div> -->
 
 
 ## Journal (Under review)
