@@ -36,6 +36,15 @@ Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br> -->
 <div style="display: flex; align-items: center;">
     <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
+        <b>[J17] Robut Recovery Trajectory Planning and Control of ASVs using Reachability Analysis </b> <br> 
+        <b>Changyu Lee</b>, <b>Kiyong Park</b>, Jinwhan Kim* <br>
+    </div>
+</div>
+
+
+<div style="display: flex; align-items: center;">
+    <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
+    <div>
         <b>[J16] Underwater vehicle control + TRN </b> <br> 
         <b>Changyu Lee</b>, Hyunkuen Cho, Jinwhan Kim* <br>
     </div>
