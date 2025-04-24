@@ -73,7 +73,7 @@ Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br> -->
         <b>[J15] MARQA: LLM-Based Question Answering for Negotiation-Capable Autonomous Ship Navigation </b> <br>
         Yeongha Shin, <b>Changyu Lee</b>, Jinwhan Kim* <br>
         <div style="display: flex; align-items: center;">        
-        <a href="https://yeongha-shin.github.io/MARQA/"> Project </a> 
+        <a href="https://yeongha-shin.github.io/MARQA/"> Project </a> &nbsp;
         </div>
 </div>
 
