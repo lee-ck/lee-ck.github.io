@@ -75,6 +75,7 @@ Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br> -->
         <div style="display: flex; align-items: center;">        
         <a href="https://yeongha-shin.github.io/MARQA/"> Project </a> &nbsp;
         </div>
+    </div>
 </div>
 
 ---
