@@ -11,7 +11,7 @@ toc: true
 
 # International 
 
-## Journal (In preparation)
+<!-- ## Journal (In preparation) -->
 
 
 
@@ -31,7 +31,7 @@ Jiyong Choi, <b>Changyu Lee</b>, Jinwhan Kim* <br>
 <b>[J17] Robut MPC-CBF for Recovery Trajectory Planning and Control of ASVs </b> <br> - 7월 전
 Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br> -->
 
----
+<!-- ---
 
 <div style="display: flex; align-items: center;">
     <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
@@ -48,12 +48,22 @@ Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br> -->
         <b>[J16] Underwater vehicle control + TRN </b> <br> 
         <b>Changyu Lee</b>, Hyunkuen Cho, Jinwhan Kim* <br>
     </div>
+</div> -->
+
+
+
+## Journal (Pre)
+
+---
+
+
+<div style="display: flex; align-items: center;">
+    <img src="/fig/llms.png" alt="Image" style="width: 200px; margin-right: 15px;">
+    <div>
+        <b>[J16] Robust Collision Avoidance for Autonomous Ships with Enhanced COLREGs Compliance Using Hamilton-Jacobi Reachability </b> <br>
+        Jinwook Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
+    </div>
 </div>
-
-
-
-
-## Journal (Under review)
 
 ---
 
@@ -62,7 +72,9 @@ Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br> -->
     <div>
         <b>[J15] MARQA: LLM-Based Question Answering for Negotiation-Capable Autonomous Ship Navigation </b> <br>
         Yeongha Shin, <b>Changyu Lee</b>, Jinwhan Kim* <br>
-    </div>
+        <div style="display: flex; align-items: center;">        
+        <a href="https://yeongha-shin.github.io/MARQA/"> Project </a> 
+        </div>
 </div>
 
 ---
