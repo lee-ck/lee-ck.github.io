@@ -58,7 +58,7 @@ Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br> -->
 
 
 <div style="display: flex; align-items: center;">
-    <img src="/fig/llms.png" alt="Image" style="width: 200px; margin-right: 15px;">
+    <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
     <div>
         <b>[J16] Robust Collision Avoidance for Autonomous Ships with Enhanced COLREGs Compliance Using Hamilton-Jacobi Reachability </b> <br>
         Jinwook Park, <b>Changyu Lee</b>, Jinwhan Kim* <br>
