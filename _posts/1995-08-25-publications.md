@@ -11,7 +11,7 @@ toc: true
 
 # International 
 
-<!-- ## Journal (In preparation) -->
+## Journal (In preparation)
 
 
 
@@ -31,7 +31,7 @@ Jiyong Choi, <b>Changyu Lee</b>, Jinwhan Kim* <br>
 <b>[J17] Robut MPC-CBF for Recovery Trajectory Planning and Control of ASVs </b> <br> - 7월 전
 Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br> -->
 
-<!-- ---
+---
 
 <div style="display: flex; align-items: center;">
     <img src="/fig/white.png" alt="Image" style="width: 200px; margin-right: 15px;">
@@ -48,11 +48,11 @@ Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br> -->
         <b>[J16] Underwater vehicle control + TRN </b> <br> 
         <b>Changyu Lee</b>, Hyunkuen Cho, Jinwhan Kim* <br>
     </div>
-</div> -->
+</div>
 
 
 
-## Journal (Pre)
+## Journal (Under review)
 
 ---
 
@@ -73,6 +73,7 @@ Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br> -->
         <b>[J15] MARQA: LLM-Based Question Answering for Negotiation-Capable Autonomous Ship Navigation </b> <br>
         Yeongha Shin, <b>Changyu Lee</b>, Jinwhan Kim* <br>
         <div style="display: flex; align-items: center;">        
+        <a href="https://yeongha-shin.github.io/MARQA/"> Paper </a> &nbsp;
         <a href="https://yeongha-shin.github.io/MARQA/"> Project </a> &nbsp;
         </div>
     </div>
@@ -86,6 +87,7 @@ Kiyong Park, <b>Changyu Lee</b>, Jinwhan Kim* <br> -->
         <b>[J14] Efficient COLREGs-Compliant Collision Avoidance using Turning Circle-based Control Barrier Function </b> <br>
         <b>Changyu Lee</b>, Jinwook Park, Jinwhan Kim* <br>
         <div style="display: flex; align-items: center;">        
+        <a href="https://arxiv.org/abs/2504.19247"> Paper </a> &nbsp;
         <a href="https://youtu.be/TujWKvx-GDQ"> Video 1 </a> &nbsp;
         <a href="https://youtu.be/bBjPDJtwvZQ"> Video 2 </a>
         </div>
